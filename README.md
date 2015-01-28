@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 [yED](http://www.yworks.com/en/products/yfiles/yed/) is an awesome diagraming software.
 
 [AWS](https://aws.amazon.com/) is Amazon Web Services. It appears in infrastructure / architecture diagrams.
