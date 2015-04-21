@@ -20,6 +20,7 @@ for category_dir in $svgdir/*; do
     echo
     echo "Starting category $category"
     ls "$category_dir/SVG" \
+    | sort -f \
     | cut -f2 -d_ \
     | sed -e 's/\.svg$//' \
     | python ./add_tooltips.py "AWS - $category.graphml"

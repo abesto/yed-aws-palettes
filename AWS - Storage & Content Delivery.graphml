@@ -17,7 +17,7 @@
   <ns0:graph edgedefault="directed" id="G">
     <ns0:node id="n0">
       <ns0:data key="d3">dace5f46-397f-4a72-ae61-ef4c39420e49</ns0:data>
-      <ns0:data key="d4">AWS Import Export</ns0:data>
+      <ns0:data key="d4">Amazon CloudFront Download Distribution</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -34,7 +34,7 @@
     </ns0:node>
     <ns0:node id="n1">
       <ns0:data key="d3">314c6dff-647c-4a68-837d-0aeb73c91058</ns0:data>
-      <ns0:data key="d4">AWS Storage Gateway</ns0:data>
+      <ns0:data key="d4">Amazon CloudFront Edge Location</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -51,7 +51,7 @@
     </ns0:node>
     <ns0:node id="n2">
       <ns0:data key="d3">bbe476af-8037-4cf8-9cd3-de18443a4fb1</ns0:data>
-      <ns0:data key="d4">Amazon CloudFront Download Distribution</ns0:data>
+      <ns0:data key="d4">Amazon CloudFront Streaming Distribution</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -68,7 +68,7 @@
     </ns0:node>
     <ns0:node id="n3">
       <ns0:data key="d3">3de6f0b0-3ac8-48b2-be8e-db55668231ed</ns0:data>
-      <ns0:data key="d4">Amazon CloudFront Edge Location</ns0:data>
+      <ns0:data key="d4">Amazon CloudFront</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -85,7 +85,7 @@
     </ns0:node>
     <ns0:node id="n4">
       <ns0:data key="d3">8d43d57f-0108-41b9-a6fb-01be50895bdf</ns0:data>
-      <ns0:data key="d4">Amazon CloudFront Streaming Distribution</ns0:data>
+      <ns0:data key="d4">Amazon EBS Snapshot</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -102,7 +102,7 @@
     </ns0:node>
     <ns0:node id="n5">
       <ns0:data key="d3">e5aa7798-8102-44e6-b567-11c0f9f7b163</ns0:data>
-      <ns0:data key="d4">Amazon CloudFront</ns0:data>
+      <ns0:data key="d4">Amazon EBS Volume</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -119,7 +119,7 @@
     </ns0:node>
     <ns0:node id="n6">
       <ns0:data key="d3">bf9a46e2-8235-400c-af94-f957fc6b4c84</ns0:data>
-      <ns0:data key="d4">Amazon EBS Snapshot</ns0:data>
+      <ns0:data key="d4">Amazon EBS</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -136,7 +136,7 @@
     </ns0:node>
     <ns0:node id="n7">
       <ns0:data key="d3">2b8dbfb1-7e14-4986-baf6-2641438b9325</ns0:data>
-      <ns0:data key="d4">Amazon EBS Volume</ns0:data>
+      <ns0:data key="d4">Amazon Glacier Archive</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -153,7 +153,7 @@
     </ns0:node>
     <ns0:node id="n8">
       <ns0:data key="d3">eb81b47c-bd97-476a-ac2b-547ce6ec9d5d</ns0:data>
-      <ns0:data key="d4">Amazon EBS</ns0:data>
+      <ns0:data key="d4">Amazon Glacier Vault</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -170,7 +170,7 @@
     </ns0:node>
     <ns0:node id="n9">
       <ns0:data key="d3">87b49b6f-7639-41b3-ba51-bc8ec634b5f1</ns0:data>
-      <ns0:data key="d4">Amazon Glacier Archive</ns0:data>
+      <ns0:data key="d4">Amazon Glacier</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -187,7 +187,7 @@
     </ns0:node>
     <ns0:node id="n10">
       <ns0:data key="d3">213236b5-f1f9-4035-8339-41d4590bb69d</ns0:data>
-      <ns0:data key="d4">Amazon Glacier Vault</ns0:data>
+      <ns0:data key="d4">Amazon S3 Bucket with Objects</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -204,7 +204,7 @@
     </ns0:node>
     <ns0:node id="n11">
       <ns0:data key="d3">4d4df2af-f0bd-4215-8330-4c7b3826e90c</ns0:data>
-      <ns0:data key="d4">Amazon Glacier</ns0:data>
+      <ns0:data key="d4">Amazon S3 Bucket</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -221,7 +221,7 @@
     </ns0:node>
     <ns0:node id="n12">
       <ns0:data key="d3">ef510c45-41d2-445a-987a-aeca595988df</ns0:data>
-      <ns0:data key="d4">Amazon S3 Bucket with Objects</ns0:data>
+      <ns0:data key="d4">Amazon S3 Objects</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -238,7 +238,7 @@
     </ns0:node>
     <ns0:node id="n13">
       <ns0:data key="d3">554fd68b-e5af-4b81-bb51-d2924bb7bd55</ns0:data>
-      <ns0:data key="d4">Amazon S3 Bucket</ns0:data>
+      <ns0:data key="d4">Amazon S3</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -255,7 +255,7 @@
     </ns0:node>
     <ns0:node id="n14">
       <ns0:data key="d3">3231f76b-7fcf-4d86-a051-889391bf2940</ns0:data>
-      <ns0:data key="d4">Amazon S3 Objects</ns0:data>
+      <ns0:data key="d4">AWS Import Export</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -272,7 +272,7 @@
     </ns0:node>
     <ns0:node id="n15">
       <ns0:data key="d3">ed34b44c-a407-4e1a-bed3-61e3b60b6327</ns0:data>
-      <ns0:data key="d4">Amazon S3</ns0:data>
+      <ns0:data key="d4">AWS Storage Gateway</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>

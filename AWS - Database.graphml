@@ -221,7 +221,7 @@
     </ns0:node>
     <ns0:node id="n12">
       <ns0:data key="d3">4c64331b-b397-488d-a52d-1750a0db03c9</ns0:data>
-      <ns0:data key="d4">Amazon RedShift</ns0:data>
+      <ns0:data key="d4">Amazon Redshift DW1 Cluster</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -238,7 +238,7 @@
     </ns0:node>
     <ns0:node id="n13">
       <ns0:data key="d3">47cd5dee-f4b1-4b4e-9aad-d2c6de3f2c8e</ns0:data>
-      <ns0:data key="d4">Amazon Redshift DW1 Cluster</ns0:data>
+      <ns0:data key="d4">Amazon Redshift DW2 Cluster</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -255,7 +255,7 @@
     </ns0:node>
     <ns0:node id="n14">
       <ns0:data key="d3">a952b496-b2a7-4f42-b78c-14245dd16335</ns0:data>
-      <ns0:data key="d4">Amazon Redshift DW2 Cluster</ns0:data>
+      <ns0:data key="d4">Amazon Redshift SSD Family Cluster</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -272,7 +272,7 @@
     </ns0:node>
     <ns0:node id="n15">
       <ns0:data key="d3">715af93e-5abc-4906-9662-6e77ce2e7682</ns0:data>
-      <ns0:data key="d4">Amazon Redshift SSD Family Cluster</ns0:data>
+      <ns0:data key="d4">Amazon RedShift</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>

@@ -323,7 +323,7 @@
     </ns0:node>
     <ns0:node id="n18">
       <ns0:data key="d3">cf2ef07e-b7ba-439a-9876-b8340b5d3342</ns0:data>
-      <ns0:data key="d4">IAM STS</ns0:data>
+      <ns0:data key="d4">IAM Security Token Service</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -340,7 +340,7 @@
     </ns0:node>
     <ns0:node id="n19">
       <ns0:data key="d3">58cfd85b-b989-41a7-b2d8-fa784879150b</ns0:data>
-      <ns0:data key="d4">IAM Security Token Service</ns0:data>
+      <ns0:data key="d4">IAM Short Term Credentials</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -357,7 +357,7 @@
     </ns0:node>
     <ns0:node id="n20">
       <ns0:data key="d3">d4fdc58b-f471-4380-800b-b87e58629e82</ns0:data>
-      <ns0:data key="d4">IAM Short Term Credentials</ns0:data>
+      <ns0:data key="d4">IAM STS</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>

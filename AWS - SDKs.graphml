@@ -17,7 +17,7 @@
   <ns0:graph edgedefault="directed" id="G">
     <ns0:node id="n0">
       <ns0:data key="d3">2dc8e208-23a9-46b1-8af0-7e926d6bcf15</ns0:data>
-      <ns0:data key="d4">AWS Toolkit for Eclipse</ns0:data>
+      <ns0:data key="d4">Android</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -34,7 +34,7 @@
     </ns0:node>
     <ns0:node id="n1">
       <ns0:data key="d3">fa185ef1-ffcc-48d6-b082-969b45268e5f</ns0:data>
-      <ns0:data key="d4">AWS Toolkit for Visual Studio</ns0:data>
+      <ns0:data key="d4">AWS Toolkit for Eclipse</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -51,7 +51,7 @@
     </ns0:node>
     <ns0:node id="n2">
       <ns0:data key="d3">e4a230ab-0226-46a8-85da-e348c28d1387</ns0:data>
-      <ns0:data key="d4">Android</ns0:data>
+      <ns0:data key="d4">AWS Toolkit for Visual Studio</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -85,7 +85,7 @@
     </ns0:node>
     <ns0:node id="n4">
       <ns0:data key="d3">a645b073-acaf-4ce0-9996-07286dd96e95</ns0:data>
-      <ns0:data key="d4">Java</ns0:data>
+      <ns0:data key="d4">iOS</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -102,7 +102,7 @@
     </ns0:node>
     <ns0:node id="n5">
       <ns0:data key="d3">811a2e62-8d69-4256-a91d-2796be14bea6</ns0:data>
-      <ns0:data key="d4">Net</ns0:data>
+      <ns0:data key="d4">Java</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -119,7 +119,7 @@
     </ns0:node>
     <ns0:node id="n6">
       <ns0:data key="d3">ce49de76-998e-48f5-9870-ffda6f2f54cc</ns0:data>
-      <ns0:data key="d4">PHP</ns0:data>
+      <ns0:data key="d4">Net</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -136,7 +136,7 @@
     </ns0:node>
     <ns0:node id="n7">
       <ns0:data key="d3">0bfc124f-b274-40ae-8125-857f91fc8ac6</ns0:data>
-      <ns0:data key="d4">Python</ns0:data>
+      <ns0:data key="d4">nodeJS</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -153,7 +153,7 @@
     </ns0:node>
     <ns0:node id="n8">
       <ns0:data key="d3">1a706111-86db-42ba-95c9-2d4db0c7aadb</ns0:data>
-      <ns0:data key="d4">Ruby</ns0:data>
+      <ns0:data key="d4">PHP</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -170,7 +170,7 @@
     </ns0:node>
     <ns0:node id="n9">
       <ns0:data key="d3">49a2c0b3-1565-4fd8-91c4-e1875ca891de</ns0:data>
-      <ns0:data key="d4">Tools for Windows PowerShell</ns0:data>
+      <ns0:data key="d4">Python</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -187,7 +187,7 @@
     </ns0:node>
     <ns0:node id="n10">
       <ns0:data key="d3">7b010c46-24ce-48e0-ba63-be94022cfbdd</ns0:data>
-      <ns0:data key="d4">iOS</ns0:data>
+      <ns0:data key="d4">Ruby</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
@@ -204,7 +204,7 @@
     </ns0:node>
     <ns0:node id="n11">
       <ns0:data key="d3">28d1f411-0198-49b0-b35e-a5d941a012fc</ns0:data>
-      <ns0:data key="d4">nodeJS</ns0:data>
+      <ns0:data key="d4">Tools for Windows PowerShell</ns0:data>
       <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
