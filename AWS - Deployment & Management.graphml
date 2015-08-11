@@ -18,7 +18,6 @@
     <ns0:node id="n0">
       <ns0:data key="d3">6f4fcbc7-04cf-4daa-b31e-59d2e6d1f572</ns0:data>
       <ns0:data key="d4">CodeDeploy</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="288.0" width="238.40000915527344" x="0.0" y="30.0" />
@@ -35,7 +34,6 @@
     <ns0:node id="n1">
       <ns0:data key="d3">09559924-cc86-4309-9150-7aad7eba70da</ns0:data>
       <ns0:data key="d4">AWS CloudFormation Stack</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="49.10199737548828" width="64.43800354003906" x="268.40000915527344" y="149.44900131225586" />
@@ -52,7 +50,6 @@
     <ns0:node id="n2">
       <ns0:data key="d3">07930761-0434-4469-aa01-d714b86d3654</ns0:data>
       <ns0:data key="d4">AWS CloudFormation Template</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.763999938964844" width="48.83000183105469" x="362.8380126953125" y="145.61800003051758" />
@@ -69,7 +66,6 @@
     <ns0:node id="n3">
       <ns0:data key="d3">7a6171a5-bb2a-49d2-a2d7-568a69132d40</ns0:data>
       <ns0:data key="d4">AWS CloudFormation</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.144996643066406" x="441.6680145263672" y="138.0" />
@@ -86,7 +82,6 @@
     <ns0:node id="n4">
       <ns0:data key="d3">02dd3954-1e7d-4bb5-83cd-c8157248e31e</ns0:data>
       <ns0:data key="d4">AWS Data Pipeline</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.64599609375" x="530.8130111694336" y="138.0" />
@@ -103,7 +98,6 @@
     <ns0:node id="n5">
       <ns0:data key="d3">fa9fa207-2026-42d6-971f-59ebf7b2727a</ns0:data>
       <ns0:data key="d4">CloudTrail</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="71.9990005493164" width="59.6300048828125" x="620.4590072631836" y="138.0004997253418" />
@@ -120,7 +114,6 @@
     <ns0:node id="n6">
       <ns0:data key="d3">1f808ab5-4431-4471-9ec2-1fff1a360c6c</ns0:data>
       <ns0:data key="d4">CloudWatch Alarm</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="58.3800048828125" width="48.44499969482422" x="710.0890121459961" y="144.80999755859375" />
@@ -137,7 +130,6 @@
     <ns0:node id="n7">
       <ns0:data key="d3">35a8a36a-56a5-4a38-9f61-3b4becff6c1e</ns0:data>
       <ns0:data key="d4">CloudWatch</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="63.63800048828125" x="788.5340118408203" y="138.0" />
@@ -154,7 +146,6 @@
     <ns0:node id="n8">
       <ns0:data key="d3">f8bb0de5-dbc5-4fee-b1fc-dfa81905c05d</ns0:data>
       <ns0:data key="d4">Elastic Beanstalk Application</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.137001037597656" width="30.527999877929688" x="0.0" y="355.9114990234375" />
@@ -171,7 +162,6 @@
     <ns0:node id="n9">
       <ns0:data key="d3">deae7599-3e24-465b-933d-4d85fc201bd0</ns0:data>
       <ns0:data key="d4">Elastic Beanstalk Deployment</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="65.4739990234375" width="49.40299987792969" x="60.52799987792969" y="351.7430000305176" />
@@ -188,7 +178,6 @@
     <ns0:node id="n10">
       <ns0:data key="d3">c83c81e5-01e7-481e-9c73-492e91e80e27</ns0:data>
       <ns0:data key="d4">Elastic Beanstalk</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="52.02799987792969" x="139.93099975585938" y="348.4799995422363" />
@@ -205,7 +194,6 @@
     <ns0:node id="n11">
       <ns0:data key="d3">d50de0b1-5464-491e-9a10-3b837f6c16ec</ns0:data>
       <ns0:data key="d4">IAM Add-on</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="62.06900405883789" width="71.52899932861328" x="221.95899963378906" y="353.4454975128174" />
@@ -222,7 +210,6 @@
     <ns0:node id="n12">
       <ns0:data key="d3">a218403d-131f-4bb1-bd48-110c67eb5bac</ns0:data>
       <ns0:data key="d4">IAM Credentials</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="39.83199691772461" width="53.0" x="323.48799896240234" y="364.564001083374" />
@@ -239,7 +226,6 @@
     <ns0:node id="n13">
       <ns0:data key="d3">ea6b9550-b2f1-4cf0-acdb-5336af90d315</ns0:data>
       <ns0:data key="d4">IAM Data Encryption Key</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="53.34400177001953" width="40.76600646972656" x="406.48799896240234" y="357.80799865722656" />
@@ -256,7 +242,6 @@
     <ns0:node id="n14">
       <ns0:data key="d3">263cd3cb-560c-4e3a-a218-f46f848d17e7</ns0:data>
       <ns0:data key="d4">IAM Encrypted Data</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="49.0" width="38.0" x="477.2540054321289" y="359.9799995422363" />
@@ -273,7 +258,6 @@
     <ns0:node id="n15">
       <ns0:data key="d3">8b67c925-5195-4dd9-b1a7-4e43bd61d13e</ns0:data>
       <ns0:data key="d4">IAM MFA Token</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="55.0" width="55.0" x="545.2540054321289" y="356.9799995422363" />
@@ -290,7 +274,6 @@
     <ns0:node id="n16">
       <ns0:data key="d3">cc406825-040d-4143-a22f-3e491cab2b61</ns0:data>
       <ns0:data key="d4">IAM Permissions</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.0" width="42.0" x="630.2540054321289" y="355.9799995422363" />
@@ -307,7 +290,6 @@
     <ns0:node id="n17">
       <ns0:data key="d3">835091c9-3265-4cd7-8b4f-8b5bb9f68350</ns0:data>
       <ns0:data key="d4">IAM Roles</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.95999908447266" width="84.34699249267578" x="702.2540054321289" y="348.0" />
@@ -324,7 +306,6 @@
     <ns0:node id="n18">
       <ns0:data key="d3">cf2ef07e-b7ba-439a-9876-b8340b5d3342</ns0:data>
       <ns0:data key="d4">IAM Security Token Service</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="55.842002868652344" width="40.76499938964844" x="0.0" y="459.0389976501465" />
@@ -341,7 +322,6 @@
     <ns0:node id="n19">
       <ns0:data key="d3">58cfd85b-b989-41a7-b2d8-fa784879150b</ns0:data>
       <ns0:data key="d4">IAM Short Term Credentials</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="50.8910026550293" width="62.946998596191406" x="70.76499938964844" y="461.514497756958" />
@@ -358,7 +338,6 @@
     <ns0:node id="n20">
       <ns0:data key="d3">d4fdc58b-f471-4380-800b-b87e58629e82</ns0:data>
       <ns0:data key="d4">IAM STS</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="31.0" width="54.0" x="163.71199798583984" y="471.45999908447266" />
@@ -375,7 +354,6 @@
     <ns0:node id="n21">
       <ns0:data key="d3">69d7b385-0c2a-462d-837d-e5b2fb70212a</ns0:data>
       <ns0:data key="d4">IAM</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="37.61399841308594" x="247.71199798583984" y="450.95999908447266" />
@@ -392,7 +370,6 @@
     <ns0:node id="n22">
       <ns0:data key="d3">52349094-bef6-46d2-bb5c-ebee369c2579</ns0:data>
       <ns0:data key="d4">OpsWorks Apps</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="72.0" x="315.3259963989258" y="450.95999908447266" />
@@ -409,7 +386,6 @@
     <ns0:node id="n23">
       <ns0:data key="d3">1640f87b-17c3-4fc6-b4a3-2ba7692ef500</ns0:data>
       <ns0:data key="d4">OpsWorks Deployments</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="68.0" width="72.0" x="417.3259963989258" y="452.95999908447266" />
@@ -426,7 +402,6 @@
     <ns0:node id="n24">
       <ns0:data key="d3">aef10cbe-a406-473a-92a5-8995d311ce79</ns0:data>
       <ns0:data key="d4">OpsWorks Instances</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="72.0" x="519.3259963989258" y="450.95999908447266" />
@@ -443,7 +418,6 @@
     <ns0:node id="n25">
       <ns0:data key="d3">962f4e33-4491-40b3-a300-1514b26701f7</ns0:data>
       <ns0:data key="d4">OpsWorks Layers</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="72.0" x="621.3259963989258" y="450.95999908447266" />
@@ -460,7 +434,6 @@
     <ns0:node id="n26">
       <ns0:data key="d3">ff685d9e-3ef4-4588-bf04-fee171a7711f</ns0:data>
       <ns0:data key="d4">OpsWorks Monitoring</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="60.25" width="72.0" x="723.3259963989258" y="456.83499908447266" />
@@ -477,7 +450,6 @@
     <ns0:node id="n27">
       <ns0:data key="d3">b61462f0-f8a2-4f65-b587-7479728ec816</ns0:data>
       <ns0:data key="d4">OpsWorks Permissions</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.5" x="0.0" y="552.9599990844727" />
@@ -494,7 +466,6 @@
     <ns0:node id="n28">
       <ns0:data key="d3">7191243c-c25a-411b-9d97-bb209a2634b2</ns0:data>
       <ns0:data key="d4">OpsWorks Resources</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="70.86100006103516" width="60.444000244140625" x="89.5" y="553.5294990539551" />
@@ -511,7 +482,6 @@
     <ns0:node id="n29">
       <ns0:data key="d3">dc25ff2e-2bc2-4112-a60e-82022004cb84</ns0:data>
       <ns0:data key="d4">OpsWorks Stack</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="70.0" x="179.94400024414062" y="552.9599990844727" />
@@ -528,7 +498,6 @@
     <ns0:node id="n30">
       <ns0:data key="d3">f52926a4-9e06-4a48-994b-ebba2d643961</ns0:data>
       <ns0:data key="d4">OpsWorks</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.7079963684082" x="279.9440002441406" y="552.9599990844727" />

@@ -18,7 +18,6 @@
     <ns0:node id="n0">
       <ns0:data key="d3">2c2ea602-06b8-4cb0-a168-6b5c7ce342c1</ns0:data>
       <ns0:data key="d4">AWS Cloud</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="46.23600387573242" width="70.49000549316406" x="0.0" y="43.65649604797363" />
@@ -35,7 +34,6 @@
     <ns0:node id="n1">
       <ns0:data key="d3">ec9ecce5-0639-4604-a435-813a47a447ca</ns0:data>
       <ns0:data key="d4">AWS Management Console</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.66200256347656" width="56.58000183105469" x="100.49000549316406" y="38.44349670410156" />
@@ -52,7 +50,6 @@
     <ns0:node id="n2">
       <ns0:data key="d3">a01ea093-fcac-46c7-a816-ca30a8f520e5</ns0:data>
       <ns0:data key="d4">Client</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="55.697998046875" width="55.59200668334961" x="187.07000732421875" y="38.925498962402344" />
@@ -69,7 +66,6 @@
     <ns0:node id="n3">
       <ns0:data key="d3">fcb131c1-af19-4aa2-aee8-8d696a34cb9d</ns0:data>
       <ns0:data key="d4">Corporate Data Center</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.27799987792969" width="41.093997955322266" x="272.66201400756836" y="38.635498046875" />
@@ -86,7 +82,6 @@
     <ns0:node id="n4">
       <ns0:data key="d3">2b59ef68-6049-4326-96a1-f8e9e1fbc3b2</ns0:data>
       <ns0:data key="d4">Disk</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.03399658203125" width="55.00999450683594" x="343.7560119628906" y="38.25749969482422" />
@@ -103,7 +98,6 @@
     <ns0:node id="n5">
       <ns0:data key="d3">cf20c256-d343-43f8-8fb8-cbb53b8cfe3e</ns0:data>
       <ns0:data key="d4">Forums</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="73.54899597167969" width="76.47699737548828" x="428.76600646972656" y="30.0" />
@@ -120,7 +114,6 @@
     <ns0:node id="n6">
       <ns0:data key="d3">14701a11-b57d-4312-9b97-45269e2aabe6</ns0:data>
       <ns0:data key="d4">Generic Database</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.070030212402344" width="43.989013671875" x="535.2430038452148" y="38.23948287963867" />
@@ -137,7 +130,6 @@
     <ns0:node id="n7">
       <ns0:data key="d3">2993ddae-7a7f-4458-9c3a-b09cc8491ba7</ns0:data>
       <ns0:data key="d4">Internet</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="46.208003997802734" width="70.4540023803711" x="609.2320175170898" y="43.67049598693848" />
@@ -154,7 +146,6 @@
     <ns0:node id="n8">
       <ns0:data key="d3">cf000405-60a6-4b1d-ae31-7e7742993b04</ns0:data>
       <ns0:data key="d4">Mobile Client</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.28999710083008" width="36.534000396728516" x="709.6860198974609" y="38.629499435424805" />
@@ -171,7 +162,6 @@
     <ns0:node id="n9">
       <ns0:data key="d3">d06e1583-fae9-435c-8593-e51b08e45928</ns0:data>
       <ns0:data key="d4">Multimedia</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.26199722290039" width="58.37400436401367" x="776.2200202941895" y="38.64349937438965" />
@@ -188,7 +178,6 @@
     <ns0:node id="n10">
       <ns0:data key="d3">024d53bf-e06f-4478-b3cd-d34f28a660de</ns0:data>
       <ns0:data key="d4">Tape Storage</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="38.35999298095703" width="68.51100158691406" x="0.0" y="142.4759979248047" />
@@ -205,7 +194,6 @@
     <ns0:node id="n11">
       <ns0:data key="d3">e9f0c6f4-dd5e-4f1e-9048-d037d01de04b</ns0:data>
       <ns0:data key="d4">Traditional Server</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="55.84200668334961" width="40.76600646972656" x="98.51100158691406" y="133.7349910736084" />
@@ -222,7 +210,6 @@
     <ns0:node id="n12">
       <ns0:data key="d3">22b9c895-4958-4b16-ab7c-08166cd2c272</ns0:data>
       <ns0:data key="d4">User</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="55.938995361328125" width="40.36399841308594" x="169.27700805664062" y="133.68649673461914" />
@@ -239,7 +226,6 @@
     <ns0:node id="n13">
       <ns0:data key="d3">589c6efe-b64d-4e84-b407-92cb053ee7fa</ns0:data>
       <ns0:data key="d4">Users</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.21399688720703" width="58.83501052856445" x="239.64100646972656" y="133.5489959716797" />
@@ -256,7 +242,6 @@
     <ns0:node id="n14">
       <ns0:data key="d3">9bb3b9d1-0f69-4eda-85dd-b1139502cfdb</ns0:data>
       <ns0:data key="d4">Virtual Private CLoud</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="46.23601150512695" width="70.49100494384766" x="328.476016998291" y="138.53798866271973" />

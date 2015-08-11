@@ -18,7 +18,6 @@
     <ns0:node id="n0">
       <ns0:data key="d3">dace5f46-397f-4a72-ae61-ef4c39420e49</ns0:data>
       <ns0:data key="d4">Amazon CloudFront Download Distribution</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.22699737548828" width="55.19999694824219" x="0.0" y="37.38650131225586" />
@@ -35,7 +34,6 @@
     <ns0:node id="n1">
       <ns0:data key="d3">314c6dff-647c-4a68-837d-0aeb73c91058</ns0:data>
       <ns0:data key="d4">Amazon CloudFront Edge Location</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.810997009277344" width="52.20500183105469" x="85.19999694824219" y="37.59450149536133" />
@@ -52,7 +50,6 @@
     <ns0:node id="n2">
       <ns0:data key="d3">bbe476af-8037-4cf8-9cd3-de18443a4fb1</ns0:data>
       <ns0:data key="d4">Amazon CloudFront Streaming Distribution</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.03399658203125" width="55.00999450683594" x="167.40499877929688" y="37.483001708984375" />
@@ -69,7 +66,6 @@
     <ns0:node id="n3">
       <ns0:data key="d3">3de6f0b0-3ac8-48b2-be8e-db55668231ed</ns0:data>
       <ns0:data key="d4">Amazon CloudFront</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.85600280761719" x="252.4149932861328" y="30.0" />
@@ -86,7 +82,6 @@
     <ns0:node id="n4">
       <ns0:data key="d3">8d43d57f-0108-41b9-a6fb-01be50895bdf</ns0:data>
       <ns0:data key="d4">Amazon EBS Snapshot</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="65.00399780273438" width="53.32500457763672" x="342.27099609375" y="33.49800109863281" />
@@ -103,7 +98,6 @@
     <ns0:node id="n5">
       <ns0:data key="d3">e5aa7798-8102-44e6-b567-11c0f9f7b163</ns0:data>
       <ns0:data key="d4">Amazon EBS Volume</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="66.0040054321289" width="46.79100036621094" x="425.5960006713867" y="32.99799728393555" />
@@ -120,7 +114,6 @@
     <ns0:node id="n6">
       <ns0:data key="d3">bf9a46e2-8235-400c-af94-f957fc6b4c84</ns0:data>
       <ns0:data key="d4">Amazon EBS</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="66.00299835205078" width="46.79100036621094" x="502.38700103759766" y="32.99850082397461" />
@@ -137,7 +130,6 @@
     <ns0:node id="n7">
       <ns0:data key="d3">2b8dbfb1-7e14-4986-baf6-2641438b9325</ns0:data>
       <ns0:data key="d4">Amazon Glacier Archive</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="66.0040054321289" width="56.196998596191406" x="579.1780014038086" y="32.99799728393555" />
@@ -154,7 +146,6 @@
     <ns0:node id="n8">
       <ns0:data key="d3">eb81b47c-bd97-476a-ac2b-547ce6ec9d5d</ns0:data>
       <ns0:data key="d4">Amazon Glacier Vault</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="66.0040054321289" width="46.79100036621094" x="665.375" y="32.99799728393555" />
@@ -171,7 +162,6 @@
     <ns0:node id="n9">
       <ns0:data key="d3">87b49b6f-7639-41b3-ba51-bc8ec634b5f1</ns0:data>
       <ns0:data key="d4">Amazon Glacier</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="71.90400695800781" width="59.567996978759766" x="742.1660003662109" y="30.047996520996094" />
@@ -188,7 +178,6 @@
     <ns0:node id="n10">
       <ns0:data key="d3">213236b5-f1f9-4035-8339-41d4590bb69d</ns0:data>
       <ns0:data key="d4">Amazon S3 Bucket with Objects</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.74400329589844" width="55.17200469970703" x="0.0" y="151.47947692871094" />
@@ -205,7 +194,6 @@
     <ns0:node id="n11">
       <ns0:data key="d3">4d4df2af-f0bd-4215-8330-4c7b3826e90c</ns0:data>
       <ns0:data key="d4">Amazon S3 Bucket</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.38800048828125" width="54.814998626708984" x="85.17200469970703" y="151.65747833251953" />
@@ -222,7 +210,6 @@
     <ns0:node id="n12">
       <ns0:data key="d3">ef510c45-41d2-445a-987a-aeca595988df</ns0:data>
       <ns0:data key="d4">Amazon S3 Objects</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="40.77000427246094" width="37.529998779296875" x="169.98700332641602" y="159.4664764404297" />
@@ -239,7 +226,6 @@
     <ns0:node id="n13">
       <ns0:data key="d3">554fd68b-e5af-4b81-bb51-d2924bb7bd55</ns0:data>
       <ns0:data key="d4">Amazon S3</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.56800079345703" x="237.5170021057129" y="143.85147857666016" />
@@ -256,7 +242,6 @@
     <ns0:node id="n14">
       <ns0:data key="d3">3231f76b-7fcf-4d86-a051-889391bf2940</ns0:data>
       <ns0:data key="d4">AWS Import Export</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.88299560546875" width="57.762001037597656" x="327.0850028991699" y="151.40998077392578" />
@@ -273,7 +258,6 @@
     <ns0:node id="n15">
       <ns0:data key="d3">ed34b44c-a407-4e1a-bed3-61e3b60b6327</ns0:data>
       <ns0:data key="d4">AWS Storage Gateway</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.00199890136719" width="59.63300323486328" x="414.8470039367676" y="143.85047912597656" />
@@ -290,7 +274,6 @@
     <ns0:node id="n16">
       <ns0:data key="d3">86053e50-6121-4b58-882a-285fb28c4428</ns0:data>
       <ns0:data key="d4">Storage Gateway Cached Volumn</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="66.0" width="52.933998107910156" x="504.48000717163086" y="146.85147857666016" />
@@ -307,7 +290,6 @@
     <ns0:node id="n17">
       <ns0:data key="d3">b501a099-21a5-491a-8097-911d2a612d39</ns0:data>
       <ns0:data key="d4">Storage Gateway Non-Cached Volumn</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="65.99999237060547" width="52.93400192260742" x="587.414005279541" y="146.85148239135742" />
@@ -324,7 +306,6 @@
     <ns0:node id="n18">
       <ns0:data key="d3">5c470a37-2f48-4db2-a6e2-e7558107b5a3</ns0:data>
       <ns0:data key="d4">Storage Gateway Virtual Tape Library</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="95.70295715332031" width="98.62301635742188" x="670.3480072021484" y="132.0" />

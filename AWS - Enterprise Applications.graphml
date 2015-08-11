@@ -17,8 +17,7 @@
   <ns0:graph edgedefault="directed" id="G">
     <ns0:node id="n0">
       <ns0:data key="d3">45224a51-2cf2-4908-88ac-4cd3b78b3c17</ns0:data>
-      <ns0:data key="d4">Zocalo</ns0:data>
-      <ns0:data key="d6" />
+      <ns0:data key="d4">WorkDocs</ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="321.5999755859375" width="281.5999755859375" x="0.0" y="30.0" />

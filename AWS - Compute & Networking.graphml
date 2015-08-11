@@ -18,7 +18,6 @@
     <ns0:node id="n0">
       <ns0:data key="d3">71544bcd-f41d-4cf6-b27d-c3879c2b005c</ns0:data>
       <ns0:data key="d4">Amazon EC2 AMI</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="98.65403747558594" width="53.12600326538086" x="0.0" y="30.281208038330078" />
@@ -35,7 +34,6 @@
     <ns0:node id="n1">
       <ns0:data key="d3">02534d9d-6e47-43b2-8a08-de3ec2a57ef1</ns0:data>
       <ns0:data key="d4">Amazon EC2 CloudWatch</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.86000061035156" width="53.22599792480469" x="83.12600326538086" y="51.178226470947266" />
@@ -52,7 +50,6 @@
     <ns0:node id="n2">
       <ns0:data key="d3">60b15d13-4854-4b6d-8030-f0bb6982dad4</ns0:data>
       <ns0:data key="d4">Amazon EC2 DB on Instance</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.93800354003906" width="52.85200500488281" x="166.35200119018555" y="51.139225006103516" />
@@ -69,7 +66,6 @@
     <ns0:node id="n3">
       <ns0:data key="d3">933e76b1-1c86-41ea-8e07-fd4e59e830fb</ns0:data>
       <ns0:data key="d4">Amazon EC2 Elastic IP</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="22.29199981689453" width="67.90400695800781" x="249.20400619506836" y="68.46222686767578" />
@@ -86,7 +82,6 @@
     <ns0:node id="n4">
       <ns0:data key="d3">6458e2db-d62b-4fe9-aa8c-6aaf0d80e69f</ns0:data>
       <ns0:data key="d4">Amazon EC2 Instance</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.65299987792969" width="52.84599304199219" x="347.1080131530762" y="51.2817268371582" />
@@ -103,7 +98,6 @@
     <ns0:node id="n5">
       <ns0:data key="d3">bd9d60e5-1598-4137-8888-dd2da2864be4</ns0:data>
       <ns0:data key="d4">Amazon EC2 Instances</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="98.44103240966797" width="92.26217651367188" x="429.95400619506836" y="30.387710571289062" />
@@ -120,7 +114,6 @@
     <ns0:node id="n6">
       <ns0:data key="d3">483ae5ae-ee58-4c6c-98cd-1924af63c2b0</ns0:data>
       <ns0:data key="d4">Amazon EC2--</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.63200378417969" x="552.2161827087402" y="43.60822677612305" />
@@ -137,7 +130,6 @@
     <ns0:node id="n7">
       <ns0:data key="d3">9e431d62-c5de-403a-93fe-ed48964db32d</ns0:data>
       <ns0:data key="d4">Amazon EMR Cluster</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="97.17645263671875" width="71.29724884033203" x="641.8481864929199" y="31.020000457763672" />
@@ -154,7 +146,6 @@
     <ns0:node id="n8">
       <ns0:data key="d3">bd019399-ef69-465f-8680-b6c0cb651a14</ns0:data>
       <ns0:data key="d4">Amazon EMR HDFS Cluster</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="99.2164535522461" width="131.0308380126953" x="743.145435333252" y="30.0" />
@@ -171,7 +162,6 @@
     <ns0:node id="n9">
       <ns0:data key="d3">e21ae006-112f-4fbb-9ab4-8e808628cefe</ns0:data>
       <ns0:data key="d4">Amazon EMR--</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.615997314453125" x="0.0" y="172.6924705505371" />
@@ -188,7 +178,6 @@
     <ns0:node id="n10">
       <ns0:data key="d3">cc36f914-39e8-4ee1-8218-02a096d058c8</ns0:data>
       <ns0:data key="d4">Amazon Route 53 Hosted Zone</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.91699981689453" width="58.98399353027344" x="89.61599731445312" y="180.23397064208984" />
@@ -205,7 +194,6 @@
     <ns0:node id="n11">
       <ns0:data key="d3">4a0b8e97-3cca-469e-af22-83d1c128b883</ns0:data>
       <ns0:data key="d4">Amazon Route 53 Route Table</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="61.78900146484375" width="66.93599700927734" x="178.59999084472656" y="177.79796981811523" />
@@ -222,7 +210,6 @@
     <ns0:node id="n12">
       <ns0:data key="d3">661b8dec-a4f8-46aa-a2e1-b2421e63db2e</ns0:data>
       <ns0:data key="d4">Amazon Route 53</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.63099670410156" x="275.5359878540039" y="172.6924705505371" />
@@ -239,7 +226,6 @@
     <ns0:node id="n13">
       <ns0:data key="d3">f29f760f-d24f-4791-9603-745236ddf13f</ns0:data>
       <ns0:data key="d4">Amazon VPC Customer Gateway</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.82099533081055" width="54.85300064086914" x="365.16698455810547" y="180.28197288513184" />
@@ -256,7 +242,6 @@
     <ns0:node id="n14">
       <ns0:data key="d3">670f78ff-c7eb-429e-8542-f70d54ef21d6</ns0:data>
       <ns0:data key="d4">Amazon VPC Internet Gateway</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="98.95203399658203" width="170.1804962158203" x="450.0199851989746" y="159.2164535522461" />
@@ -273,7 +258,6 @@
     <ns0:node id="n15">
       <ns0:data key="d3">f26fba40-c262-4247-89e2-6b7b84ba9595</ns0:data>
       <ns0:data key="d4">Amazon VPC Router</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.0160026550293" width="55.34400177001953" x="650.2004814147949" y="180.18446922302246" />
@@ -290,7 +274,6 @@
     <ns0:node id="n16">
       <ns0:data key="d3">35e6b704-c60e-4377-a9ed-4257a5f1d054</ns0:data>
       <ns0:data key="d4">Amazon VPC VPN Connection</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="90.01702880859375" width="161.70596313476562" x="735.5444831848145" y="163.68395614624023" />
@@ -307,7 +290,6 @@
     <ns0:node id="n17">
       <ns0:data key="d3">4b4842f4-d4b5-4016-adcc-d2bb69f89e51</ns0:data>
       <ns0:data key="d4">Amazon VPC VPN Gateway</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.33100128173828" width="55.358001708984375" x="0.0" y="295.52348709106445" />
@@ -324,7 +306,6 @@
     <ns0:node id="n18">
       <ns0:data key="d3">d0764432-fbaf-453b-a32c-14831811df84</ns0:data>
       <ns0:data key="d4">Amazon VPC</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.04100036621094" width="59.56599807739258" x="85.35800170898438" y="288.1684875488281" />
@@ -341,7 +322,6 @@
     <ns0:node id="n19">
       <ns0:data key="d3">0bb58cec-bdd7-4037-a53c-f3a64283bc19</ns0:data>
       <ns0:data key="d4">Auto Scaling</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.53399658203125" width="58.62000274658203" x="174.92399978637695" y="295.92198944091797" />
@@ -358,7 +338,6 @@
     <ns0:node id="n20">
       <ns0:data key="d3">388bba53-d566-4b3b-af05-fe17bd243edc</ns0:data>
       <ns0:data key="d4">AWS Direct Connect</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.64599609375" x="263.544002532959" y="288.1889877319336" />
@@ -375,7 +354,6 @@
     <ns0:node id="n21">
       <ns0:data key="d3">0e0629ea-b912-4eff-b6f8-e64780704ac8</ns0:data>
       <ns0:data key="d4">EC2 Optimized Instance</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.86000061035156" width="53.22500228881836" x="353.189998626709" y="295.7589874267578" />
@@ -392,7 +370,6 @@
     <ns0:node id="n22">
       <ns0:data key="d3">bba59b31-fc35-42f8-8f93-163de7950e91</ns0:data>
       <ns0:data key="d4">Elastic Load Balancing</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="58.15900421142578" width="56.266998291015625" x="436.41500091552734" y="295.1094856262207" />
@@ -409,7 +386,6 @@
     <ns0:node id="n23">
       <ns0:data key="d3">b8870436-6a93-4574-b88b-354a9d62f50a</ns0:data>
       <ns0:data key="d4">Elastic Network Instance</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="54.667999267578125" width="52.78599548339844" x="522.681999206543" y="296.85498809814453" />
@@ -426,7 +402,6 @@
     <ns0:node id="n24">
       <ns0:data key="d3">cf4edc4c-0563-4d60-b95f-003ac90674f4</ns0:data>
       <ns0:data key="d4">EMR Engine</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="63.80800247192383" width="74.0" x="605.4679946899414" y="292.2849864959717" />
@@ -443,7 +418,6 @@
     <ns0:node id="n25">
       <ns0:data key="d3">4f634c2c-9bc6-47d4-be74-e08392e3b647</ns0:data>
       <ns0:data key="d4">EMR MapR M3 Engine</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="52.99999237060547" width="74.0" x="709.4679946899414" y="297.68899154663086" />
@@ -460,7 +434,6 @@
     <ns0:node id="n26">
       <ns0:data key="d3">d36c49dc-8c12-465a-9c1c-74040e1346b4</ns0:data>
       <ns0:data key="d4">EMR MapR M5 Engine</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="52.99999237060547" width="74.0" x="0.0" y="507.7094917297363" />
@@ -477,7 +450,6 @@
     <ns0:node id="n27">
       <ns0:data key="d3">6f81509b-440e-46e5-b2c1-7d1d957ed705</ns0:data>
       <ns0:data key="d4">EMR MapR M7 Engine</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="53.0" width="74.0" x="104.0" y="507.70948791503906" />
@@ -494,7 +466,6 @@
     <ns0:node id="n28">
       <ns0:data key="d3">c5535ea2-5dbd-48e2-b42f-33eba945a462</ns0:data>
       <ns0:data key="d4">Kinesis Enabled App</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="60.427001953125" width="57.84700012207031" x="208.0" y="503.99598693847656" />
@@ -511,7 +482,6 @@
     <ns0:node id="n29">
       <ns0:data key="d3">7a2cded1-d350-47f2-abd1-9ae71f826ce9</ns0:data>
       <ns0:data key="d4">VPC Peering</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="57.371002197265625" width="55.701995849609375" x="295.8470001220703" y="505.52398681640625" />
@@ -528,7 +498,6 @@
     <ns0:node id="n30">
       <ns0:data key="d3">2db642b1-f0b7-44cc-9262-614e3ed36ac4</ns0:data>
       <ns0:data key="d4">Amazon WorkSpaces</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="84.9780044555664" width="74.0" x="381.5489959716797" y="491.72048568725586" />
@@ -545,7 +514,6 @@
     <ns0:node id="n31">
       <ns0:data key="d3">27fbd894-af9f-4d2f-9b6b-5dfafe6041e1</ns0:data>
       <ns0:data key="d4">Lambda</ns0:data>
-      <ns0:data key="d6" />
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="288.0" width="238.40000915527344" x="485.5489959716797" y="390.20948791503906" />
