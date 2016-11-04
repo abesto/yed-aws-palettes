@@ -1,0 +1,962 @@
+<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  
+  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
+  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
+  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
+  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
+  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
+  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
+  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
+  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
+  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
+  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
+  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
+  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
+  <ns0:graph edgedefault="directed" id="G">
+    <ns0:node id="n0">
+      <ns0:data key="d3">3605189a-7b16-4c3e-b1b0-181c38651d10</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="82.39999389648438" width="68.19999694824219" x="0.0" y="30.0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.39999389648438" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="1" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n1">
+      <ns0:data key="d3">79af7c87-b349-4709-993b-fcbda3d93d36</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="55.399993896484375" width="53.0" x="98.19999694824219" y="43.5" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="59.399993896484375" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="2" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n2">
+      <ns0:data key="d3">b0030e04-05ab-48ea-a9b0-b58771345755</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="68.19999694824219" width="71.19999694824219" x="181.1999969482422" y="37.099998474121094" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.599998474121094" y="72.19999694824219" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="3" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n3">
+      <ns0:data key="d3">ef48ad33-3a9d-4def-bb1e-6969cad92848</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="56.39999771118164" width="53.0" x="282.3999938964844" y="42.99999809265137" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="60.39999771118164" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="4" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n4">
+      <ns0:data key="d3">e40450f7-4299-4195-a033-de647913dcba</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="19.099994659423828" width="67.9000015258789" x="365.3999938964844" y="61.64999961853027" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.950000762939453" y="23.099994659423828" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="5" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n5">
+      <ns0:data key="d3">1f3f71ea-3b39-4d2e-a982-c077c4b4a4ed</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="55.399993896484375" width="53.0" x="463.2999954223633" y="43.5" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="59.399993896484375" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="6" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n6">
+      <ns0:data key="d3">f232ab3e-709d-4a29-942a-76796d1af5a7</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="55.39999771118164" width="53.099998474121094" x="546.2999954223633" y="43.49999809265137" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.549999237060547" y="59.39999771118164" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="7" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n7">
+      <ns0:data key="d3">8a872604-399f-449f-87cf-88059f629cad</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="55.399993896484375" width="53.0" x="629.3999938964844" y="43.5" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="59.399993896484375" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="8" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n8">
+      <ns0:data key="d3">fd6d7126-2bb1-411e-8039-9e58ce0c9b2e</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="55.399993896484375" width="53.0" x="712.3999938964844" y="43.5" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="59.399993896484375" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="9" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n9">
+      <ns0:data key="d3">50d01673-8b56-4d34-bb5b-4c2fae11f1a8</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="72.0999984741211" width="68.10816192626953" x="795.3999938964844" y="35.14999771118164" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.054080963134766" y="76.0999984741211" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="10" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n10">
+      <ns0:data key="d3">9aa1deee-5043-478a-83e5-67bada0272ef</ns0:data>
+      <ns0:data key="d4">AmazonEC2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="55.5" width="53.0" x="0.0" y="155.84999084472656" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="59.5" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="11" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n11">
+      <ns0:data key="d3">4e5a85bb-bc1c-4e8a-89d2-b86bcb6e8dbe</ns0:data>
+      <ns0:data key="d4">AmazonECR</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="63.39999771118164" width="60.900001525878906" x="83.0" y="151.89999198913574" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.450000762939453" y="67.39999771118164" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="12" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n12">
+      <ns0:data key="d3">0a184c5d-a493-4bc7-aed4-026d740d60ca</ns0:data>
+      <ns0:data key="d4">AmazonECS</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="59.39999771118164" width="63.60000228881836" x="173.9000015258789" y="153.89999198913574" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="29.80000114440918" y="63.39999771118164" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="13" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n13">
+      <ns0:data key="d3">dfac3311-f323-4e0f-a9fa-cf17ba4c50f4</ns0:data>
+      <ns0:data key="d4">AWSElasticBeanstalk</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="82.39999389648438" width="59.39999771118164" x="267.50000381469727" y="142.39999389648438" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.69999885559082" y="86.39999389648438" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="14" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n14">
+      <ns0:data key="d3">07737665-28fe-4537-baa6-aecdb076ceb1</ns0:data>
+      <ns0:data key="d4">AWSElasticBeanstalk</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="56.900001525878906" width="30.600006103515625" x="356.9000015258789" y="155.1499900817871" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.300003051757812" y="60.900001525878906" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="15" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n15">
+      <ns0:data key="d3">32f00086-b0e2-4b98-abc1-89b0d97579d6</ns0:data>
+      <ns0:data key="d4">AWSElasticBeanstalk</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="65.69999694824219" width="49.70000457763672" x="417.50000762939453" y="150.74999237060547" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="22.85000228881836" y="69.69999694824219" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="16" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n16">
+      <ns0:data key="d3">036a44b8-4b44-4be3-9ef3-2f85300bdb1c</ns0:data>
+      <ns0:data key="d4">AWSLambda</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="82.39999389648438" width="68.19999694824219" x="497.20001220703125" y="142.39999389648438" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.39999389648438" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="17" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n17">
+      <ns0:data key="d3">1d6bb8ba-c856-439a-95e3-518b353c8de1</ns0:data>
+      <ns0:data key="d4">ElasticLoadBalancing</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="82.39999389648438" width="68.19999694824219" x="595.4000091552734" y="142.39999389648438" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.39999389648438" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="18" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+  </ns0:graph>
+  <ns0:data key="d8">
+    <ns2:Resources>
+      <ns2:Resource id="1">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;polygon class="st2" points="19.3,24.2 15.9,25.9 15.9,74.1 19.3,75.8 33.2,51.3 	"/&gt;
+	&lt;polygon class="st1" points="27.3,74 19.3,75.8 19.3,24.2 27.3,26 	"/&gt;
+	&lt;polygon class="st2" points="23.1,22.3 27.3,20.2 47.3,52.2 27.3,79.8 23.1,77.7 	"/&gt;
+	&lt;polygon class="st1" points="37.2,77 27.3,79.8 27.3,20.2 37.2,23 	"/&gt;
+	&lt;polygon class="st2" points="32,17.8 37.2,15.2 66.7,55.7 37.2,84.8 32,82.2 	"/&gt;
+	&lt;polygon class="st1" points="50,80.1 37.2,84.8 37.2,15.2 50,19.9 	"/&gt;
+	&lt;polygon class="st2" points="43.2,12.2 50,8.8 81.8,52.3 50,91.2 43.2,87.8 	"/&gt;
+	&lt;polygon class="st1" points="84.1,74.1 50,91.2 50,8.8 84.1,25.9 	"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="2">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;path class="st2" d="M67.4,77.7H32.6c-5,0-9.1-4.1-9.1-9.1V33.9c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+		C76.5,73.7,72.4,77.7,67.4,77.7z"/&gt;
+	&lt;path class="st1" d="M67.4,75.3H32.6c-5,0-9.1-4.1-9.1-9.1V31.4c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+		C76.5,71.2,72.4,75.3,67.4,75.3z"/&gt;
+	&lt;rect x="33.1" y="30.2" class="st4" width="33.7" height="15.9"/&gt;
+	&lt;rect x="35.7" y="32.8" class="st1" width="8" height="10.6"/&gt;
+	&lt;rect x="46" y="32.8" class="st1" width="8" height="10.6"/&gt;
+	&lt;rect x="56.3" y="32.8" class="st1" width="8" height="10.6"/&gt;
+	&lt;rect x="33.1" y="51.5" class="st4" width="33.7" height="15.9"/&gt;
+	&lt;rect x="35.7" y="54.1" class="st1" width="8" height="10.6"/&gt;
+	&lt;rect x="46" y="54.1" class="st1" width="8" height="10.6"/&gt;
+	&lt;rect x="56.3" y="54.1" class="st1" width="8" height="10.6"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="3">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" 
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+	.st8{fill:#F58435;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;polygon class="st2" points="59,69.6 59,59.1 54.6,54.7 51.6,51.7 54.6,48.8 59,44.3 59,33.8 59,33.6 64.3,33.6 64.3,30.2 
+			50,20.4 35.7,30.2 35.7,33.6 41,33.6 41,33.8 41,44.3 45.4,48.8 48.4,51.7 45.4,54.7 41,59.1 41,69.6 35.7,66.4 35.7,69.8 
+			50,84.1 64.3,69.8 64.3,66.4 		"/&gt;
+		&lt;polygon class="st2" points="41.7,51.7 41.7,48.3 27.4,44.3 14.4,44.3 14.4,59.1 27.4,59.1 27.4,66 		"/&gt;
+		&lt;polygon class="st2" points="85.6,44.3 72.6,44.3 58.3,48.3 58.3,51.7 72.6,66 72.6,59.1 85.6,59.1 		"/&gt;
+		&lt;polygon class="st8" points="59,66.2 59,55.7 54.6,51.2 51.6,48.3 54.6,45.3 59,40.9 59,30.4 59,30.2 64.3,30.2 50,15.9 
+			35.7,30.2 41,30.2 41,30.4 41,40.9 45.4,45.3 48.4,48.3 45.4,51.2 41,55.7 41,66.2 41,66.4 35.7,66.4 50,80.7 64.3,66.4 59,66.4 
+					"/&gt;
+		&lt;polygon class="st8" points="41.7,48.3 27.4,34 27.4,40.9 14.4,40.9 14.4,55.7 27.4,55.7 27.4,62.6 		"/&gt;
+		&lt;polygon class="st8" points="85.6,40.9 72.6,40.9 72.6,34 58.3,48.3 72.6,62.6 72.6,55.7 85.6,55.7 		"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="4">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;path class="st2" d="M32.6,24h34.8c5,0,9.1,4.1,9.1,9.1v2.2v13.1c-1.8-0.9-5.7-1.9-11.6-1.9c-2.6,0-4.8,0.2-6.7,0.5
+		c-3.9,0.7-6,1.8-6,2.5v26c0,0.4,0.6,1,1.7,1.6h-1.7H32.6c-5,0-9.1-4.1-9.1-9.1V35.3v-2.2C23.5,28.1,27.6,24,32.6,24z"/&gt;
+	&lt;path class="st1" d="M32.6,21.8h34.8c5,0,9.1,4.1,9.1,9.1v2.2v13.1c-1.8-0.9-5.7-1.9-11.6-1.9c-2.6,0-4.8,0.2-6.7,0.5
+		c-3.9,0.7-6,1.8-6,2.5v26c0,0.4,0.6,1,1.7,1.6h-1.7H32.6c-5,0-9.1-4.1-9.1-9.1V33.1v-2.2C23.5,25.9,27.6,21.8,32.6,21.8z"/&gt;
+	&lt;path class="st2" d="M65.8,51.3c-2.2,0-4.1,0.2-5.6,0.4c-1.9,0.3-5-0.4-5-0.4s0,2.3,0,2.5c0,0.6,1.7,1.5,5,2.1
+		c1.5,0.3,3.4,0.4,5.6,0.4c6.9,0,10.7-1.6,10.7-2.5c0-0.3,0-2.5,0-2.5S70.7,51.3,65.8,51.3z"/&gt;
+	&lt;path class="st2" d="M55,58.6l0,17.1c0,0.9,3,2.5,10.1,2.5c3.9,0,6.9-0.5,8.8-1c1.4-0.5,2.4-1,2.5-1.4v-17c-2.1,1.3-6.4,2-10.6,2
+		h-0.3c-0.4,0-0.9,0-1.3,0l-0.2,0c-0.4,0-0.7,0-1.1-0.1c-0.2,0-0.4,0-0.5,0c-0.3,0-0.6,0-0.8-0.1c-0.2,0-0.3,0-0.5-0.1
+		c-0.3,0-0.6-0.1-0.9-0.1C57.9,60,56.1,59.4,55,58.6z"/&gt;
+	&lt;path class="st1" d="M65.8,48.8c-2.2,0-4.1,0.2-5.6,0.4c-3.3,0.5-5,1.5-5,2.1c0,0.6,1.7,1.5,5,2.1c1.5,0.3,3.4,0.4,5.6,0.4
+		c6.9,0,10.7-1.6,10.7-2.5C76.5,50.4,72.7,48.8,65.8,48.8z"/&gt;
+	&lt;path class="st1" d="M55,56.1l0,17.1c0,0.9,3,2.5,10.1,2.5c3.9,0,6.9-0.5,8.8-1c1.4-0.5,2.4-1,2.5-1.4v-17c-2.1,1.3-6.4,2-10.6,2
+		h-0.3c-0.4,0-0.9,0-1.3,0l-0.2,0c-0.4,0-0.7,0-1.1-0.1c-0.2,0-0.4,0-0.5,0c-0.3,0-0.6,0-0.8-0.1c-0.2,0-0.3,0-0.5-0.1
+		c-0.3,0-0.6-0.1-0.9-0.1C57.9,57.5,56.1,56.9,55,56.1z"/&gt;
+	&lt;path class="st2" d="M32.6,74.8h21.3l0,2.2H32.6c-5,0-9.1-4.1-9.1-9.1v-2.2C23.5,70.7,27.6,74.8,32.6,74.8z"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="5">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;path class="st2" d="M61.6,42.9l16.2,6l0.2,0.1l5.8-0.3v2.5l-5.6,2.1l-0.3,0.1l-0.2,0.1l-16.2,6v-6H30.8c-1,3-3.8,5.2-7.2,5.2
+			c-4.2,0-7.6-3.4-7.6-7.5v-2.5L30.8,49h30.8V42.9z"/&gt;
+	&lt;/g&gt;
+	&lt;g&gt;
+		&lt;path class="st1" d="M61.6,40.4l16.2,6l0.2,0.1l0.3,0.1l5.6,2.1l-5.6,2.1l-0.3,0.1L77.9,51l-16.2,6v-6H30.8c-1,3-3.8,5.2-7.2,5.2
+			c-4.2,0-7.6-3.4-7.6-7.5s3.4-7.5,7.6-7.5c3.4,0,6.2,2.2,7.2,5.2h30.8V40.4z"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="6">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;path class="st2" d="M67.4,77.7H32.6c-5,0-9.1-4.1-9.1-9.1V33.9c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,73.7,72.4,77.7,67.4,77.7z"/&gt;
+		&lt;path class="st1" d="M67.4,75.3H32.6c-5,0-9.1-4.1-9.1-9.1V31.4c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,71.2,72.4,75.3,67.4,75.3z"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="7">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;path class="st2" d="M73.6,77.7h-24c-1.7,0-3-1.3-3-3v-24c0-1.7,1.3-3,3-3h24c1.7,0,3,1.3,3,3v24C76.6,76.4,75.2,77.7,73.6,77.7z"
+		/&gt;
+	&lt;path class="st2" d="M50.5,24.7h-24c-1.7,0-3,1.3-3,3v24c0,1.7,1.3,3,3,3H32V39.2c0-3.3,2.7-6,6-6h15.5v-5.5
+		C53.5,26.1,52.1,24.7,50.5,24.7z"/&gt;
+	&lt;path class="st2" d="M62,36.2H38c-1.7,0-3,1.3-3,3v24c0,1.7,1.3,3,3,3h5.6V50.7c0-3.3,2.7-6,6-6H65v-5.5C65,37.6,63.7,36.2,62,36.2
+		z"/&gt;
+	&lt;path class="st1" d="M73.6,75.3h-24c-1.7,0-3-1.3-3-3v-24c0-1.7,1.3-3,3-3h24c1.7,0,3,1.3,3,3v24C76.6,73.9,75.2,75.3,73.6,75.3z"
+		/&gt;
+	&lt;path class="st1" d="M50.5,22.3h-24c-1.7,0-3,1.3-3,3v24c0,1.7,1.3,3,3,3H32V36.8c0-3.3,2.7-6,6-6h15.5v-5.5
+		C53.5,23.6,52.1,22.3,50.5,22.3z"/&gt;
+	&lt;path class="st1" d="M62,33.8H38c-1.7,0-3,1.3-3,3v24c0,1.7,1.3,3,3,3h5.6V48.2c0-3.3,2.7-6,6-6H65v-5.5C65,35.1,63.7,33.8,62,33.8
+		z"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="8">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;path class="st2" d="M67.4,77.7H32.6c-5,0-9.1-4.1-9.1-9.1V33.9c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,73.7,72.4,77.7,67.4,77.7z"/&gt;
+		&lt;path class="st1" d="M67.4,75.3H32.6c-5,0-9.1-4.1-9.1-9.1V31.4c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,71.2,72.4,75.3,67.4,75.3z"/&gt;
+	&lt;/g&gt;
+	&lt;rect x="51.1" y="54.9" class="st4" width="5.7" height="11.3"/&gt;
+	&lt;rect x="58.1" y="49.1" class="st4" width="5.7" height="17.1"/&gt;
+	&lt;rect x="65" y="58.8" class="st4" width="5.7" height="7.4"/&gt;
+	&lt;polygon class="st4" points="70.3,67.1 51.5,67.1 50.6,67.1 50.6,67.9 50.6,69.3 50.6,70.1 51.5,70.1 70.3,70.1 71.1,70.1 
+		71.1,69.3 71.1,67.9 71.1,67.1 	"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="9">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;path class="st2" d="M67.4,77.7H32.6c-5,0-9.1-4.1-9.1-9.1V33.9c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,73.7,72.4,77.7,67.4,77.7z"/&gt;
+		&lt;path class="st1" d="M67.4,75.3H32.6c-5,0-9.1-4.1-9.1-9.1V31.4c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,71.2,72.4,75.3,67.4,75.3z"/&gt;
+	&lt;/g&gt;
+	&lt;g&gt;
+		&lt;path class="st4" d="M60.4,62.4c0-1.9-0.4-2.7-1.5-2.7c-1.3,0-1.6,1.3-1.6,5c0,3.9,0.5,4.6,1.7,4.6c0.9,0,1.6-0.5,1.6-3.3h2.6
+			c0,2.8-0.7,5.2-4.1,5.2c-3.9,0-4.4-2.8-4.4-6.7c0-3.9,0.5-6.7,4.4-6.7c3.7,0,4,2.7,4,4.6H60.4z"/&gt;
+		&lt;path class="st4" d="M66.5,67.1c0,1.5,0.3,2.3,1.4,2.3c1.3,0,1.4-0.9,1.4-2.1c0-1.1-0.3-2.2-1.7-2.2h-0.9v-1.7h0.8
+			c1.1,0,1.5-1,1.5-2c0-1.2-0.4-1.7-1.2-1.7c-1.1,0-1.3,0.9-1.3,2.1h-2.4c0-2.5,1.3-3.8,3.7-3.8c2.3,0,3.7,1,3.7,3.3
+			c0,1.5-0.7,2.5-1.9,2.8v0c1.6,0.3,2.3,1.4,2.3,3c0,1.7-0.7,3.9-4.2,3.9c-2.5,0-3.7-1.5-3.7-3.9v-0.1H66.5z"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="10">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{clip-path:url(#SVGID_4_);enable-background:new    ;}
+	.st4{clip-path:url(#SVGID_6_);enable-background:new    ;}
+	.st5{enable-background:new    ;}
+	.st6{fill:#FFFFFF;}
+&lt;/style&gt;
+&lt;g id="Layer_1_1_"&gt;
+	&lt;path class="st0" d="M75.9,83.6H24.1c-4.3,0-7.7-3.4-7.7-7.7V24.1c0-4.3,3.4-7.7,7.7-7.7h51.7c4.3,0,7.7,3.4,7.7,7.7v51.7
+		C83.6,80.1,80.1,83.6,75.9,83.6z"/&gt;
+	&lt;g&gt;
+		&lt;g&gt;
+			&lt;g&gt;
+				&lt;path class="st1" d="M37.7,12c0.9,0,1.6,0.7,1.6,1.6v6.3c0,0.9-0.7,1.6-1.6,1.6h-6.1c-0.9,0-1.6-0.7-1.6-1.6v-6.3
+					c0-0.9,0.7-1.6,1.6-1.6C31.6,12,37.7,12,37.7,12z"/&gt;
+			&lt;/g&gt;
+			&lt;g&gt;
+				&lt;g&gt;
+					&lt;path id="SVGID_1_" class="st2" d="M39.3,19.9v0.6c0,0.9-0.7,1.6-1.6,1.6v-0.6C38.6,21.5,39.3,20.8,39.3,19.9z"/&gt;
+				&lt;/g&gt;
+				&lt;g&gt;
+					&lt;defs&gt;
+						&lt;path id="SVGID_2_" d="M39.3,19.9v0.6c0,0.9-0.7,1.6-1.6,1.6v-0.6C38.6,21.5,39.3,20.8,39.3,19.9z"/&gt;
+					&lt;/defs&gt;
+					&lt;clipPath id="SVGID_4_"&gt;
+						&lt;use xlink:href="#SVGID_2_"  style="overflow:visible;"/&gt;
+					&lt;/clipPath&gt;
+					&lt;g class="st3"&gt;
+						&lt;path class="st2" d="M39.3,19.9v0.6c0,0.1,0,0.2,0,0.2v-0.6C39.3,20,39.3,19.9,39.3,19.9"/&gt;
+						&lt;path class="st2" d="M39.3,20.1v0.6c0,0.1,0,0.2-0.1,0.3v-0.6C39.2,20.3,39.2,20.2,39.3,20.1"/&gt;
+						&lt;path class="st2" d="M39.2,20.4V21c0,0.1-0.1,0.2-0.1,0.3v-0.6C39.1,20.5,39.2,20.5,39.2,20.4"/&gt;
+						&lt;path class="st2" d="M39.1,20.6v0.6c-0.3,0.5-0.8,0.8-1.4,0.8v-0.6C38.3,21.5,38.8,21.1,39.1,20.6"/&gt;
+					&lt;/g&gt;
+				&lt;/g&gt;
+			&lt;/g&gt;
+			&lt;g&gt;
+				&lt;rect x="31.5" y="21.5" class="st2" width="6.2" height="0.6"/&gt;
+			&lt;/g&gt;
+			&lt;g&gt;
+				&lt;g&gt;
+					&lt;path id="SVGID_3_" class="st2" d="M31.5,21.5V22c-0.9,0-1.6-0.7-1.6-1.6v-0.6C29.9,20.8,30.6,21.5,31.5,21.5z"/&gt;
+				&lt;/g&gt;
+				&lt;g&gt;
+					&lt;defs&gt;
+						&lt;path id="SVGID_5_" d="M31.5,21.5V22c-0.9,0-1.6-0.7-1.6-1.6v-0.6C29.9,20.8,30.6,21.5,31.5,21.5z"/&gt;
+					&lt;/defs&gt;
+					&lt;clipPath id="SVGID_6_"&gt;
+						&lt;use xlink:href="#SVGID_5_"  style="overflow:visible;"/&gt;
+					&lt;/clipPath&gt;
+					&lt;g class="st4"&gt;
+						&lt;path class="st2" d="M31.6,21.5V22c-0.9,0-1.7-0.7-1.7-1.6v-0.6C29.9,20.8,30.6,21.5,31.6,21.5"/&gt;
+					&lt;/g&gt;
+				&lt;/g&gt;
+			&lt;/g&gt;
+		&lt;/g&gt;
+		&lt;g class="st5"&gt;
+			&lt;path class="st6" d="M34.5,19.4c-1.3,0-2.1-1.1-2.1-2.5c0-1.6,0.9-2.6,2.1-2.6v-0.8h0.4v0.8c1,0,1.9,0.7,2,1.7h-1.1
+				c-0.1-0.5-0.4-0.9-0.9-0.9v3.4c0.6-0.1,0.9-0.5,1-1.1h1.1c-0.2,1.2-0.9,1.9-2,1.9v0.8h-0.4V19.4z M34.5,15.2
+				c-0.8,0.1-1.1,1-1.1,1.7c0,0.7,0.3,1.5,1.1,1.6V15.2z"/&gt;
+		&lt;/g&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="11">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" 
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#9D5025;}
+	.st1{fill:#F58536;}
+	.st2{enable-background:new    ;}
+	.st3{fill:#FFFFFF;}
+&lt;/style&gt;
+&lt;g id="Layer_1_1_"&gt;
+	&lt;g&gt;
+		&lt;path class="st0" d="M67.4,79.3H32.6c-5,0-9.1-4.1-9.1-9.1V35.4c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,75.2,72.4,79.3,67.4,79.3z"/&gt;
+		&lt;path class="st1" d="M67.4,76.8H32.6c-5,0-9.1-4.1-9.1-9.1V32.9c0-5,4.1-9.1,9.1-9.1h34.8c5,0,9.1,4.1,9.1,9.1v34.8
+			C76.5,72.7,72.4,76.8,67.4,76.8z"/&gt;
+	&lt;/g&gt;
+	&lt;g class="st2"&gt;
+		&lt;path class="st3" d="M49.5,64.9c-7.6,0-12.1-6.4-12.1-14c0-8.8,5-14.5,12.1-14.5v-4.7h2.2v4.7c5.8,0,10.7,3.7,11.1,9.8h-6
+			c-0.4-3-2.4-5.1-5.2-5.1v19.1c3.2-0.5,5-2.7,5.4-6.2h6c-1.2,6.6-4.9,10.9-11.4,10.9v4.7h-2.2V64.9z M49.5,41.1
+			c-4.6,0.4-6.1,5.5-6.1,9.8c0,4.2,1.7,8.6,6.1,9.3V41.1z"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="12">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;circle class="st2" cx="50" cy="51.3" r="30.4"/&gt;
+		&lt;rect x="19.6" y="48.7" class="st2" width="60.9" height="2.5"/&gt;
+		&lt;circle class="st1" cx="50" cy="48.7" r="30.4"/&gt;
+		&lt;g&gt;
+			&lt;polygon class="st4" points="52,45.4 48,45.4 45.9,27.3 54.1,27.3 			"/&gt;
+		&lt;/g&gt;
+		&lt;g&gt;
+			&lt;polygon class="st4" points="67.6,58.8 69.2,57.5 63.5,49 51,44.6 50,51.5 61.2,52.6 			"/&gt;
+		&lt;/g&gt;
+		&lt;g&gt;
+			&lt;polygon class="st4" points="32.4,58.8 30.8,57.5 36.5,49 49,44.6 50,51.5 38.8,52.6 			"/&gt;
+		&lt;/g&gt;
+		&lt;circle class="st4" cx="50" cy="27.3" r="5.6"/&gt;
+		&lt;path class="st1" d="M50,33.5c-3.4,0-6.1-2.8-6.1-6.1s2.8-6.1,6.1-6.1s6.1,2.8,6.1,6.1S53.4,33.5,50,33.5z M50,22.2
+			c-2.8,0-5.1,2.3-5.1,5.1s2.3,5.1,5.1,5.1s5.1-2.3,5.1-5.1S52.8,22.2,50,22.2z"/&gt;
+		&lt;circle class="st1" cx="50" cy="27.3" r="1.9"/&gt;
+		&lt;circle class="st4" cx="50" cy="48" r="4.1"/&gt;
+		&lt;path class="st1" d="M50,52.6c-2.5,0-4.6-2.1-4.6-4.6c0-2.5,2.1-4.6,4.6-4.6s4.6,2.1,4.6,4.6C54.6,50.5,52.5,52.6,50,52.6z
+			 M50,44.4c-2,0-3.6,1.6-3.6,3.6c0,2,1.6,3.6,3.6,3.6c2,0,3.6-1.6,3.6-3.6C53.6,46.1,52,44.4,50,44.4z"/&gt;
+		&lt;circle class="st1" cx="50" cy="48" r="1.3"/&gt;
+		&lt;rect x="36.9" y="57.4" class="st4" width="26.3" height="14.5"/&gt;
+		&lt;rect x="38.2" y="58.6" class="st3" width="2" height="12.2"/&gt;
+		&lt;rect x="41.8" y="58.6" class="st3" width="2" height="12.2"/&gt;
+		&lt;rect x="45.4" y="58.6" class="st3" width="2" height="12.2"/&gt;
+		&lt;rect x="49" y="58.6" class="st3" width="2" height="12.2"/&gt;
+		&lt;rect x="52.6" y="58.6" class="st3" width="2" height="12.2"/&gt;
+		&lt;rect x="56.2" y="58.6" class="st3" width="2" height="12.2"/&gt;
+		&lt;rect x="59.8" y="58.6" class="st3" width="2" height="12.2"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="13">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;polygon class="st2" points="21.6,24.3 18.2,26 18.2,74 21.6,75.7 35,51 		"/&gt;
+		&lt;polygon class="st2" points="32,32.9 37,25.8 59.5,35.8 54.2,36.7 		"/&gt;
+		&lt;polygon class="st2" points="28.1,67.6 33.6,75.2 59.5,64 54.5,63.2 		"/&gt;
+		&lt;polygon class="st1" points="29.5,73.9 21.6,75.7 21.6,24.3 29.5,26.1 		"/&gt;
+		&lt;polygon class="st2" points="25.3,22.4 29.5,20.3 37.4,53.3 29.5,79.7 25.3,77.6 		"/&gt;
+		&lt;polygon class="st2" points="54.2,63.2 59.5,64 64.3,50.5 59.5,35.8 54.2,36.7 		"/&gt;
+		&lt;polygon class="st1" points="37.6,77.4 29.5,79.7 29.5,20.3 37.6,22.6 		"/&gt;
+		&lt;polygon class="st1" points="65,63 29.5,69.6 29.5,79.7 65,69.7 		"/&gt;
+		&lt;polygon class="st1" points="65.1,36.9 29.5,30.1 29.5,20.3 65.1,30.4 		"/&gt;
+		&lt;polygon class="st1" points="59.5,28.8 65.2,30.4 65.2,69.7 59.5,71.3 		"/&gt;
+		&lt;polygon class="st0" points="81.8,44.8 66.6,45.5 61.2,45.2 76.6,32.7 		"/&gt;
+		&lt;polygon class="st2" points="61.2,45.2 76.6,44.3 76.6,32.7 61.2,35.2 		"/&gt;
+		&lt;polygon class="st0" points="46.7,44.2 62.3,28.4 70.2,43.6 54,44.7 		"/&gt;
+		&lt;polygon class="st2" points="46.7,44.2 62.3,42.9 62.3,28.4 46.7,32.1 		"/&gt;
+		&lt;polygon class="st2" points="61.2,55 81.8,55.4 76.6,67.5 61.2,65 		"/&gt;
+		&lt;polygon class="st2" points="46.7,56 70.2,56.6 62.3,71.8 46.7,68.1 		"/&gt;
+		&lt;polygon class="st3" points="46.7,56 62.3,57.4 70.2,56.6 54,55.5 		"/&gt;
+		&lt;polygon class="st3" points="81.8,55.4 66.6,54.7 61.2,55 76.6,55.9 		"/&gt;
+		&lt;polygon class="st1" points="76.6,44.3 81.8,44.8 81.8,34.3 76.6,32.7 		"/&gt;
+		&lt;polygon class="st1" points="70.2,43.6 62.3,42.9 62.3,28.4 70.2,30.8 		"/&gt;
+		&lt;polygon class="st1" points="76.6,55.9 81.8,55.4 81.8,65.9 76.6,67.5 		"/&gt;
+		&lt;polygon class="st1" points="70.2,56.6 62.3,57.4 62.3,71.8 70.2,69.4 		"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="14">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;polygon class="st2" points="39.8,13.9 39.8,50 35.6,50 35.6,84 50,91.2 58.7,50 50,8.8 	"/&gt;
+	&lt;polygon class="st1" points="50,8.8 50,50 50,91.2 60.2,86.1 60.2,50 64.4,50 64.4,16 	"/&gt;
+	&lt;polygon class="st0" points="79.7,39.5 61.5,41.2 55.5,40.5 74.5,21.1 	"/&gt;
+	&lt;polygon class="st1" points="74.5,21.1 79.7,23.7 79.7,39.5 74.5,38.4 	"/&gt;
+	&lt;polygon class="st2" points="55.5,40.5 74.5,38.4 74.5,21.1 55.5,26.2 	"/&gt;
+	&lt;polygon class="st3" points="20.3,60.5 38.5,58.8 44.5,59.5 25.5,78.9 	"/&gt;
+	&lt;polygon class="st2" points="25.5,78.9 20.3,76.3 20.3,60.5 25.5,61.6 	"/&gt;
+	&lt;polygon class="st1" points="44.5,59.5 25.5,61.6 25.5,78.9 44.5,73.8 	"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="15">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;path class="st0" d="M39.3,48c0.6-0.2,11.8-4.1,20.9-14.1c1.5-1.6,5.1-9.3,5.1-9.3v2.5c-0.6,6-1.9,14.5-4.8,17.3
+			c-2.7,2.6-9.7,4.1-17.3,4.7v29.3h-8.5V49.2c0.6-6.7,1.1-12.1,6.9-17.3c3.5-3.2,22.3-10.4,22.3-10.4V24
+			c-8.8,14.2-25.4,20.2-25.6,20.3c-0.5,0.2-1,2.1-0.8,2.6c0.1,0.4,1,1.2,1.4,1.2C39.1,48,39.2,48,39.3,48z"/&gt;
+	&lt;/g&gt;
+	&lt;g&gt;
+		&lt;path class="st1" d="M39.3,45.5c0.7-0.2,16.7-5.8,26-20.9c-0.6,6-1.9,14.5-4.8,17.3c-2.7,2.6-9.7,4.1-17.3,4.7v29.3h-8.5V46.7
+			c0.6-6.7,1.1-12.1,6.9-17.3c4.1-3.7,15.3-7,22.3-7.9c-8.8,14.2-25.4,20.2-25.6,20.3c-0.5,0.2-1,2.1-0.8,2.6c0.1,0.4,1,1.2,1.4,1.2
+			C39.1,45.5,39.2,45.5,39.3,45.5z"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="16">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;path class="st0" d="M51,32.1C51,39.3,45.2,45,38,45s-12.9-5.8-12.9-12.9l0-2.5L38,19.2L51,29.7L51,32.1z"/&gt;
+	&lt;path class="st0" d="M48.7,51.8c-0.1,0.1-0.2,0.1-0.3,0.1c-0.4,0-1.3-0.8-1.4-1.2c-0.2-0.5,0.3-2.4,0.8-2.6
+		C48,48,64.6,42,73.4,27.8v-2.5c0,0-16.2,6.6-20.2,8.9c0,0.3,0,0.6,0,0.9c0,5.4-3.5,10.1-8.3,11.9c-0.4,1.9,0.2,3.9-0.8,6.1v29.4h9
+		V52.9c7-0.6,14.4-2,17-4.7c2.9-2.9,4.1-11.4,4.7-17.3v-2.5c0,0-2.7,6.4-3,6.8C62.4,47,49.4,51.5,48.7,51.8z"/&gt;
+	&lt;circle class="st1" cx="38" cy="29.7" r="12.9"/&gt;
+	&lt;g&gt;
+		&lt;path class="st4" d="M34.7,39.9h6.6V27.3H46l-8-7.9l-8,7.9h4.7V39.9z M32.2,26.4l5.8-5.7l5.8,5.7h-3.4V39h-4.8V26.4H32.2z"/&gt;
+	&lt;/g&gt;
+	&lt;path class="st1" d="M48.7,49.3c-0.1,0.1-0.2,0.1-0.3,0.1c-0.4,0-1.3-0.8-1.4-1.2c-0.2-0.5,0.3-2.4,0.8-2.6
+		c0.2-0.1,16.8-6.1,25.6-20.3c-6,0.8-15.1,3.4-20.2,6.4c0,0.3,0,0.6,0,0.9c0,5.4-3.5,10.1-8.3,11.9c-0.4,1.9,0.2,3.9-0.8,6.1V80h9
+		V50.4c7-0.6,14.4-2,17-4.7c2.9-2.9,4.1-11.4,4.7-17.3C65.5,43.5,49.4,49,48.7,49.3z"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="17">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;g&gt;
+		&lt;polygon class="st2" points="15.9,74.1 20.2,76.3 27.9,50 20.2,23.7 15.9,25.9 		"/&gt;
+		&lt;polygon class="st1" points="28.7,25.7 20.2,23.7 20.2,76.3 28.7,74.3 		"/&gt;
+		&lt;polygon class="st2" points="25.5,21.1 31.8,17.9 39.8,50 31.8,82.1 25.5,78.9 		"/&gt;
+		&lt;polygon class="st1" points="44.9,77.8 31.8,82 31.8,17.9 44.9,22.1 		"/&gt;
+		&lt;polygon class="st2" points="74.5,29.2 79.7,29.2 79.7,69.1 74.5,68.8 		"/&gt;
+		&lt;polygon class="st0" points="54.3,29.7 60.1,26.7 79.3,29.2 79.9,34.3 74.6,35 		"/&gt;
+		&lt;polygon class="st3" points="54.4,70.3 60.3,73.3 80.1,65.7 74.8,65 		"/&gt;
+		&lt;polygon class="st2" points="55.9,61.8 66.4,63.2 66.4,36.8 55.9,38.2 		"/&gt;
+		&lt;polygon class="st2" points="39.8,86.1 50,91.2 58.8,49.9 50,8.8 39.8,13.9 		"/&gt;
+		&lt;path class="st1" d="M50,8.8v82.3l34.1-17.1V25.9L50,8.8z M79.7,65.8l-19.5,5.9V28.4l19.5,5.9V65.8z"/&gt;
+		&lt;polygon class="st1" points="66.4,36.8 66.4,63.3 77.2,50 		"/&gt;
+	&lt;/g&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="18">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#9D5025;}
+	.st3{fill:#FBBF93;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st6{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st7{clip-path:url(#SVGID_4_);enable-background:new    ;}
+&lt;/style&gt;
+&lt;g id="Layer_1"&gt;
+	&lt;polygon class="st2" points="19.3,24.2 15.9,25.9 15.9,74.1 19.3,75.8 32.9,50 	"/&gt;
+	&lt;polygon class="st1" points="27.3,74 19.3,75.8 19.3,24.2 27.3,26 	"/&gt;
+	&lt;polygon class="st2" points="23.1,22.3 27.3,20.2 37.2,50 27.3,79.8 23.1,77.7 	"/&gt;
+	&lt;polygon class="st1" points="37.2,77 27.3,79.8 27.3,20.2 37.2,23 	"/&gt;
+	&lt;polygon class="st2" points="32,17.8 37.2,15.2 70.1,50 37.2,84.8 32,82.2 	"/&gt;
+	&lt;polygon class="st1" points="72.7,71.6 37.2,84.8 37.2,15.2 72.7,28.2 	"/&gt;
+	&lt;polygon class="st0" points="68.2,43.5 61.5,43.9 43.2,42.4 50,8.8 	"/&gt;
+	&lt;polygon class="st2" points="50,41.7 50,8.8 43.2,12.2 43.2,42.4 	"/&gt;
+	&lt;polygon class="st1" points="68.2,43.5 68.2,17.9 50,8.8 50,41.7 	"/&gt;
+	&lt;polygon class="st3" points="68.2,56.3 61.9,55.9 43.2,57.4 50,91.2 	"/&gt;
+	&lt;polygon class="st2" points="43.2,57.4 43.2,87.8 50,91.2 50,58.1 	"/&gt;
+	&lt;polygon class="st1" points="50,58.1 50,91.2 68.2,82.1 68.2,56.3 	"/&gt;
+	&lt;polygon class="st3" points="84.1,54.7 80.2,54.5 70.1,55.4 74.4,79 	"/&gt;
+	&lt;polygon class="st1" points="74.4,55.7 74.4,79 84.1,74.1 84.1,54.7 	"/&gt;
+	&lt;polygon class="st0" points="84.1,45.1 80.2,45.3 70.1,44.4 74.4,21 	"/&gt;
+	&lt;polygon class="st1" points="84.1,45.1 84.1,25.9 74.4,21 74.4,44.1 	"/&gt;
+	&lt;polygon class="st2" points="70.1,77.9 74.4,79 74.4,55.7 70.1,55.4 	"/&gt;
+	&lt;polygon class="st2" points="70.1,22.1 74.4,21 74.4,44.1 70.1,44.4 	"/&gt;
+&lt;/g&gt;
+&lt;g id="Layer_2"&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+    </ns2:Resources>
+  </ns0:data>
+</ns0:graphml>

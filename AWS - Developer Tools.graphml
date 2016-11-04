@@ -1,0 +1,155 @@
+<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  
+  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
+  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
+  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
+  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
+  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
+  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
+  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
+  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
+  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
+  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
+  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
+  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
+  <ns0:graph edgedefault="directed" id="G">
+    <ns0:node id="n0">
+      <ns0:data key="d3">baeff295-521a-4d1a-8c62-a99355ef6d9e</ns0:data>
+      <ns0:data key="d4">AWSCodeCommit</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="82.4000015258789" width="68.19999694824219" x="0.0" y="30.0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.4000015258789" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="1" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n1">
+      <ns0:data key="d3">0d509a54-81ff-4c66-83db-1d6e86a1500b</ns0:data>
+      <ns0:data key="d4">AWSCodeDeploy</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="72.0" width="59.60000228881836" x="98.19999694824219" y="35.20000076293945" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.80000114440918" y="76.0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="2" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n2">
+      <ns0:data key="d3">003357a5-cd9b-4f06-b8aa-3be231dffeb3</ns0:data>
+      <ns0:data key="d4">AWSCodePipeline</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="72.0" width="59.599998474121094" x="187.79999923706055" y="35.20000076293945" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.799999237060547" y="76.0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="3" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+  </ns0:graph>
+  <ns0:data key="d8">
+    <ns2:Resources>
+      <ns2:Resource id="1">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" 
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#B7CA9D;}
+	.st1{fill:#3C4929;}
+	.st2{fill:#4B612C;}
+	.st3{fill:#759C3E;}
+&lt;/style&gt;
+&lt;g&gt;
+	&lt;polygon class="st2" points="25.4,78.8 15.9,74.1 15.9,25.8 25.4,21.1 38.5,50.7 	"/&gt;
+	&lt;polygon class="st3" points="56.8,29.5 25.4,21.1 25.4,78.8 56.8,70.1 	"/&gt;
+	&lt;polygon class="st2" points="71.3,65.8 78.6,68.2 83.2,52.3 78.6,36.4 71.3,37.5 	"/&gt;
+	&lt;polygon class="st1" points="78.6,36.8 71.3,37.8 67,36.8 74.5,21.2 	"/&gt;
+	&lt;polygon class="st2" points="67,36.8 74.5,35.8 74.5,21.1 67,23.1 	"/&gt;
+	&lt;polygon class="st1" points="43.1,31.5 50,24.3 68.1,34.3 61.4,35.3 	"/&gt;
+	&lt;polygon class="st0" points="78.6,63.2 71.3,62.3 67,63.1 74.5,78.9 	"/&gt;
+	&lt;polygon class="st2" points="67,63.1 74.5,64.1 74.5,78.9 67,76.8 	"/&gt;
+	&lt;polygon class="st3" points="68.1,34.3 50,29.8 50,8.8 68.1,17.9 	"/&gt;
+	&lt;polygon class="st3" points="84.1,25.9 74.5,21.1 74.5,35.8 84.1,38.1 	"/&gt;
+	&lt;polygon class="st0" points="43.1,68.4 50,82.2 68.1,65.8 61.4,64.6 	"/&gt;
+	&lt;polygon class="st3" points="68.1,65.8 50,70.1 50,91.2 68.1,82.1 	"/&gt;
+	&lt;polygon class="st3" points="84.1,74.1 74.5,78.9 74.5,64.1 84.1,61.8 	"/&gt;
+	&lt;polygon class="st2" points="31.8,82 50,91.2 58.4,50.1 50,8.8 31.8,17.9 	"/&gt;
+	&lt;polygon class="st3" points="60.2,86 50,91.2 50,9.1 60.2,14.2 	"/&gt;
+	&lt;polygon class="st3" points="78.6,76.8 84.1,74.1 84.1,25.9 78.6,24.7 	"/&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="2">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" 
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#B7CA9D;}
+	.st1{fill:#3C4929;}
+	.st2{fill:#4B612C;}
+	.st3{fill:#759C3E;}
+&lt;/style&gt;
+&lt;polygon class="st3" points="59.4,66.7 28.6,75.2 28.6,24.7 59.4,33.1 "/&gt;
+&lt;polygon class="st2" points="28.6,75.2 20.2,71 20.2,28.9 28.6,24.7 "/&gt;
+&lt;polygon class="st2" points="34.1,42.9 50,40.9 50,58.9 34.1,57 "/&gt;
+&lt;polygon class="st1" points="79.8,39.5 65.3,41 34.1,36 50,14 "/&gt;
+&lt;polygon class="st2" points="34.1,21.9 50,14 50,32 34.1,36 "/&gt;
+&lt;polygon class="st0" points="79.8,60.5 65.3,59 34.1,64 50,85.8 "/&gt;
+&lt;polygon class="st2" points="34.1,78 50,86 50,68 34.1,64 "/&gt;
+&lt;polygon class="st3" points="79.8,39.5 50,32 50,14 79.8,28.9 "/&gt;
+&lt;polygon class="st3" points="79.8,55.2 50,58.9 50,40.9 79.8,44.7 "/&gt;
+&lt;polygon class="st3" points="79.8,71.1 50,86 50,68 79.8,60.5 "/&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="3">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+&lt;svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" 
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
+&lt;style type="text/css"&gt;
+	.st0{fill:#B7CA9D;}
+	.st1{fill:#3C4929;}
+	.st2{fill:#4B612C;}
+	.st3{fill:#759C3E;}
+&lt;/style&gt;
+&lt;polygon class="st0" points="49.3,59.4 19.5,63.1 27.9,75.7 58.9,60.6 "/&gt;
+&lt;polygon class="st1" points="49.3,41.5 79.1,37.8 70.8,25.2 39.8,40.3 "/&gt;
+&lt;polygon class="st2" points="39.8,40.3 70.8,35.3 70.8,25.2 39.8,33.6 "/&gt;
+&lt;polygon class="st2" points="19.5,54.7 49.3,57.7 78.6,50.5 49.3,43.3 19.5,46.2 "/&gt;
+&lt;polygon class="st3" points="79.1,54.7 49.3,57.7 49.3,43.3 79.1,46.2 "/&gt;
+&lt;polygon class="st1" points="19.5,37.8 49.3,14.5 65.2,33.6 34,39.6 "/&gt;
+&lt;polygon class="st2" points="19.5,29.4 49.3,14.5 49.3,28.9 19.5,37.8 "/&gt;
+&lt;polygon class="st3" points="70.8,25.2 79.1,29.4 79.1,37.8 70.8,35.3 "/&gt;
+&lt;polygon class="st3" points="58.9,60.6 27.9,65.6 27.9,75.7 58.9,67.3 "/&gt;
+&lt;polygon class="st3" points="65.2,33.6 49.3,28.9 49.3,14.5 65.2,22.4 "/&gt;
+&lt;polygon class="st0" points="79.1,63.1 49.3,86.5 33.5,67.3 64.7,61.3 "/&gt;
+&lt;polygon class="st3" points="79.1,71.5 49.3,86.5 49.3,72.1 79.1,63.1 "/&gt;
+&lt;polygon class="st2" points="33.5,67.3 49.3,72.1 49.3,86.5 33.5,78.5 "/&gt;
+&lt;polygon class="st2" points="27.9,75.7 19.5,71.5 19.5,63.1 27.9,65.6 "/&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+    </ns2:Resources>
+  </ns0:data>
+</ns0:graphml>

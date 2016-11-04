@@ -17,7 +17,7 @@
   <ns0:graph edgedefault="directed" id="G">
     <ns0:node id="n0">
       <ns0:data key="d3">4c9d6cd2-efa2-4e1d-a1ac-aa29160d0607</ns0:data>
-      <ns0:data key="d4">Amazon Mechanical Turk assignment task</ns0:data>
+      <ns0:data key="d4">AmazonMechanicalTurk</ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.27799987792969" width="41.093997955322266" x="0.0" y="37.861000061035156" />
@@ -33,7 +33,7 @@
     </ns0:node>
     <ns0:node id="n1">
       <ns0:data key="d3">0ffec573-5c83-4d4d-9476-70d2f86ab584</ns0:data>
-      <ns0:data key="d4">Amazon Mechanical Turk Human Intelligence Tasks</ns0:data>
+      <ns0:data key="d4">AmazonMechanicalTurk</ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="49.53899383544922" width="46.239990234375" x="71.09399795532227" y="41.23050308227539" />
@@ -49,7 +49,7 @@
     </ns0:node>
     <ns0:node id="n2">
       <ns0:data key="d3">ab9db609-e66d-41f9-b6c1-6e0cadd340b1</ns0:data>
-      <ns0:data key="d4">Amazon Mechanical Turk Requester</ns0:data>
+      <ns0:data key="d4">AmazonMechanicalTurk</ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.763999938964844" width="48.83000183105469" x="147.33398818969727" y="37.61800003051758" />
@@ -65,7 +65,7 @@
     </ns0:node>
     <ns0:node id="n3">
       <ns0:data key="d3">35e5fe0b-da59-491e-895a-50ed0e8fb9fe</ns0:data>
-      <ns0:data key="d4">Amazon Mechanical Turk Workers</ns0:data>
+      <ns0:data key="d4">AmazonMechanicalTurk</ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="56.2140007019043" width="58.83501052856445" x="226.16399002075195" y="37.89299964904785" />
@@ -81,7 +81,7 @@
     </ns0:node>
     <ns0:node id="n4">
       <ns0:data key="d3">0b5dcb4a-08b3-4f3b-81eb-16664b092771</ns0:data>
-      <ns0:data key="d4">Amazon Mechanical Turk</ns0:data>
+      <ns0:data key="d4">AmazonMechanicalTurk</ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.63200378417969" x="314.9990005493164" y="30.0" />
