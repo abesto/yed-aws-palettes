@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.17.1-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4"/>
+  <key attr.name="url" attr.type="string" for="node" id="d5"/>
+  <key attr.name="description" attr.type="string" for="node" id="d6"/>
+  <key for="node" id="d7" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d8" yfiles.type="resources"/>
+  <key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d11"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d12"/>
+  <key for="edge" id="d13" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d3"><![CDATA[29479b20-bc83-4ad1-bc29-79f8d0f7dcb8]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="76.82000732421875" width="68.0" x="0.0" y="32.75"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.0" y="80.82000732421875"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="1"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d3"><![CDATA[291e2d80-666d-45e9-b0f4-89b0de3a5007]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="82.31999969482422" width="70.60000610351562" x="98.0" y="30.000003814697266"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.30000305175781" y="86.31999969482422"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="2"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3"><![CDATA[25f664e1-0618-4549-971f-e8587b5ce7fe]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="54.19295120239258" width="73.5765151977539" x="198.60000610351562" y="44.063528060913086"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="34.78825759887695" y="58.19295120239258"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="3"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d3"><![CDATA[db05629d-ac93-403a-bc6a-84833452b770]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="68.74000549316406" width="68.60000610351562" x="302.17652130126953" y="36.790000915527344"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.30000305175781" y="72.74000549316406"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="4"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d3"><![CDATA[80f70fb0-ca26-4932-86cb-b6bfdc8ac097]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="56.0099983215332" width="89.68000030517578" x="400.77652740478516" y="43.15500450134277"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="42.84000015258789" y="60.0099983215332"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="5"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d3"><![CDATA[10b5929d-6612-4f47-8e8a-9ad40b72d559]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="56.0099983215332" width="89.68000030517578" x="520.4565277099609" y="43.15500450134277"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="42.84000015258789" y="60.0099983215332"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="6"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d3"><![CDATA[839619d9-c90a-4e62-b98b-10ea1a887af6]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="51.84000015258789" width="81.88999938964844" x="640.1365280151367" y="45.24000358581543"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="38.94499969482422" y="55.84000015258789"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="7"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d3"><![CDATA[c174d010-06bd-43c6-8685-9e08a1c1932c]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="82.32000732421875" width="68.19999694824219" x="752.0265274047852" y="30.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.32000732421875"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="8"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d3"><![CDATA[402bda5e-a28f-497c-a82b-2d901f1801a8]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="44.0" width="38.0" x="0.0" y="142.32000732421875"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="17.0" y="48.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="9"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d3"><![CDATA[30cd429b-3049-4853-b79e-3dfdfbcf39b1]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="42.63999938964844" width="65.68000030517578" x="68.0" y="143.00000762939453"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="30.84000015258789" y="46.63999938964844"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="10"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+  </graph>
+  <data key="d8">
+    <y:Resources>
+      <y:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="79.64 52.69 55.8 51.9 16 52.48 16 64.5 28.56 80.4 44.58 88.41 44.58 80.74 50 78.83 50 86.02 55.42 88.41 79.64 52.69" fill="#692f56"/&gt;
+    &lt;polygon points="79.64 47.31 56.32 48.09 16 47.52 16 35.5 28.56 19.6 44.58 11.59 44.58 19.26 50 21.17 50 13.98 55.42 11.59 79.64 47.31" fill="#692f56"/&gt;
+    &lt;polygon points="44.58 68.17 50 55.84 84 52.48 84 64.5 71.44 80.4 55.42 88.41 55.42 80.74 50 78.83 50 86.02 44.58 88.41 44.58 68.17" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 32.15 50 45.16 84 47.52 84 35.5 71.44 19.6 55.42 11.59 55.42 19.26 50 21.17 50 13.98 44.58 11.59 44.58 32.15" fill="#ad688b"/&gt;
+    &lt;polygon points="39.08 52.34 79.57 59.91 84 52.48 56.77 51.88 39.08 52.34" fill="#cfb2c1"/&gt;
+    &lt;polygon points="81.82 61.09 57.88 59.69 56.32 73.73 65.27 79.64 78.32 70.65 81.82 61.09" fill="#875078"/&gt;
+    &lt;polygon points="59.25 52.19 79.64 52.69 79.64 62.54 59.25 60.23 59.25 52.19" fill="#692f56"/&gt;
+    &lt;polygon points="18.18 60.27 43.43 59.14 47.7 72.99 33.01 79.23 23.08 70.65 18.18 60.27" fill="#ad688b"/&gt;
+    &lt;polygon points="59.89 51.99 49.02 51.75 16 52.48 20.36 59.7 59.89 51.99" fill="#cfb2c1"/&gt;
+    &lt;polygon points="40.11 52.2 20.36 52.69 20.36 62.54 40.11 60.31 40.11 52.2" fill="#875078"/&gt;
+    &lt;polygon points="39.08 47.67 79.64 37.47 84 47.53 56.77 48.13 39.08 47.67" fill="#512843"/&gt;
+    &lt;polygon points="81.82 38.92 57.88 40.31 56.32 26.28 65.27 20.37 78.32 29.36 81.82 38.92" fill="#875078"/&gt;
+    &lt;polygon points="59.25 47.82 79.64 47.31 79.64 37.47 59.25 39.77 59.25 47.82" fill="#692f56"/&gt;
+    &lt;polygon points="18.18 39.74 43.43 40.86 47.7 27.02 33.01 20.78 23.08 29.36 18.18 39.74" fill="#ad688b"/&gt;
+    &lt;polygon points="59.89 48.01 49.02 48.26 16 47.53 20.22 38.02 59.89 48.01" fill="#512843"/&gt;
+    &lt;polygon points="40.11 47.8 20.36 47.31 20.36 37.47 40.11 39.7 40.11 47.8" fill="#875078"/&gt;
+    &lt;polygon points="62.78 74.33 50 71.04 31.94 75.69 44.54 80.76 62.78 74.33" fill="#cfb2c1"/&gt;
+    &lt;polygon points="68.02 75.68 50 71.04 37.22 74.33 55.42 80.74 68.02 75.68" fill="#cfb2c1"/&gt;
+    &lt;polygon points="62.82 25.65 50 28.93 31.94 24.31 44.58 19.26 62.82 25.65" fill="#512843"/&gt;
+    &lt;polygon points="68.06 24.31 50 28.93 37.18 25.65 55.42 19.26 68.06 24.31" fill="#512843"/&gt;
+    &lt;polygon points="36.21 47.31 68.06 41.1 74.42 47.02 50 47.69 36.21 47.31" fill="#512843"/&gt;
+    &lt;polygon points="66.07 47.25 50 47.69 25.58 47.02 34.27 36.01 66.07 47.25" fill="#512843"/&gt;
+    &lt;polygon points="30.41 41.86 50 43.19 50 34.75 36.7 30.66 30.41 41.86" fill="#ad688b"/&gt;
+    &lt;polygon points="61.37 30.14 50 34.75 50 42.69 68.57 41.06 61.37 30.14" fill="#875078"/&gt;
+    &lt;polygon points="35.23 69.3 50 65.23 50 56.65 27.59 57.93 35.23 69.3" fill="#ad688b"/&gt;
+    &lt;polygon points="68.79 57.48 50 56.65 50 65.23 58.91 68.72 68.39 67.16 68.79 57.48" fill="#875078"/&gt;
+    &lt;polygon points="51.48 42.56 68.06 41.1 68.06 46.7 51.48 47.23 51.48 42.56" fill="#692f56"/&gt;
+    &lt;polygon points="47.7 42.52 31.94 41.13 31.94 46.7 47.7 47.21 47.7 42.52" fill="#875078"/&gt;
+    &lt;polygon points="51.06 52.7 68.13 58.52 74.42 52.98 57.28 52.49 51.06 52.7" fill="#cfb2c1"/&gt;
+    &lt;polygon points="51.48 52.74 68.06 53.3 68.06 58.92 51.48 57.62 51.48 52.74" fill="#692f56"/&gt;
+    &lt;polygon points="42.97 52.93 36.46 52.67 25.58 52.98 31.94 58.92 42.97 52.93" fill="#cfb2c1"/&gt;
+    &lt;polygon points="47.7 52.77 31.94 53.3 31.94 58.92 47.7 57.5 47.7 52.77" fill="#875078"/&gt;
+    &lt;polygon points="50 58.13 39.88 57.12 39.88 42.73 50 41.71 50 58.13" fill="#692f56"/&gt;
+    &lt;polygon points="28.56 19.6 44.58 11.59 44.58 19.26 28.56 25.67 28.56 19.6" fill="#692f56"/&gt;
+    &lt;polygon points="35.63 27.45 44.58 24.48 44.58 32.15 35.63 34.22 35.63 27.45" fill="#692f56"/&gt;
+    &lt;polygon points="25.58 38.39 31.94 37.12 31.94 46.7 25.58 47.02 25.58 38.39" fill="#692f56"/&gt;
+    &lt;polygon points="16 35.5 20.36 34.19 20.36 47.31 16 47.52 16 35.5" fill="#692f56"/&gt;
+    &lt;polygon points="31.94 24.31 19.88 38.02 16 35.5 28.56 19.6 31.94 24.31" fill="#692f56"/&gt;
+    &lt;polygon points="40.74 33.04 31.21 41.75 25.55 38.4 35.63 27.45 40.74 33.04" fill="#692f56"/&gt;
+    &lt;polygon points="71.44 19.6 55.42 11.59 55.42 19.26 71.44 25.67 71.44 19.6" fill="#ad688b"/&gt;
+    &lt;polygon points="64.36 27.45 55.42 24.48 55.42 32.15 64.36 34.22 64.36 27.45" fill="#ad688b"/&gt;
+    &lt;polygon points="74.42 38.39 68.06 37.12 68.06 46.7 74.42 47.02 74.42 38.39" fill="#ad688b"/&gt;
+    &lt;polygon points="84 35.5 79.64 34.19 79.64 47.31 84 47.52 84 35.5" fill="#ad688b"/&gt;
+    &lt;polygon points="68.06 24.31 80.13 38.02 84 35.5 71.44 19.6 68.06 24.31" fill="#ad688b"/&gt;
+    &lt;polygon points="59.26 33.04 68.79 41.75 74.45 38.4 64.36 27.45 59.26 33.04" fill="#ad688b"/&gt;
+    &lt;polygon points="28.56 80.4 44.58 88.41 44.58 80.74 28.56 74.33 28.56 80.4" fill="#692f56"/&gt;
+    &lt;polygon points="35.63 72.55 44.58 75.52 44.58 67.85 35.63 65.78 35.63 72.55" fill="#692f56"/&gt;
+    &lt;polygon points="25.58 61.61 31.94 62.88 31.94 53.3 25.58 52.98 25.58 61.61" fill="#692f56"/&gt;
+    &lt;polygon points="16 64.5 20.36 65.81 20.36 52.69 16 52.48 16 64.5" fill="#692f56"/&gt;
+    &lt;polygon points="31.94 75.69 19.88 61.98 16 64.5 28.56 80.4 31.94 75.69" fill="#692f56"/&gt;
+    &lt;polygon points="40.74 66.96 31.21 58.25 25.55 61.6 35.63 72.55 40.74 66.96" fill="#692f56"/&gt;
+    &lt;polygon points="71.44 80.4 55.42 88.41 55.42 80.74 71.44 74.33 71.44 80.4" fill="#ad688b"/&gt;
+    &lt;polygon points="64.36 72.55 55.42 75.52 55.42 67.85 64.36 65.78 64.36 72.55" fill="#ad688b"/&gt;
+    &lt;polygon points="74.42 61.61 68.06 62.88 68.06 53.3 74.42 52.98 74.42 61.61" fill="#ad688b"/&gt;
+    &lt;polygon points="84 64.5 79.64 65.81 79.64 52.69 84 52.48 84 64.5" fill="#ad688b"/&gt;
+    &lt;polygon points="68.06 75.69 80.13 61.98 84 64.5 71.44 80.4 68.06 75.69" fill="#ad688b"/&gt;
+    &lt;polygon points="59.26 66.96 68.79 58.25 74.45 61.6 64.36 72.55 59.26 66.96" fill="#ad688b"/&gt;
+    &lt;polygon points="60.17 57.11 50 58.13 50 41.71 60.17 42.73 60.17 57.11" fill="#ad688b"/&gt;
+    &lt;polygon points="50 33.25 55.42 32.15 55.42 24.48 50 26.06 50 33.25" fill="#692f56"/&gt;
+    &lt;polygon points="50 73.93 55.42 75.52 55.42 67.85 50 66.74 50 73.93" fill="#692f56"/&gt;
+    &lt;polygon points="50 86.02 55.42 88.41 55.42 80.74 50 78.83 50 86.02" fill="#692f56"/&gt;
+    &lt;polygon points="50 21.16 55.42 19.26 55.42 11.59 50 13.97 50 21.16" fill="#692f56"/&gt;
+    &lt;polygon points="44.58 32.15 50 33.25 50 26.06 44.58 24.48 44.58 32.15" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 75.52 50 73.93 50 66.74 44.58 67.85 44.58 75.52" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 88.41 50 86.02 50 78.83 44.58 80.74 44.58 88.41" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 19.34 50 21.23 50 13.97 44.58 11.59 44.58 19.34" fill="#ad688b"/&gt;
+    &lt;polygon points="53.85 65.95 50 65.23 40.74 66.96 44.56 67.86 53.85 65.95" fill="#cfb2c1"/&gt;
+    &lt;polygon points="59.25 66.96 50 65.23 46.15 65.95 55.42 67.85 59.25 66.96" fill="#cfb2c1"/&gt;
+    &lt;polygon points="53.87 34.03 50 34.75 40.74 33.04 44.58 32.15 53.87 34.03" fill="#512843"/&gt;
+    &lt;polygon points="59.26 33.04 50 34.75 46.13 34.03 55.42 32.15 59.26 33.04" fill="#512843"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="2">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="31.4 21.96 14.7 48.55 31.4 75.14 44.74 71.72 45.4 25.55 31.4 21.96" fill="#876929"/&gt;
+    &lt;polygon points="50.05 70.36 31.4 75.14 31.4 21.96 50.05 26.74 50.05 70.36" fill="#d9a741"/&gt;
+    &lt;polygon points="47.83 31.08 50.05 91.16 85.3 73.53 85.29 28.65 76.3 30.14 47.83 31.08" fill="#876929"/&gt;
+    &lt;polygon points="61.28 42.95 72.28 42.3 83.15 22.58 55.66 8.84 45.4 13.33 61.28 42.95" fill="#876929"/&gt;
+    &lt;polygon points="55.66 8.84 83.15 22.58 72.28 42.3 55.66 8.84" fill="#d9a741"/&gt;
+    &lt;polygon points="50.05 14.54 72.28 54.88 76.1 78.13 50.05 91.16 39.5 85.88 39.5 18.76 50.04 14.54 50.05 14.54" fill="#876929"/&gt;
+    &lt;polygon points="85.29 28.65 85.3 73.53 50.05 91.16 50.05 14.54 72.28 54.88 85.29 28.65" fill="#d9a741"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="3">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;defs&gt;
+    &lt;clipPath id="clip-path"&gt;
+      &lt;path d="M86,58.68V77.07H22.87V58.68Z" fill="#876929"/&gt;
+    &lt;/clipPath&gt;
+    &lt;clipPath id="clip-path-2"&gt;
+      &lt;path d="M29.9,33.41c0,.21,0,.43,0,.65v2.36c0-.22,0-.44,0-.65Z" fill="#d9a741"/&gt;
+    &lt;/clipPath&gt;
+  &lt;/defs&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;g&gt;
+      &lt;path d="M86,58.68V77.07H22.87V58.68Z" fill="#876929"/&gt;
+      &lt;g clip-path="url(#clip-path)"&gt;
+        &lt;g style="isolation: isolate"&gt;
+          &lt;path d="M86,58.68V77.07H22.87V58.68H86" fill="#876929"/&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+    &lt;path d="M86,34.84V74.71H22.87V50.21a15.35,15.35,0,0,0,3,.29,15.08,15.08,0,0,0,11.52-5.32L54,56Z" fill="#d9a741"/&gt;
+    &lt;path d="M38.52,40.94v2.36L54,53.2,83.54,33.67V31.31Z" fill="#876929"/&gt;
+    &lt;path d="M40.84,31.31h42.7L54,50.83l-15.5-9.89a14.86,14.86,0,0,0,2.41-8.09A12.9,12.9,0,0,0,40.84,31.31Z" fill="#d9a741"/&gt;
+    &lt;g style="isolation: isolate"&gt;
+      &lt;g style="isolation: isolate"&gt;
+        &lt;path d="M29.9,33.41c0,.21,0,.43,0,.65v2.36c0-.22,0-.44,0-.65Z" fill="#d9a741"/&gt;
+        &lt;g clip-path="url(#clip-path-2)"&gt;
+          &lt;g style="isolation: isolate"&gt;
+            &lt;path d="M29.9,33.41v2.36c0,.21,0,.43,0,.65V34.06c0-.22,0-.44,0-.65" fill="#d9a741"/&gt;
+          &lt;/g&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+      &lt;path d="M36.49,28.38A11.92,11.92,0,0,1,37,38a7.19,7.19,0,0,1-3.53,4.07,3.59,3.59,0,0,1-1.78.44,4.78,4.78,0,0,1-3.94-2.06c-.12-.18-.23-.35-.39-.57a4.23,4.23,0,0,1-3.51,1.54,3,3,0,0,1-3.19-3.3,3.6,3.6,0,0,1,2.27-3.45,15,15,0,0,1,4-.73v-.28a2.73,2.73,0,0,0-.26-1.53,1.45,1.45,0,0,0-1.21-.55,1.62,1.62,0,0,0-1.71,1.27.44.44,0,0,1-.37.38L21.31,33a.38.38,0,0,1-.32-.44c.48-2.49,2.73-3.24,4.77-3.24A4.85,4.85,0,0,1,29,30.43c1,.95.93,2.24.93,3.63v3.3a2.83,2.83,0,0,0,.78,1.93,1.35,1.35,0,0,0,.82.28c1,0,2.14-1,2.76-2.58a9.27,9.27,0,0,0-.18-7.31c-1.45-2.7-4.88-4.22-8.24-4.22a9.12,9.12,0,0,0-5.37,1.6,10.43,10.43,0,0,0-2.53,14.07,10.27,10.27,0,0,0,8.75,4.54,10.94,10.94,0,0,0,5.6-1.52.89.89,0,0,1,.47-.13.91.91,0,0,1,.79.46.89.89,0,0,1-.36,1.22,12.48,12.48,0,0,1-6.69,1.87,12.23,12.23,0,0,1-10.32-5.26,12.64,12.64,0,0,1,2.86-17.2A11.34,11.34,0,0,1,26,22.93a13,13,0,0,1,2.43.23A11,11,0,0,1,36.49,28.38Zm-10,10a4.13,4.13,0,0,0,.4-2.24v-.45c-1.54,0-3.17.32-3.17,2.12,0,.92.47,1.54,1.29,1.54a1.71,1.71,0,0,0,1.47-1" fill="#d9a741"/&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="4">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="42.2 77.81 35.11 75.83 28.41 68.19 35.88 68.81 42.2 77.81" fill="#b8852e"/&gt;
+    &lt;polygon points="42.2 77.81 47.27 67.19 42.53 66.52 35.88 68.81 42.2 77.81" fill="#d9a741"/&gt;
+    &lt;polygon points="25.81 72.78 21.83 71.66 17.44 66.65 22.1 67.38 25.81 72.78" fill="#b8852e"/&gt;
+    &lt;polygon points="25.81 72.78 28.67 66.8 26 66.42 22.1 67.38 25.81 72.78" fill="#d9a741"/&gt;
+    &lt;polygon points="15.7 66.82 19.77 67.65 39.71 50.31 19.77 30.89 15.7 32.94 15.7 66.82" fill="#876929"/&gt;
+    &lt;polygon points="35.51 34.31 35.51 66.19 19.77 67.65 19.77 30.89 35.51 34.31" fill="#d9a741"/&gt;
+    &lt;polygon points="24.8 68.73 31.78 70.14 51.06 47.81 31.78 24.82 24.8 28.35 24.8 68.73" fill="#876929"/&gt;
+    &lt;polygon points="71.64 37.48 71.64 65.01 31.78 70.14 31.78 24.82 71.64 37.48" fill="#d9a741"/&gt;
+    &lt;polygon points="64.43 84.37 54.36 81.55 44.84 70.69 55.46 71.58 64.43 84.37" fill="#b8852e"/&gt;
+    &lt;polygon points="64.43 84.37 71.64 69.28 64.9 68.32 55.46 71.58 64.43 84.37" fill="#d9a741"/&gt;
+    &lt;polygon points="39.71 71.63 49.98 73.61 63.91 44.62 49.98 15.63 39.71 20.82 39.71 71.63" fill="#876929"/&gt;
+    &lt;polygon points="49.98 73.61 84.3 66.74 84.3 32.79 49.98 15.63 49.98 73.61" fill="#d9a741"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="5">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;defs&gt;
+    &lt;clipPath id="clip-path"&gt;
+      &lt;path d="M41.75,33.15l-14.16.46a13.25,13.25,0,0,0-1-5V26.17c.31.77,13.06,3.23,13.06,3.23Z" fill="#876929"/&gt;
+    &lt;/clipPath&gt;
+  &lt;/defs&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;rect x="12.95" y="64.03" width="81.89" height="13.97" fill="#876929"/&gt;
+    &lt;rect x="12.95" y="47.95" width="81.89" height="12.71" fill="#876929"/&gt;
+    &lt;polygon points="94.84 41.19 94.84 43.68 22.9 43.68 22.9 41.19 64.33 27.62 94.84 41.19" fill="#876929"/&gt;
+    &lt;g&gt;
+      &lt;path d="M41.75,33.15l-14.16.46a13.25,13.25,0,0,0-1-5V26.17c.31.77,13.06,3.23,13.06,3.23Z" fill="#876929"/&gt;
+      &lt;g clip-path="url(#clip-path)"&gt;
+        &lt;path d="M27.59,31.12v2.49a13.25,13.25,0,0,0-1-5V26.17a13.22,13.22,0,0,1,1,4.95" fill="#876929"/&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+    &lt;path d="M94.84,26.17v15H22.9a13.16,13.16,0,0,0,3.72-15Z" fill="#d9a741"/&gt;
+    &lt;path d="M12.95,45.64H94.84V58.17H12.95Z" fill="#d9a741"/&gt;
+    &lt;path d="M12.95,63H94.84V75.52H12.95Z" fill="#d9a741"/&gt;
+    &lt;path d="M23.63,33.7a9.23,9.23,0,0,1-18.46,0V31.22l9.23-6.75,9.23,6.75Z" fill="#8d090a"/&gt;
+    &lt;circle cx="14.39" cy="31.22" r="9.23" fill="#ea2227"/&gt;
+    &lt;rect x="15.61" y="48.29" width="76.57" height="7.24" fill="#fff"/&gt;
+    &lt;rect x="15.61" y="65.64" width="76.57" height="7.24" fill="#fff"/&gt;
+    &lt;g&gt;
+      &lt;path d="M43.56,29.19h2.09v3.93h2.44V29.19h2.09V39.47H48.09V34.91H45.65v4.56H43.56Z" fill="#fff"/&gt;
+      &lt;path d="M57.69,29.19v1.7H55.43v8.58H53.34V30.89H51.08v-1.7Z" fill="#fff"/&gt;
+      &lt;path d="M64.65,29.19v1.7H62.39v8.58H60.3V30.89H58v-1.7Z" fill="#fff"/&gt;
+      &lt;path d="M65.56,29.19h3.65c2.12,0,2.84,1.54,2.84,3.08,0,2.13-1.32,3.1-3.29,3.1H67.64v4.1H65.56Zm2.09,4.65h.93c.83,0,1.39-.49,1.39-1.54s-.4-1.58-1.45-1.58h-.87Z" fill="#fff"/&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="6">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;defs&gt;
+    &lt;clipPath id="clip-path"&gt;
+      &lt;path d="M41.75,33.15l-14.16.46a13.25,13.25,0,0,0-1-5V26.17c.31.77,13.06,3.23,13.06,3.23Z" fill="#876929"/&gt;
+    &lt;/clipPath&gt;
+  &lt;/defs&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;rect x="12.95" y="64.03" width="81.89" height="13.97" fill="#876929"/&gt;
+    &lt;rect x="12.95" y="47.95" width="81.89" height="12.71" fill="#876929"/&gt;
+    &lt;polygon points="94.84 41.19 94.84 43.68 22.9 43.68 22.9 41.19 64.33 27.62 94.84 41.19" fill="#876929"/&gt;
+    &lt;g&gt;
+      &lt;path d="M41.75,33.15l-14.16.46a13.25,13.25,0,0,0-1-5V26.17c.31.77,13.06,3.23,13.06,3.23Z" fill="#876929"/&gt;
+      &lt;g clip-path="url(#clip-path)"&gt;
+        &lt;path d="M27.59,31.12v2.49a13.25,13.25,0,0,0-1-5V26.17a13.22,13.22,0,0,1,1,4.95" fill="#876929"/&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+    &lt;path d="M94.84,26.17v15H22.9a13.16,13.16,0,0,0,3.72-15Z" fill="#d9a741"/&gt;
+    &lt;path d="M12.95,45.64H94.84V58.17H12.95Z" fill="#d9a741"/&gt;
+    &lt;path d="M12.95,63H94.84V75.52H12.95Z" fill="#d9a741"/&gt;
+    &lt;g&gt;
+      &lt;path d="M49.18,28.36V30H45.52v2.4H49v1.68H45.52v2.74h3.81v1.68H43.45V28.36Z" fill="#fff"/&gt;
+      &lt;path d="M50.3,30.86H52.2v.79h0a2.2,2.2,0,0,1,2-1A1.69,1.69,0,0,1,56,31.89h0a1.92,1.92,0,0,1,2-1.22c1.31,0,1.92.81,1.92,2.29v5.58h-2V33.17c0-.64-.22-1-.78-1s-1,.43-1,1.31v5h-2V33.17c0-.64-.21-1-.78-1s-1,.43-1,1.31v5h-2Z" fill="#fff"/&gt;
+      &lt;path d="M61.18,33.21V33c0-1.77,1.22-2.37,2.71-2.37,2.35,0,2.8,1,2.8,2.35v4a3.07,3.07,0,0,0,.24,1.48H65a3.17,3.17,0,0,1-.25-.8h0a1.91,1.91,0,0,1-2,1c-1.37,0-1.86-1.17-1.86-2.2,0-1.44.59-2,1.95-2.4l1.12-.3c.59-.16.79-.38.79-.9a.82.82,0,0,0-.92-.94A.88.88,0,0,0,63,33v.21ZM64.8,34.7a2.55,2.55,0,0,1-.85.39c-.8.17-1.12.55-1.12,1.24s.21,1.07.75,1.07a1.17,1.17,0,0,0,1.22-1.18Z" fill="#fff"/&gt;
+      &lt;path d="M68.18,28.24h2v1.68h-2Zm0,2.62h2v7.67h-2Z" fill="#fff"/&gt;
+      &lt;path d="M71.62,28.36h2V38.53h-2Z" fill="#fff"/&gt;
+    &lt;/g&gt;
+    &lt;path d="M23.63,33.7a9.23,9.23,0,0,1-18.46,0V31.22l9.23-6.75,9.23,6.75Z" fill="#8d090a"/&gt;
+    &lt;circle cx="14.39" cy="31.22" r="9.23" fill="#ea2227"/&gt;
+    &lt;rect x="15.61" y="48.29" width="76.57" height="7.24" fill="#fff"/&gt;
+    &lt;rect x="15.61" y="65.64" width="76.57" height="7.24" fill="#fff"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="7">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;rect x="9.06" y="61.95" width="81.89" height="13.97" fill="#876929"/&gt;
+    &lt;rect x="9.06" y="45.86" width="81.89" height="12.71" fill="#876929"/&gt;
+    &lt;polygon points="90.94 39.11 90.94 41.6 9.06 41.6 9.06 39.11 56.22 25.53 90.94 39.11" fill="#876929"/&gt;
+    &lt;rect x="9.06" y="24.08" width="81.89" height="15.03" fill="#d9a741"/&gt;
+    &lt;path d="M9.06,43.56H90.94V56.08H9.06Z" fill="#d9a741"/&gt;
+    &lt;path d="M9.06,60.91H90.94V73.43H9.06Z" fill="#d9a741"/&gt;
+    &lt;rect x="11.72" y="46.2" width="76.57" height="7.24" fill="#fff"/&gt;
+    &lt;rect x="11.72" y="63.55" width="76.57" height="7.24" fill="#fff"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="8">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="15.9 35.53 15.92 74.12 50 91.16 84.08 74.12 84.08 64.48 55.1 60.87 55.12 39.13 84.1 35.54 84.1 25.89 50 8.84 15.9 25.88 15.9 35.53" fill="#876929"/&gt;
+    &lt;polygon points="15.92 64.47 50 74.7 50 91.16 15.92 74.12 15.92 64.47" fill="#876929"/&gt;
+    &lt;polygon points="20.25 76.29 15.9 74.11 15.9 25.88 20.26 23.71 20.25 76.29" fill="#876929"/&gt;
+    &lt;polygon points="55.12 60.87 20.25 65.77 20.26 34.22 55.12 39.13 55.12 60.87" fill="#d9a741"/&gt;
+    &lt;polygon points="84.1 35.54 50 25.3 50 8.84 84.1 25.89 84.1 35.54" fill="#d9a741"/&gt;
+    &lt;polygon points="84.08 64.48 50 74.7 50 91.16 84.08 74.12 84.08 64.48" fill="#d9a741"/&gt;
+    &lt;polygon points="37.44 58.83 50 60.4 50 39.52 37.44 41.11 37.44 58.83" fill="#876929"/&gt;
+    &lt;polygon points="24.79 57.27 32.94 58.28 32.94 41.69 24.79 42.72 24.79 57.27" fill="#876929"/&gt;
+    &lt;polygon points="20.26 34.22 50 25.3 84.1 35.54 55.12 39.13 20.26 34.22" fill="#624a1e"/&gt;
+    &lt;polygon points="20.25 65.77 50 74.7 84.08 64.48 55.12 60.87 20.25 65.77" fill="#fad791"/&gt;
+    &lt;polygon points="84.08 56.09 50 60.4 50 39.52 84.08 43.86 84.08 56.09" fill="#d9a741"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="9">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;rect x="31" y="28" width="10" height="44" fill="#876929"/&gt;
+    &lt;rect x="44.99" y="28" width="10" height="44" fill="#876929"/&gt;
+    &lt;rect x="59" y="28" width="10" height="44" fill="#876929"/&gt;
+    &lt;rect x="31" y="28" width="10" height="44" fill="#876929"/&gt;
+    &lt;rect x="44.99" y="28" width="10" height="44" fill="#876929"/&gt;
+    &lt;rect x="59" y="28" width="10" height="44" fill="#876929"/&gt;
+    &lt;rect x="31" y="28" width="10" height="41.52" fill="#d9a741"/&gt;
+    &lt;rect x="44.99" y="28" width="10" height="41.52" fill="#d9a741"/&gt;
+    &lt;rect x="59" y="28" width="10" height="41.52" fill="#d9a741"/&gt;
+    &lt;rect x="46.99" y="30" width="6" height="37.52" fill="#fff"/&gt;
+    &lt;rect x="61" y="30" width="6" height="37.52" fill="#fff"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="10">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;Messaging&lt;/title&gt;
+  &lt;g&gt;
+    &lt;rect x="17.16" y="28.68" width="65.68" height="42.64" fill="#876929"/&gt;
+    &lt;path d="M17.16,28.68H82.84V68.41H17.16Z" fill="#d9a741"/&gt;
+    &lt;rect x="35.39" y="34.03" width="7" height="29.96" fill="#fff"/&gt;
+    &lt;rect x="46.5" y="34.03" width="7" height="29.96" fill="#fff"/&gt;
+    &lt;rect x="57.61" y="34.03" width="7" height="29.96" fill="#fff"/&gt;
+    &lt;polygon points="25.27 42.51 25.27 55.51 31.27 49.01 25.27 42.51" fill="#fff"/&gt;
+    &lt;polygon points="68.73 42.51 68.73 55.51 74.73 49.01 68.73 42.51" fill="#fff"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>
