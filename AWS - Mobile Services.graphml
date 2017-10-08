@@ -1,588 +1,308 @@
-<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  
-  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
-  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
-  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
-  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
-  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
-  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
-  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
-  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
-  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
-  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
-  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
-  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
-  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
-  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
-  <ns0:graph edgedefault="directed" id="G">
-    <ns0:node id="n0">
-      <ns0:data key="d3">d2a1459e-f365-4bdc-88cf-341e2659de1a</ns0:data>
-      <ns0:data key="d4">AmazonCognito</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="82.39999389648438" width="68.19999694824219" x="0.0" y="30.0" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.39999389648438" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="1" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n1">
-      <ns0:data key="d3">9b897b6b-31e6-4c6f-aded-079bac3fc100</ns0:data>
-      <ns0:data key="d4">AmazonMobileAnalytics</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="82.39999389648438" width="80.19999694824219" x="98.19999694824219" y="30.0" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="38.099998474121094" y="86.39999389648438" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="2" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n2">
-      <ns0:data key="d3">c5913cbe-a198-4664-be6b-4431e11a3041</ns0:data>
-      <ns0:data key="d4">AmazonSNS</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="68.80000305175781" width="68.60000610351562" x="208.39999389648438" y="36.79999542236328" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.30000305175781" y="72.80000305175781" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="3" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n3">
-      <ns0:data key="d3">a9c19867-fc4e-46ad-aea9-27aaffc8f035</ns0:data>
-      <ns0:data key="d4">AmazonSNS</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="56.0" width="89.5999984741211" x="307.0" y="43.19999694824219" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="42.79999923706055" y="60.0" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="4" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n4">
-      <ns0:data key="d3">64d88c8f-9f26-4347-8ec9-42ef8f08333c</ns0:data>
-      <ns0:data key="d4">AmazonSNS</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="56.0" width="89.5999984741211" x="426.5999984741211" y="43.19999694824219" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="42.79999923706055" y="60.0" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="5" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n5">
-      <ns0:data key="d3">684878e9-70e5-4592-b794-8edaeb4567ee</ns0:data>
-      <ns0:data key="d4">AmazonSNS</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="51.80000305175781" width="81.9000015258789" x="546.1999969482422" y="45.29999542236328" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="38.95000076293945" y="55.80000305175781" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="6" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n6">
-      <ns0:data key="d3">4997fd17-8657-45cf-aad3-a29ccb1a1f1a</ns0:data>
-      <ns0:data key="d4">AWSDeviceFarm</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="82.39999389648438" width="67.80000305175781" x="658.0999984741211" y="30.0" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.900001525878906" y="86.39999389648438" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="7" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-    <ns0:node id="n7">
-      <ns0:data key="d3">a9a8e915-516b-4c14-9269-f4f84b9c8d9a</ns0:data>
-      <ns0:data key="d4">AWSMobileHub</ns0:data>
-      <ns0:data key="d6" />
-      <ns0:data key="d7">
-        <ns2:SVGNode>
-          <ns2:Geometry height="72.0" width="66.0" x="755.9000015258789" y="35.19999694824219" />
-          <ns2:Fill color="#CCCCFF" transparent="false" />
-          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.0" y="76.0" />
-          <ns2:SVGNodeProperties usingVisualBounds="true" />
-          <ns2:SVGModel svgBoundsPolicy="0">
-            <ns2:SVGContent refid="8" />
-          </ns2:SVGModel>
-        </ns2:SVGNode>
-      </ns0:data>
-    </ns0:node>
-  </ns0:graph>
-  <ns0:data key="d8">
-    <ns2:Resources>
-      <ns2:Resource id="1">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;polygon class="st0" points="37.8,58.6 50,60.1 61.3,50.9 50,39.9 37.8,41.4 	"/&gt;
-	&lt;polygon class="st0" points="71.5,24.8 78.4,23.1 83.5,44.6 78.4,73 71.5,72 	"/&gt;
-	&lt;polygon class="st2" points="78.4,71 84.1,74.1 84.1,25.9 78.4,23.1 	"/&gt;
-	&lt;polygon class="st6" points="71.5,65.2 78.4,66.2 50,91.2 42.4,72.4 	"/&gt;
-	&lt;polygon class="st2" points="28.5,75.2 21.6,76.9 17.7,27.9 28.5,29.6 	"/&gt;
-	&lt;polygon class="st7" points="28.5,34.8 21.6,33.8 50,8.8 57.6,27.6 	"/&gt;
-	&lt;polygon class="st6" points="57.6,72.4 39.2,67.8 31.9,69.2 50,90.4 	"/&gt;
-	&lt;polygon class="st7" points="42.4,27.6 50,8.9 68.1,30.8 60.8,32.2 	"/&gt;
-	&lt;polygon class="st2" points="62.2,58.6 50,60.1 50,39.9 62.2,41.4 	"/&gt;
-	&lt;polygon class="st2" points="84.1,74.1 50,91.2 50,74.7 80.3,65.6 82.3,66.2 	"/&gt;
-	&lt;polygon class="st0" points="31.9,69.2 50,74.7 50,91.1 31.9,82.1 	"/&gt;
-	&lt;polygon class="st2" points="68.1,30.8 50,25.3 50,8.9 68.1,17.9 	"/&gt;
-	&lt;polygon class="st0" points="15.9,25.9 50,8.8 50,25.3 15.9,35.5 	"/&gt;
-	&lt;polygon class="st0" points="21.6,29.5 15.9,25.9 15.9,74.1 21.6,76.9 	"/&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.17.1-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4"/>
+  <key attr.name="url" attr.type="string" for="node" id="d5"/>
+  <key attr.name="description" attr.type="string" for="node" id="d6"/>
+  <key for="node" id="d7" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d8" yfiles.type="resources"/>
+  <key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d11"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d12"/>
+  <key for="edge" id="d13" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d3"><![CDATA[1afd218a-491d-4b55-986c-2031bf18a6c0]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="82.0" width="67.55999755859375" x="0.0" y="30.160003662109375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.779998779296875" y="86.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="1"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d3"><![CDATA[2f83b4ca-cc4a-4184-824b-b7b7fc6b9d2f]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="82.0" width="75.52000427246094" x="97.55999755859375" y="30.160003662109375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.76000213623047" y="86.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="2"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3"><![CDATA[190ce82d-a209-4d31-b2e4-eb7927846c42]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="82.32000732421875" width="68.19999694824219" x="203.0800018310547" y="30.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.32000732421875"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="3"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d3"><![CDATA[ae314033-b946-451a-b5e6-c0091604ef7b]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="82.0" width="67.91999816894531" x="301.2799987792969" y="30.160003662109375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.959999084472656" y="86.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="4"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d3"><![CDATA[b8c27e04-5728-4e80-981c-cfdd5165793e]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="69.75999450683594" width="68.0" x="399.1999969482422" y="36.280006408691406"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.0" y="73.75999450683594"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="5"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d3"><![CDATA[6c606132-4dff-446c-94c1-70081ea717e2]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="76.82000732421875" width="68.0" x="497.1999969482422" y="32.75"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.0" y="80.82000732421875"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="6"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+  </graph>
+  <data key="d8">
+    <y:Resources>
+      <y:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;MobileServices&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="49.82 53.82 45.26 53.6 16.22 54.8 20.56 76.11 49.82 53.82" fill="#cfb2c1"/&gt;
+    &lt;polygon points="83.78 54.87 78.23 54.63 68.09 55.5 74.09 78.91 83.78 54.87" fill="#cfb2c1"/&gt;
+    &lt;polygon points="83.78 45.18 50.17 46.59 16.36 45.18 50.09 9 83.78 45.18" fill="#512843"/&gt;
+    &lt;polygon points="49.82 53.82 20.56 55.24 20.56 76.11 49.82 69.29 49.82 53.82" fill="#ad688b"/&gt;
+    &lt;polygon points="67.91 54.09 61.5 53.82 25.74 55.76 31.9 81.83 67.91 54.09" fill="#cfb2c1"/&gt;
+    &lt;polygon points="83.78 45.18 50.09 41.8 50.09 9 83.78 25.9 83.78 45.18" fill="#ad688b"/&gt;
+    &lt;polygon points="16.36 45.18 50.09 41.8 50.09 9 16.36 25.9 16.36 45.18" fill="#692f56"/&gt;
+    &lt;polygon points="20.56 55.24 16.22 54.8 16.22 73.92 20.56 76.11 20.56 55.24" fill="#692f56"/&gt;
+    &lt;polygon points="67.91 70.66 31.9 81.83 31.9 56.39 67.91 54.09 67.91 70.66" fill="#ad688b"/&gt;
+    &lt;polygon points="25.74 55.76 31.9 56.39 31.9 81.83 25.74 78.72 25.74 55.76" fill="#692f56"/&gt;
+    &lt;polygon points="83.78 54.87 83.78 74.02 74.09 78.91 74.09 55.84 83.78 54.87" fill="#ad688b"/&gt;
+    &lt;polygon points="68.09 77.06 74.09 78.91 74.09 55.84 68.09 55.5 68.09 77.06" fill="#692f56"/&gt;
+    &lt;polygon points="67.91 56.46 57.81 55.8 40.01 57.18 50.09 91 67.91 56.46" fill="#cfb2c1"/&gt;
+    &lt;polygon points="67.91 56.46 67.91 82.02 50.09 91 50.09 58.27 67.91 56.46" fill="#ad688b"/&gt;
+    &lt;polygon points="40.01 57.18 50.09 58.27 50.09 91 40.01 85.92 40.01 57.18" fill="#692f56"/&gt;
+  &lt;/g&gt;
 &lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="2">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;polygon class="st7" points="9.9,37 75.1,21.5 75.1,35.3 17.9,38.8 	"/&gt;
-	&lt;polygon class="st6" points="42.7,55.8 83.7,74.3 90.1,59.7 50.5,54.8 	"/&gt;
-	&lt;polygon class="st0" points="42.7,55.8 83.7,61.7 83.7,74.3 42.7,64.4 	"/&gt;
-	&lt;polygon class="st6" points="29,57.5 70.6,80.9 79.6,62.9 38.4,56.3 	"/&gt;
-	&lt;polygon class="st2" points="79.6,62.9 70.6,65.6 70.6,80.9 79.6,76.4 	"/&gt;
-	&lt;polygon class="st2" points="90.1,59.7 83.7,61.7 83.7,74.3 90.1,71.1 	"/&gt;
-	&lt;polygon class="st0" points="29,57.5 70.6,65.6 70.6,80.9 29,67.3 	"/&gt;
-	&lt;polygon class="st6" points="9.9,59.7 50,91.2 64.4,67.4 22.6,58.1 	"/&gt;
-	&lt;polygon class="st8" points="9.9,25.8 62.1,13.4 62,8.8 11.2,24.7 	"/&gt;
-	&lt;polygon class="st8" points="71.6,22.1 90.1,18.9 90.1,14.3 71.6,18.1 	"/&gt;
-	&lt;polygon class="st2" points="90.1,42.7 50,42.7 14.3,47.5 50,61.8 90.1,53.9 	"/&gt;
-	&lt;polygon class="st0" points="9.9,42.7 50,42.7 50,61.8 9.9,53.9 	"/&gt;
-	&lt;polygon class="st0" points="9.9,37 50,33.1 66.7,19.6 50,13.9 9.9,25.8 	"/&gt;
-	&lt;polygon class="st2" points="64.4,67.4 50,71.7 50,91.2 64.4,84 	"/&gt;
-	&lt;polygon class="st0" points="9.9,59.7 50,71.7 50,91.2 9.9,71.1 	"/&gt;
-	&lt;polygon class="st2" points="50,33.1 50,13.9 62,8.8 75.1,21 90.1,14.3 90.1,25.8 75.1,35.3 61.9,25.4 	"/&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-	&lt;line class="st15" x1="50" y1="91.2" x2="90.1" y2="71.1"/&gt;
-&lt;/g&gt;
+</y:Resource>
+      <y:Resource id="2">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;defs&gt;
+    &lt;linearGradient id="linear-gradient" x1="27.84" y1="53.5" x2="68.37" y2="42.71" gradientUnits="userSpaceOnUse"&gt;
+      &lt;stop offset="0" stop-color="#f7962f" stop-opacity="0.96"/&gt;
+      &lt;stop offset="0.36" stop-color="#d64626" stop-opacity="0.96"/&gt;
+      &lt;stop offset="0.45" stop-color="#d04730" stop-opacity="0.97"/&gt;
+      &lt;stop offset="0.61" stop-color="#bf4949" stop-opacity="0.98"/&gt;
+      &lt;stop offset="0.81" stop-color="#a44c73" stop-opacity="0.99"/&gt;
+      &lt;stop offset="1" stop-color="#87509f"/&gt;
+    &lt;/linearGradient&gt;
+  &lt;/defs&gt;
+  &lt;title&gt;MobileServices&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="70.37 59.36 70.37 35.84 50 24.08 29.64 35.84 29.64 59.36 50 71.12 70.37 59.36" fill="url(#linear-gradient)"/&gt;
+    &lt;path d="M50,31.54l-13.91,8V55.63l13.91,8,13.91-8V39.57ZM62.5,54.82,50,62,37.5,54.82V40.38L50,33.16l12.5,7.22Z" fill="#fff"/&gt;
+    &lt;polygon points="73.69 65.05 68.29 68.17 68.29 72.22 53.68 80.65 50 78.53 46.32 80.65 31.71 72.22 31.71 68.17 26.31 65.05 20.91 68.17 20.91 74.41 26.31 77.53 30.17 75.3 44.6 83.63 44.6 87.88 50 91 55.4 87.88 55.4 83.63 69.83 75.3 73.69 77.53 79.09 74.41 79.09 68.17 73.69 65.05" fill="#df5343"/&gt;
+    &lt;polygon points="83.9 50.92 83.91 34.26 87.59 32.13 87.59 25.9 82.19 22.78 78.5 24.9 64.07 16.57 64.07 12.12 58.67 9 53.27 12.12 53.27 18.36 58.67 21.48 62.18 19.45 76.78 27.88 76.78 32.13 80.46 34.26 80.46 51.13 76.96 53.15 76.96 59.39 82.36 62.51 87.76 59.39 87.76 53.15 83.9 50.92" fill="#ad688a"/&gt;
+    &lt;polygon points="41.33 9 35.93 12.12 35.93 16.58 21.5 24.91 17.82 22.78 12.41 25.9 12.41 32.14 16.09 34.26 16.1 50.92 12.24 53.15 12.24 59.39 17.64 62.51 23.04 59.39 23.04 53.15 19.54 51.13 19.54 34.26 23.22 32.14 23.22 27.89 37.82 19.45 41.33 21.48 46.73 18.36 46.73 12.12 41.33 9" fill="#f58435"/&gt;
+  &lt;/g&gt;
 &lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="3">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;polygon class="st8" points="42.2,77.8 35.1,75.8 28.4,68.2 35.9,68.8 	"/&gt;
-	&lt;polygon class="st2" points="42.2,77.8 47.3,67.2 42.5,66.5 35.9,68.8 	"/&gt;
-	&lt;polygon class="st8" points="25.8,72.8 21.8,71.7 17.4,66.6 22.1,67.4 	"/&gt;
-	&lt;polygon class="st2" points="25.8,72.8 28.7,66.8 26,66.4 22.1,67.4 	"/&gt;
-	&lt;polygon class="st0" points="15.7,66.8 19.8,67.7 39.7,50.3 19.8,30.9 15.7,32.9 	"/&gt;
-	&lt;polygon class="st2" points="35.5,34.3 35.5,66.2 19.8,67.7 19.8,30.9 	"/&gt;
-	&lt;polygon class="st0" points="24.8,68.7 31.8,70.1 51.1,47.8 31.8,24.8 24.8,28.3 	"/&gt;
-	&lt;polygon class="st2" points="71.6,37.5 71.6,65 31.8,70.1 31.8,24.8 	"/&gt;
-	&lt;polygon class="st8" points="64.4,84.4 54.4,81.5 44.8,70.7 55.5,71.6 	"/&gt;
-	&lt;polygon class="st2" points="64.4,84.4 71.6,69.3 64.9,68.3 55.5,71.6 	"/&gt;
-	&lt;polygon class="st0" points="39.7,71.6 50,73.6 63.9,44.6 50,15.6 39.7,20.8 	"/&gt;
-	&lt;polygon class="st2" points="50,73.6 84.3,66.7 84.3,32.8 50,15.6 	"/&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
+</y:Resource>
+      <y:Resource id="3">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;MobileServices&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="84.1 55.15 67.54 54.47 56.81 55.15 74.52 79.23 84.1 55.15" fill="#fad791"/&gt;
+    &lt;polygon points="84.1 45.18 67.54 45.86 56.81 45.18 74.52 21.1 84.1 45.18" fill="#624a1e"/&gt;
+    &lt;polygon points="15.9 45.15 32.46 45.86 43.19 45.18 25.48 21.22 15.9 45.15" fill="#624a1e"/&gt;
+    &lt;polygon points="15.9 55.15 32.46 54.47 43.19 55.15 25.48 79.25 15.9 55.15" fill="#fad791"/&gt;
+    &lt;polygon points="74.52 44.22 84.1 45.18 84.1 25.89 74.52 21.1 74.52 44.22" fill="#d9a741"/&gt;
+    &lt;polygon points="56.81 25.88 74.52 21.1 74.52 44.22 56.81 45.18 56.81 25.88" fill="#876929"/&gt;
+    &lt;polygon points="50 23.08 69.18 29.35 69.18 38.89 50 35.51 50 23.08" fill="#d9a741"/&gt;
+    &lt;polygon points="41.36 37.08 50.14 35.53 69.18 38.89 60.67 39.82 41.36 37.08" fill="#624a1e"/&gt;
+    &lt;polygon points="25.48 44.22 15.9 45.15 15.9 25.8 25.48 21.08 25.48 44.22" fill="#876929"/&gt;
+    &lt;polygon points="43.19 25.88 25.48 21.08 25.48 44.22 43.19 45.18 43.19 25.88" fill="#d9a741"/&gt;
+    &lt;polygon points="50 23.08 30.82 29.35 30.82 38.89 50 35.51 50 23.08" fill="#876929"/&gt;
+    &lt;polygon points="58.64 37.08 49.86 35.53 30.82 38.89 39.33 39.82 58.64 37.08" fill="#624a1e"/&gt;
+    &lt;polygon points="74.52 56.11 84.1 55.15 84.1 74.44 74.52 79.23 74.52 56.11" fill="#d9a741"/&gt;
+    &lt;polygon points="56.81 74.45 74.52 79.23 74.52 56.11 56.81 55.15 56.81 74.45" fill="#876929"/&gt;
+    &lt;polygon points="50 77.25 69.18 70.98 69.18 61.44 50 64.82 50 77.25" fill="#d9a741"/&gt;
+    &lt;polygon points="41.36 63.25 50.14 64.79 69.18 61.44 60.67 60.51 41.36 63.25" fill="#fad791"/&gt;
+    &lt;polygon points="25.48 56.11 15.9 55.15 15.9 74.44 25.48 79.25 25.48 56.11" fill="#876929"/&gt;
+    &lt;polygon points="43.19 74.45 25.48 79.25 25.48 56.11 43.19 55.15 43.19 74.45" fill="#d9a741"/&gt;
+    &lt;polygon points="50 77.25 30.82 70.98 30.82 61.44 50 64.82 50 77.25" fill="#876929"/&gt;
+    &lt;polygon points="58.64 63.25 49.86 64.79 30.82 61.44 39.33 60.51 58.64 63.25" fill="#fad791"/&gt;
+    &lt;polygon points="39.8 86.06 50 91.16 55.66 88.33 60.2 13.94 50 8.84 39.8 13.94 39.8 86.06" fill="#876929"/&gt;
+    &lt;polygon points="60.2 86.06 50 91.16 50 8.84 60.2 13.94 60.2 86.06" fill="#d9a741"/&gt;
+  &lt;/g&gt;
 &lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="4">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;g&gt;
-		&lt;rect x="12.9" y="64" class="st0" width="81.9" height="14"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;rect x="12.9" y="48" class="st0" width="81.9" height="12.7"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;polygon class="st0" points="94.8,41.2 94.8,43.7 22.9,43.7 22.9,41.2 64.3,27.6 		"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;defs&gt;
-			&lt;path id="SVGID_3_" d="M41.8,33.1l-14.2,0.5c0-1.7-0.3-3.4-1-5v-2.5c0.3,0.8,13.1,3.2,13.1,3.2L41.8,33.1z"/&gt;
-		&lt;/defs&gt;
-		&lt;use xlink:href="#SVGID_3_"  style="overflow:visible;fill:#692F56;"/&gt;
-		&lt;clipPath id="SVGID_2_"&gt;
-			&lt;use xlink:href="#SVGID_3_"  style="overflow:visible;"/&gt;
-		&lt;/clipPath&gt;
-		&lt;g class="st1"&gt;
-			&lt;path class="st0" d="M27.6,31.1v2.5c0-1.7-0.3-3.4-1-5v-2.5C27.2,27.7,27.6,29.4,27.6,31.1"/&gt;
-		&lt;/g&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M94.8,26.2v15H22.9c2.9-2.4,4.7-6,4.7-10.1c0-1.7-0.3-3.4-1-4.9H94.8z"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M12.9,45.6h81.9v12.5H12.9V45.6z"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M12.9,63h81.9v12.5H12.9V63z"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st5" d="M49.2,28.4V30h-3.7v2.4H49v1.7h-3.4v2.7h3.8v1.7h-5.9V28.4H49.2z"/&gt;
-		&lt;path class="st5" d="M50.3,30.9h1.9v0.8h0c0.5-0.7,1.1-1,2-1c0.9,0,1.6,0.4,1.8,1.2h0c0.3-0.8,1-1.2,2-1.2c1.3,0,1.9,0.8,1.9,2.3
-			v5.6h-2v-5.4c0-0.6-0.2-1-0.8-1c-0.6,0-1,0.4-1,1.3v5h-2v-5.4c0-0.6-0.2-1-0.8-1c-0.6,0-1,0.4-1,1.3v5h-2V30.9z"/&gt;
-		&lt;path class="st5" d="M61.2,33.2V33c0-1.8,1.2-2.4,2.7-2.4c2.4,0,2.8,1,2.8,2.3v4c0,0.7,0,1,0.2,1.5H65c-0.1-0.2-0.2-0.5-0.2-0.8h0
-			c-0.5,0.8-1,1-2,1c-1.4,0-1.9-1.2-1.9-2.2c0-1.4,0.6-2,1.9-2.4l1.1-0.3c0.6-0.2,0.8-0.4,0.8-0.9c0-0.6-0.3-0.9-0.9-0.9
-			c-0.6,0-0.9,0.4-0.9,1v0.2H61.2z M64.8,34.7c-0.3,0.2-0.6,0.3-0.8,0.4c-0.8,0.2-1.1,0.6-1.1,1.2c0,0.6,0.2,1.1,0.7,1.1
-			c0.5,0,1.2-0.3,1.2-1.2V34.7z"/&gt;
-		&lt;path class="st5" d="M68.2,28.2h2v1.7h-2V28.2z M68.2,30.9h2v7.7h-2V30.9z"/&gt;
-		&lt;path class="st5" d="M71.6,28.4h2v10.2h-2V28.4z"/&gt;
-	&lt;/g&gt;
-	&lt;path class="st3" d="M23.6,33.7c0,5.1-4.1,9.2-9.2,9.2s-9.2-4.1-9.2-9.2v-2.5l9.2-6.8l9.2,6.8V33.7z"/&gt;
-	&lt;circle class="st4" cx="14.4" cy="31.2" r="9.2"/&gt;
-	&lt;rect x="15.6" y="48.3" class="st5" width="76.6" height="7.2"/&gt;
-	&lt;rect x="15.6" y="65.6" class="st5" width="76.6" height="7.2"/&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
+</y:Resource>
+      <y:Resource id="4">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;MobileServices&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="37.87 58.58 50 60.06 61.21 50.87 50 39.92 37.87 41.42 37.87 58.58" fill="#692f56"/&gt;
+    &lt;polygon points="71.41 24.92 78.3 23.17 83.37 44.64 78.3 72.95 71.41 71.94 71.41 24.92" fill="#692f56"/&gt;
+    &lt;polygon points="78.3 70.96 83.96 74.02 83.96 26 78.3 23.17 78.3 70.96" fill="#ad688b"/&gt;
+    &lt;polygon points="71.41 65.11 78.3 66.11 50 91 42.43 72.33 71.41 65.11" fill="#cfb2c1"/&gt;
+    &lt;polygon points="28.59 75.08 21.7 76.83 17.79 27.96 28.59 29.66 28.59 75.08" fill="#ad688b"/&gt;
+    &lt;polygon points="28.59 34.89 21.7 33.89 50 9 57.57 27.67 28.59 34.89" fill="#512843"/&gt;
+    &lt;polygon points="57.57 72.33 39.24 67.76 31.92 69.16 50.04 90.22 57.57 72.33" fill="#cfb2c1"/&gt;
+    &lt;polygon points="42.43 27.67 49.97 9.02 68.08 30.84 60.76 32.24 42.43 27.67" fill="#512843"/&gt;
+    &lt;polygon points="62.13 58.58 50 60.06 50 39.92 62.13 41.42 62.13 58.58" fill="#ad688b"/&gt;
+    &lt;polygon points="83.96 74.02 50 91 50 74.6 80.17 65.55 82.22 66.16 83.96 74.02" fill="#ad688b"/&gt;
+    &lt;polygon points="31.92 69.16 50 74.59 50 90.98 31.92 81.94 31.92 69.16" fill="#692f56"/&gt;
+    &lt;polygon points="68.08 30.84 50 25.41 50 9.02 68.08 18.05 68.08 30.84" fill="#ad688b"/&gt;
+    &lt;polygon points="16.04 25.98 50 9 50 25.4 16.04 35.58 16.04 25.98" fill="#692f56"/&gt;
+    &lt;polygon points="21.7 29.62 16.04 25.98 16.04 74 21.7 76.83 21.7 29.62" fill="#692f56"/&gt;
+  &lt;/g&gt;
 &lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="5">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;g&gt;
-		&lt;rect x="12.9" y="64" class="st0" width="81.9" height="14"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;rect x="12.9" y="48" class="st0" width="81.9" height="12.7"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;polygon class="st0" points="94.8,41.2 94.8,43.7 22.9,43.7 22.9,41.2 64.3,27.6 		"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;defs&gt;
-			&lt;path id="SVGID_1_" d="M41.8,33.1l-14.2,0.5c0-1.7-0.3-3.4-1-5v-2.5c0.3,0.8,13.1,3.2,13.1,3.2L41.8,33.1z"/&gt;
-		&lt;/defs&gt;
-		&lt;use xlink:href="#SVGID_1_"  style="overflow:visible;fill:#692F56;"/&gt;
-		&lt;clipPath id="SVGID_2_"&gt;
-			&lt;use xlink:href="#SVGID_1_"  style="overflow:visible;"/&gt;
-		&lt;/clipPath&gt;
-		&lt;g class="st1"&gt;
-			&lt;path class="st0" d="M27.6,31.1v2.5c0-1.7-0.3-3.4-1-5v-2.5C27.2,27.7,27.6,29.4,27.6,31.1"/&gt;
-		&lt;/g&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M94.8,26.2v15H22.9c2.9-2.4,4.7-6,4.7-10.1c0-1.7-0.3-3.4-1-4.9H94.8z"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M12.9,45.6h81.9v12.5H12.9V45.6z"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M12.9,63h81.9v12.5H12.9V63z"/&gt;
-	&lt;/g&gt;
-	&lt;path class="st3" d="M23.6,33.7c0,5.1-4.1,9.2-9.2,9.2s-9.2-4.1-9.2-9.2v-2.5l9.2-6.8l9.2,6.8V33.7z"/&gt;
-	&lt;circle class="st4" cx="14.4" cy="31.2" r="9.2"/&gt;
-	&lt;rect x="15.6" y="48.3" class="st5" width="76.6" height="7.2"/&gt;
-	&lt;rect x="15.6" y="65.6" class="st5" width="76.6" height="7.2"/&gt;
-	&lt;g&gt;
-		&lt;path class="st5" d="M43.6,29.2h2.1v3.9h2.4v-3.9h2.1v10.3h-2.1v-4.6h-2.4v4.6h-2.1V29.2z"/&gt;
-		&lt;path class="st5" d="M57.7,29.2v1.7h-2.3v8.6h-2.1v-8.6h-2.3v-1.7H57.7z"/&gt;
-		&lt;path class="st5" d="M64.7,29.2v1.7h-2.3v8.6h-2.1v-8.6H58v-1.7H64.7z"/&gt;
-		&lt;path class="st5" d="M65.6,29.2h3.7c2.1,0,2.8,1.5,2.8,3.1c0,2.1-1.3,3.1-3.3,3.1h-1.1v4.1h-2.1V29.2z M67.6,33.8h0.9
-			c0.8,0,1.4-0.5,1.4-1.5c0-1-0.4-1.6-1.4-1.6h-0.9V33.8z"/&gt;
-	&lt;/g&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
+</y:Resource>
+      <y:Resource id="5">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;MobileServices&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="16 38.99 71.25 25.87 71.23 37.56 22.79 40.49 16 38.99" fill="#512843"/&gt;
+    &lt;polygon points="43.8 54.87 78.52 70.6 83.98 58.21 50.39 54.04 43.8 54.87" fill="#cfb2c1"/&gt;
+    &lt;polygon points="43.8 54.87 78.52 59.93 78.52 70.6 43.8 62.19 43.8 54.87" fill="#692f56"/&gt;
+    &lt;polygon points="32.19 56.32 67.45 76.14 75.06 60.88 40.17 55.32 32.19 56.32" fill="#cfb2c1"/&gt;
+    &lt;polygon points="75.06 60.88 67.45 63.19 67.45 76.14 75.06 72.33 75.06 60.88" fill="#ad688b"/&gt;
+    &lt;polygon points="83.98 58.21 78.52 59.93 78.52 70.6 83.98 67.86 83.98 58.21" fill="#ad688b"/&gt;
+    &lt;polygon points="32.19 56.32 67.45 63.19 67.45 76.14 32.19 64.68 32.19 56.32" fill="#692f56"/&gt;
+    &lt;polygon points="16 58.21 50 84.88 62.21 64.71 26.82 56.87 16 58.21" fill="#cfb2c1"/&gt;
+    &lt;polygon points="16 29.51 60.23 18.95 60.18 15.12 17.09 28.52 16 29.51" fill="#875078"/&gt;
+    &lt;polygon points="68.33 26.34 84 23.62 84 19.76 68.33 23 68.33 26.34" fill="#875078"/&gt;
+    &lt;polygon points="84 43.8 50 43.8 19.72 47.87 50 60.01 84 53.3 84 43.8" fill="#ad688b"/&gt;
+    &lt;polygon points="16 43.8 50 43.8 50 60.01 16 53.29 16 43.8" fill="#692f56"/&gt;
+    &lt;polygon points="16 38.99 50 35.7 64.16 24.21 50 19.39 16 29.51 16 38.99" fill="#692f56"/&gt;
+    &lt;polygon points="62.21 64.73 50 68.39 50 84.88 62.21 78.77 62.21 64.73" fill="#ad688b"/&gt;
+    &lt;polygon points="16 58.21 50 68.39 50 84.88 16 67.86 16 58.21" fill="#692f56"/&gt;
+    &lt;polygon points="50 35.7 50 19.39 60.18 15.12 71.23 25.41 84 19.76 84 29.46 71.23 37.56 60.07 29.14 50 35.7" fill="#ad688b"/&gt;
+  &lt;/g&gt;
 &lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="6">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;g&gt;
-		&lt;rect x="9.1" y="61.9" class="st0" width="81.9" height="14"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;rect x="9.1" y="45.9" class="st0" width="81.9" height="12.7"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;polygon class="st0" points="90.9,39.1 90.9,41.6 9.1,41.6 9.1,39.1 56.2,25.5 		"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;rect x="9.1" y="24.1" class="st2" width="81.9" height="15"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M9.1,43.6h81.9v12.5H9.1V43.6z"/&gt;
-	&lt;/g&gt;
-	&lt;g&gt;
-		&lt;path class="st2" d="M9.1,60.9h81.9v12.5H9.1V60.9z"/&gt;
-	&lt;/g&gt;
-	&lt;rect x="11.7" y="46.2" class="st5" width="76.6" height="7.2"/&gt;
-	&lt;rect x="11.7" y="63.6" class="st5" width="76.6" height="7.2"/&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
+</y:Resource>
+      <y:Resource id="6">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;MobileServices&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="79.64 52.69 55.8 51.9 16 52.48 16 64.5 28.56 80.4 44.58 88.41 44.58 80.74 50 78.83 50 86.02 55.42 88.41 79.64 52.69" fill="#692f56"/&gt;
+    &lt;polygon points="79.64 47.31 56.32 48.09 16 47.52 16 35.5 28.56 19.6 44.58 11.59 44.58 19.26 50 21.17 50 13.98 55.42 11.59 79.64 47.31" fill="#692f56"/&gt;
+    &lt;polygon points="44.58 68.17 50 55.84 84 52.48 84 64.5 71.44 80.4 55.42 88.41 55.42 80.74 50 78.83 50 86.02 44.58 88.41 44.58 68.17" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 32.15 50 45.16 84 47.52 84 35.5 71.44 19.6 55.42 11.59 55.42 19.26 50 21.17 50 13.98 44.58 11.59 44.58 32.15" fill="#ad688b"/&gt;
+    &lt;polygon points="39.08 52.34 79.57 59.91 84 52.48 56.77 51.88 39.08 52.34" fill="#cfb2c1"/&gt;
+    &lt;polygon points="81.82 61.09 57.88 59.69 56.32 73.73 65.27 79.64 78.32 70.65 81.82 61.09" fill="#875078"/&gt;
+    &lt;polygon points="59.25 52.19 79.64 52.69 79.64 62.54 59.25 60.23 59.25 52.19" fill="#692f56"/&gt;
+    &lt;polygon points="18.18 60.27 43.43 59.14 47.7 72.99 33.01 79.23 23.08 70.65 18.18 60.27" fill="#ad688b"/&gt;
+    &lt;polygon points="59.89 51.99 49.02 51.75 16 52.48 20.36 59.7 59.89 51.99" fill="#cfb2c1"/&gt;
+    &lt;polygon points="40.11 52.2 20.36 52.69 20.36 62.54 40.11 60.31 40.11 52.2" fill="#875078"/&gt;
+    &lt;polygon points="39.08 47.67 79.64 37.47 84 47.53 56.77 48.13 39.08 47.67" fill="#512843"/&gt;
+    &lt;polygon points="81.82 38.92 57.88 40.31 56.32 26.28 65.27 20.37 78.32 29.36 81.82 38.92" fill="#875078"/&gt;
+    &lt;polygon points="59.25 47.82 79.64 47.31 79.64 37.47 59.25 39.77 59.25 47.82" fill="#692f56"/&gt;
+    &lt;polygon points="18.18 39.74 43.43 40.86 47.7 27.02 33.01 20.78 23.08 29.36 18.18 39.74" fill="#ad688b"/&gt;
+    &lt;polygon points="59.89 48.01 49.02 48.26 16 47.53 20.22 38.02 59.89 48.01" fill="#512843"/&gt;
+    &lt;polygon points="40.11 47.8 20.36 47.31 20.36 37.47 40.11 39.7 40.11 47.8" fill="#875078"/&gt;
+    &lt;polygon points="62.78 74.33 50 71.04 31.94 75.69 44.54 80.76 62.78 74.33" fill="#cfb2c1"/&gt;
+    &lt;polygon points="68.02 75.68 50 71.04 37.22 74.33 55.42 80.74 68.02 75.68" fill="#cfb2c1"/&gt;
+    &lt;polygon points="62.82 25.65 50 28.93 31.94 24.31 44.58 19.26 62.82 25.65" fill="#512843"/&gt;
+    &lt;polygon points="68.06 24.31 50 28.93 37.18 25.65 55.42 19.26 68.06 24.31" fill="#512843"/&gt;
+    &lt;polygon points="36.21 47.31 68.06 41.1 74.42 47.02 50 47.69 36.21 47.31" fill="#512843"/&gt;
+    &lt;polygon points="66.07 47.25 50 47.69 25.58 47.02 34.27 36.01 66.07 47.25" fill="#512843"/&gt;
+    &lt;polygon points="30.41 41.86 50 43.19 50 34.75 36.7 30.66 30.41 41.86" fill="#ad688b"/&gt;
+    &lt;polygon points="61.37 30.14 50 34.75 50 42.69 68.57 41.06 61.37 30.14" fill="#875078"/&gt;
+    &lt;polygon points="35.23 69.3 50 65.23 50 56.65 27.59 57.93 35.23 69.3" fill="#ad688b"/&gt;
+    &lt;polygon points="68.79 57.48 50 56.65 50 65.23 58.91 68.72 68.39 67.16 68.79 57.48" fill="#875078"/&gt;
+    &lt;polygon points="51.48 42.56 68.06 41.1 68.06 46.7 51.48 47.23 51.48 42.56" fill="#692f56"/&gt;
+    &lt;polygon points="47.7 42.52 31.94 41.13 31.94 46.7 47.7 47.21 47.7 42.52" fill="#875078"/&gt;
+    &lt;polygon points="51.06 52.7 68.13 58.52 74.42 52.98 57.28 52.49 51.06 52.7" fill="#cfb2c1"/&gt;
+    &lt;polygon points="51.48 52.74 68.06 53.3 68.06 58.92 51.48 57.62 51.48 52.74" fill="#692f56"/&gt;
+    &lt;polygon points="42.97 52.93 36.46 52.67 25.58 52.98 31.94 58.92 42.97 52.93" fill="#cfb2c1"/&gt;
+    &lt;polygon points="47.7 52.77 31.94 53.3 31.94 58.92 47.7 57.5 47.7 52.77" fill="#875078"/&gt;
+    &lt;polygon points="50 58.13 39.88 57.12 39.88 42.73 50 41.71 50 58.13" fill="#692f56"/&gt;
+    &lt;polygon points="28.56 19.6 44.58 11.59 44.58 19.26 28.56 25.67 28.56 19.6" fill="#692f56"/&gt;
+    &lt;polygon points="35.63 27.45 44.58 24.48 44.58 32.15 35.63 34.22 35.63 27.45" fill="#692f56"/&gt;
+    &lt;polygon points="25.58 38.39 31.94 37.12 31.94 46.7 25.58 47.02 25.58 38.39" fill="#692f56"/&gt;
+    &lt;polygon points="16 35.5 20.36 34.19 20.36 47.31 16 47.52 16 35.5" fill="#692f56"/&gt;
+    &lt;polygon points="31.94 24.31 19.88 38.02 16 35.5 28.56 19.6 31.94 24.31" fill="#692f56"/&gt;
+    &lt;polygon points="40.74 33.04 31.21 41.75 25.55 38.4 35.63 27.45 40.74 33.04" fill="#692f56"/&gt;
+    &lt;polygon points="71.44 19.6 55.42 11.59 55.42 19.26 71.44 25.67 71.44 19.6" fill="#ad688b"/&gt;
+    &lt;polygon points="64.36 27.45 55.42 24.48 55.42 32.15 64.36 34.22 64.36 27.45" fill="#ad688b"/&gt;
+    &lt;polygon points="74.42 38.39 68.06 37.12 68.06 46.7 74.42 47.02 74.42 38.39" fill="#ad688b"/&gt;
+    &lt;polygon points="84 35.5 79.64 34.19 79.64 47.31 84 47.52 84 35.5" fill="#ad688b"/&gt;
+    &lt;polygon points="68.06 24.31 80.13 38.02 84 35.5 71.44 19.6 68.06 24.31" fill="#ad688b"/&gt;
+    &lt;polygon points="59.26 33.04 68.79 41.75 74.45 38.4 64.36 27.45 59.26 33.04" fill="#ad688b"/&gt;
+    &lt;polygon points="28.56 80.4 44.58 88.41 44.58 80.74 28.56 74.33 28.56 80.4" fill="#692f56"/&gt;
+    &lt;polygon points="35.63 72.55 44.58 75.52 44.58 67.85 35.63 65.78 35.63 72.55" fill="#692f56"/&gt;
+    &lt;polygon points="25.58 61.61 31.94 62.88 31.94 53.3 25.58 52.98 25.58 61.61" fill="#692f56"/&gt;
+    &lt;polygon points="16 64.5 20.36 65.81 20.36 52.69 16 52.48 16 64.5" fill="#692f56"/&gt;
+    &lt;polygon points="31.94 75.69 19.88 61.98 16 64.5 28.56 80.4 31.94 75.69" fill="#692f56"/&gt;
+    &lt;polygon points="40.74 66.96 31.21 58.25 25.55 61.6 35.63 72.55 40.74 66.96" fill="#692f56"/&gt;
+    &lt;polygon points="71.44 80.4 55.42 88.41 55.42 80.74 71.44 74.33 71.44 80.4" fill="#ad688b"/&gt;
+    &lt;polygon points="64.36 72.55 55.42 75.52 55.42 67.85 64.36 65.78 64.36 72.55" fill="#ad688b"/&gt;
+    &lt;polygon points="74.42 61.61 68.06 62.88 68.06 53.3 74.42 52.98 74.42 61.61" fill="#ad688b"/&gt;
+    &lt;polygon points="84 64.5 79.64 65.81 79.64 52.69 84 52.48 84 64.5" fill="#ad688b"/&gt;
+    &lt;polygon points="68.06 75.69 80.13 61.98 84 64.5 71.44 80.4 68.06 75.69" fill="#ad688b"/&gt;
+    &lt;polygon points="59.26 66.96 68.79 58.25 74.45 61.6 64.36 72.55 59.26 66.96" fill="#ad688b"/&gt;
+    &lt;polygon points="60.17 57.11 50 58.13 50 41.71 60.17 42.73 60.17 57.11" fill="#ad688b"/&gt;
+    &lt;polygon points="50 33.25 55.42 32.15 55.42 24.48 50 26.06 50 33.25" fill="#692f56"/&gt;
+    &lt;polygon points="50 73.93 55.42 75.52 55.42 67.85 50 66.74 50 73.93" fill="#692f56"/&gt;
+    &lt;polygon points="50 86.02 55.42 88.41 55.42 80.74 50 78.83 50 86.02" fill="#692f56"/&gt;
+    &lt;polygon points="50 21.16 55.42 19.26 55.42 11.59 50 13.97 50 21.16" fill="#692f56"/&gt;
+    &lt;polygon points="44.58 32.15 50 33.25 50 26.06 44.58 24.48 44.58 32.15" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 75.52 50 73.93 50 66.74 44.58 67.85 44.58 75.52" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 88.41 50 86.02 50 78.83 44.58 80.74 44.58 88.41" fill="#ad688b"/&gt;
+    &lt;polygon points="44.58 19.34 50 21.23 50 13.97 44.58 11.59 44.58 19.34" fill="#ad688b"/&gt;
+    &lt;polygon points="53.85 65.95 50 65.23 40.74 66.96 44.56 67.86 53.85 65.95" fill="#cfb2c1"/&gt;
+    &lt;polygon points="59.25 66.96 50 65.23 46.15 65.95 55.42 67.85 59.25 66.96" fill="#cfb2c1"/&gt;
+    &lt;polygon points="53.87 34.03 50 34.75 40.74 33.04 44.58 32.15 53.87 34.03" fill="#512843"/&gt;
+    &lt;polygon points="59.26 33.04 50 34.75 46.13 34.03 55.42 32.15 59.26 33.04" fill="#512843"/&gt;
+  &lt;/g&gt;
 &lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="7">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;polygon class="st6" points="49.7,53.8 45.2,53.6 16,54.8 20.4,76.2 	"/&gt;
-	&lt;polygon class="st6" points="83.8,54.9 78.2,54.7 68.1,55.5 74.1,79 	"/&gt;
-	&lt;polygon class="st7" points="83.8,45.2 50.1,46.6 16.1,45.2 50,8.8 	"/&gt;
-	&lt;polygon class="st2" points="49.7,53.8 20.4,55.3 20.4,76.2 49.7,69.4 	"/&gt;
-	&lt;polygon class="st6" points="67.9,54.1 61.5,53.8 25.6,55.8 31.7,82 	"/&gt;
-	&lt;polygon class="st2" points="83.8,45.2 50,41.8 50,8.8 83.8,25.8 	"/&gt;
-	&lt;polygon class="st0" points="16.1,45.2 50,41.8 50,8.8 16.1,25.8 	"/&gt;
-	&lt;polygon class="st0" points="20.4,55.3 16,54.8 16,74 20.4,76.2 	"/&gt;
-	&lt;polygon class="st2" points="67.9,70.7 31.7,82 31.7,56.4 67.9,54.1 	"/&gt;
-	&lt;polygon class="st0" points="25.6,55.8 31.7,56.4 31.7,82 25.6,78.8 	"/&gt;
-	&lt;polygon class="st2" points="83.8,54.9 83.8,74.1 74.1,79 74.1,55.9 	"/&gt;
-	&lt;polygon class="st0" points="68.1,77.2 74.1,79 74.1,55.9 68.1,55.5 	"/&gt;
-	&lt;polygon class="st6" points="67.9,56.5 57.7,55.8 39.9,57.2 50,91.2 	"/&gt;
-	&lt;polygon class="st2" points="67.9,56.5 67.9,82.1 50,91.2 50,58.3 	"/&gt;
-	&lt;polygon class="st0" points="39.9,57.2 50,58.3 50,91.2 39.9,86.1 	"/&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
-&lt;/svg&gt;
-</ns2:Resource>
-      <ns2:Resource id="8">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
-&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
-	 height="100px" 
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"&gt;
-&lt;style type="text/css"&gt;
-	.st0{fill:#692F56;}
-	.st1{clip-path:url(#SVGID_2_);}
-	.st2{fill:#AD688B;}
-	.st3{fill:#8D090A;}
-	.st4{fill:#EA2227;}
-	.st5{fill:#FFFFFF;}
-	.st6{fill:#CFB2C1;}
-	.st7{fill:#512843;}
-	.st8{fill:#875078;}
-	.st9{clip-path:url(#SVGID_4_);}
-	.st10{fill:#AD688A;}
-	.st11{fill:#F58435;}
-	.st12{fill:#DF5343;}
-	.st13{fill:url(#SVGID_5_);}
-	.st14{fill:#6A3056;}
-	.st15{fill:none;}
-&lt;/style&gt;
-&lt;g id="Layer_1"&gt;
-	&lt;g&gt;
-		
-			&lt;rect x="58.1" y="24.1" transform="matrix(-0.8679 -0.4967 0.4967 -0.8679 114.7438 80.6848)" class="st10" width="20" height="2"/&gt;
-		&lt;rect x="76" y="35" class="st10" width="2" height="17"/&gt;
-		
-			&lt;rect x="31.2" y="15.1" transform="matrix(-0.4967 -0.8679 0.8679 -0.4967 26.4638 65.4724)" class="st11" width="2" height="20"/&gt;
-		&lt;rect x="20" y="35" class="st11" width="3" height="17"/&gt;
-		&lt;polygon class="st10" points="73,52.7 78,50 83,52.7 83,58.1 78,60.9 73,58.2 		"/&gt;
-		&lt;polygon class="st10" points="73,28.7 78,26 83,28.8 83,34.1 78,36.9 73,34.2 		"/&gt;
-		&lt;polygon class="st10" points="52,16.7 56.5,14 61,16.8 61,22.1 56.5,24.9 52,22.2 		"/&gt;
-		&lt;polygon class="st11" points="47,16.7 42,14 37,16.8 37,22.1 42,24.9 47,22.2 		"/&gt;
-		&lt;polygon class="st11" points="27,52.7 22,50 17,52.7 17,58.1 22,60.9 27,58.2 		"/&gt;
-		&lt;polygon class="st11" points="27,28.7 22,26 17,28.8 17,34.1 22,36.9 27,34.2 		"/&gt;
-		
-			&lt;rect x="29.5" y="74.1" transform="matrix(-0.8609 -0.5088 0.5088 -0.8609 35.2474 159.8701)" class="st12" width="20" height="2"/&gt;
-		
-			&lt;rect x="59.3" y="66.1" transform="matrix(-0.4876 -0.8731 0.8731 -0.4876 24.9851 163.0156)" class="st12" width="2" height="16.2"/&gt;
-		&lt;polygon class="st12" points="24.6,65.9 24.6,71.4 29.3,74.1 34,71.5 34.1,65.9 29.4,63.2 		"/&gt;
-		&lt;polygon class="st12" points="66,65.9 66,71.4 70.7,74.1 75.4,71.5 75.5,66 70.8,63.2 		"/&gt;
-		&lt;polygon class="st12" points="45.2,77.8 45.2,83.3 49.9,86 54.6,83.3 54.6,77.8 49.9,75.1 		"/&gt;
-		
-			&lt;linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="31.1768" y1="50.0191" x2="66.8772" y2="57.6845" gradientTransform="matrix(1 0 0 -1 0 102)"&gt;
-			&lt;stop  offset="0" style="stop-color:#F7962F;stop-opacity:0.96"/&gt;
-			&lt;stop  offset="0.3563" style="stop-color:#D64626;stop-opacity:0.96"/&gt;
-			&lt;stop  offset="0.4519" style="stop-color:#D04730;stop-opacity:0.9659"/&gt;
-			&lt;stop  offset="0.6116" style="stop-color:#BF4949;stop-opacity:0.9759"/&gt;
-			&lt;stop  offset="0.8144" style="stop-color:#A44C73;stop-opacity:0.9885"/&gt;
-			&lt;stop  offset="1" style="stop-color:#87509F"/&gt;
-		&lt;/linearGradient&gt;
-		&lt;polygon style="fill:url(#SVGID_2_);" points="32.1,37.5 32.1,58.3 49.9,68.5 67.4,58.6 67.7,37.8 50,27.4 		"/&gt;
-		&lt;path class="st5" d="M49.8,61.9l-12.1-7l0.1-14.1L50,33.9L62,41l-0.2,14.1L49.8,61.9z M38.9,54.2l10.9,6.3l10.7-6.1l0.2-12.7
-			l-10.8-6.3L39,41.5L38.9,54.2z"/&gt;
-	&lt;/g&gt;
-&lt;/g&gt;
-&lt;g id="Layer_2"&gt;
-&lt;/g&gt;
-&lt;/svg&gt;
-</ns2:Resource>
-    </ns2:Resources>
-  </ns0:data>
-</ns0:graphml>
+</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>
