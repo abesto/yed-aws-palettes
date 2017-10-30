@@ -1,0 +1,1018 @@
+<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
+  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
+  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
+  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
+  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
+  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
+  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
+  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
+  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
+  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
+  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
+  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
+  <ns0:graph edgedefault="directed" id="G">
+    <ns0:node id="n0">
+      <ns0:data key="d3">3ed2295e-cfee-401f-a135-c5d6d4dcdd0d</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingbicycle</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="0" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n1">
+      <ns0:data key="d3">6f257c36-021d-4309-a078-b48622681c46</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_rule</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="1" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n2">
+      <ns0:data key="d3">a2b232ca-3a5c-47be-a847-a8836f0e03f5</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingcar</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="2" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n3">
+      <ns0:data key="d3">464c495e-4df1-4fc0-8edc-eaf24843b133</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_topic</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="3" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n4">
+      <ns0:data key="d3">36210f52-e679-43db-abfd-9e77040795b7</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="4" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n5">
+      <ns0:data key="d3">e6dfe9e0-fff1-48f6-8be7-6a65cc6eaaa1</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_AWSGreengrass</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="5" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n6">
+      <ns0:data key="d3">37ada749-8e0f-4041-9c41-9047611c8826</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_HTTP2protocol</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="6" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n7">
+      <ns0:data key="d3">3372158c-6580-4a04-9228-6bcf4e1042a5</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_shadow</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="7" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n8">
+      <ns0:data key="d3">b4ff0b6e-9526-450a-88b8-70992ac388ab</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingmedicalemergency</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="8" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n9">
+      <ns0:data key="d3">93f45557-3feb-4a19-8c75-42735608fba0</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thinglightbulb</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="9" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n10">
+      <ns0:data key="d3">0436ab3e-128f-441c-ac8a-bd1fdf30dd7a</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_action</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="10" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n11">
+      <ns0:data key="d3">96191891-6bba-41a5-ace0-de26bd98baaf</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_policy</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="11" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n12">
+      <ns0:data key="d3">c13390ee-56cc-4955-bdfa-b1ea5aa941ef</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_fireTVstick</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="12" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n13">
+      <ns0:data key="d3">2d924e5e-b379-4f3d-bac4-c431735e3dca</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingcart</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="13" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n14">
+      <ns0:data key="d3">ebe13e58-1441-4293-8a35-a9c1f42b07a2</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_echo</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="14" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n15">
+      <ns0:data key="d3">ca52eb8c-d65e-40f8-8e34-125c4e52d0f0</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_reportedstate</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="15" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n16">
+      <ns0:data key="d3">e2e4ffa3-4159-4daf-ba3f-68ca6afce183</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thinghouse</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="16" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n17">
+      <ns0:data key="d3">0e8f861a-8a41-40c4-a4f3-6251f27b2c20</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingfactory</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="17" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n18">
+      <ns0:data key="d3">d5dc8c74-f876-4367-a215-5b435d932645</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingtravel</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="18" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n19">
+      <ns0:data key="d3">7d256c11-7355-4f7b-a8f3-3055184cb152</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_alexaskill</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="19" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n20">
+      <ns0:data key="d3">9138d7d8-c978-4912-9233-4f8b7cf39383</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingpoliceemergency</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="20" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n21">
+      <ns0:data key="d3">60f15e8d-0b80-4d05-bfe7-af169bcd7c4b</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_hardwareboard</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="21" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n22">
+      <ns0:data key="d3">77735ef0-a9ab-4f85-b485-c157a5339e9b</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_lambdafunction</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="22" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n23">
+      <ns0:data key="d3">8824659f-592b-425e-9350-b97fa8b22490</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thinggeneric</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="23" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n24">
+      <ns0:data key="d3">3f57e6da-6083-4a0c-8db0-1f3d00bf8bc7</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_AVSenableddevice</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="24" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n25">
+      <ns0:data key="d3">50a43d5c-8e2f-4b50-acd8-754f3e6a6288</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_alexavoiceservice</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="25" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n26">
+      <ns0:data key="d3">4da5c9e8-c6b6-45bb-b91e-5f8dd0db4bc5</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_MQTTprotocol</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="26" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n27">
+      <ns0:data key="d3">3d5b311f-6fa8-433c-ad96-d7a7930060c2</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_fireTV</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="27" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n28">
+      <ns0:data key="d3">5b842dfc-b19e-4d00-b4e9-cf47b358f27e</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingwindfarm</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="28" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n29">
+      <ns0:data key="d3">c6dda84e-da5c-444d-b67e-43197d617abc</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_alexasmarthomeskill</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="29" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n30">
+      <ns0:data key="d3">6882432f-ad41-4a3d-85d7-83dcdf669700</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingcamera</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="30" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n31">
+      <ns0:data key="d3">556232c1-cf59-4b42-a3be-2dc8339cc158</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_certificate</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="31" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n32">
+      <ns0:data key="d3">3b055d92-4345-401f-92d6-4a3707cf88c5</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingcoffeepot</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="32" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n33">
+      <ns0:data key="d3">71ddad1f-a14d-47c5-8fe5-a1c762638382</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingbank</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="33" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n34">
+      <ns0:data key="d3">0862c1e1-4599-4f92-884b-d3f34aa7c88b</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_HTTPprotocol</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="34" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n35">
+      <ns0:data key="d3">140b93af-d044-4e54-b5c8-a52609fe7817</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingthermostat</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="35" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n36">
+      <ns0:data key="d3">fd74a3c6-6e46-48e9-906c-a616841b2fdf</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_desiredstate</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="36" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n37">
+      <ns0:data key="d3">6ee96555-6744-453e-934f-9b1b543a6039</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_sensor</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="37" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n38">
+      <ns0:data key="d3">013edb10-c854-47be-a9e0-30a20ab31061</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_AWSIoT</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="38" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n39">
+      <ns0:data key="d3">510a0056-a7db-4aba-ba41-22789b4cea3a</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingutility</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="39" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n40">
+      <ns0:data key="d3">70c7c4e3-c60b-4875-9bdf-e2af866c7f9e</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_simulator</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="40" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n41">
+      <ns0:data key="d3">2ebf34ae-5961-4d1b-bdb1-b1a919160576</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_servo</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="41" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n42">
+      <ns0:data key="d3">efffc91f-5494-4abb-9a44-c8953a71eebf</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_thingdoorlock</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="42" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n43">
+      <ns0:data key="d3">8bf25fe8-3046-4ff9-92ef-1999743841ed</ns0:data>
+      <ns0:data key="d4">InternetOfThings_AWSIoT_actuator</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="43" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+  </ns0:graph>
+  <ns0:data key="d8">
+    <ns2:Resources>
+      <ns2:Resource id="0">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;polygon class="cls-2" points="38.67 50.15 41.5 42.15 57 43.82 63 56.65 43.67 61.15 38.67 50.15"/&gt;&lt;circle class="cls-2" cx="36.75" cy="57.6" r="7.72"/&gt;&lt;path class="cls-3" d="M36.75,66.82A9.22,9.22,0,1,1,46,57.6,9.23,9.23,0,0,1,36.75,66.82Zm0-15.44A6.22,6.22,0,1,0,43,57.6,6.23,6.23,0,0,0,36.75,51.38Z"/&gt;&lt;path class="cls-2" d="M55.53,57.6a7.72,7.72,0,1,1,7.72,7.72,7.72,7.72,0,0,1-7.72-7.72"/&gt;&lt;path class="cls-3" d="M63.25,66.82a9.22,9.22,0,1,1,9.22-9.22A9.23,9.23,0,0,1,63.25,66.82Zm0-15.44a6.22,6.22,0,1,0,6.22,6.22A6.23,6.23,0,0,0,63.25,51.38Z"/&gt;&lt;path class="cls-3" d="M36.75,59.1a1.5,1.5,0,0,1-1.43-1.94l4.75-15.45a1.5,1.5,0,0,1,2.75-.28l7.13,13,5.72-11.25A1.45,1.45,0,0,1,57,42.32a1.5,1.5,0,0,1,1.33.88L64.62,57a1.5,1.5,0,0,1-1.37,2.12H50a1.6,1.6,0,0,1-.68-.15l0,0a1.49,1.49,0,0,1-.63-.62L41.89,46,38.18,58A1.5,1.5,0,0,1,36.75,59.1Zm15.7-3h8.48l-4-8.82Z"/&gt;&lt;path class="cls-3" d="M65.58,59.1h-18l9.52-18.74Zm-13.13-3h8.48l-4-8.82Z"/&gt;&lt;path class="cls-3" d="M57,45.32h-.16L41.38,43.65A6.42,6.42,0,0,1,37,41.72a4,4,0,0,1-.82-3.24,4.53,4.53,0,0,1,1.5-3,4.37,4.37,0,0,1,3.54-.85,1.5,1.5,0,1,1-.42,3,1.18,1.18,0,0,0-1.62,1.14s0,.11,0,.16a1.06,1.06,0,0,0,.17.93,3.58,3.58,0,0,0,2.21.83l15.6,1.67a1.5,1.5,0,0,1-.16,3Z"/&gt;&lt;path class="cls-3" d="M56.88,47.07a1.5,1.5,0,0,1-1.5-1.5V40.75a1.5,1.5,0,0,1,3,0v4.81A1.5,1.5,0,0,1,56.88,47.07Z"/&gt;&lt;circle class="cls-2" cx="50" cy="57.6" r="2.18"/&gt;&lt;path class="cls-3" d="M50,61.28a3.68,3.68,0,1,1,3.68-3.68A3.69,3.69,0,0,1,50,61.28Zm0-4.37a.68.68,0,1,0,.68.68A.68.68,0,0,0,50,56.91Z"/&gt;&lt;path class="cls-3" d="M58.39,41.44H53.54a1.5,1.5,0,0,1,0-3h4.85c.32,0,.32-.12.32-.33a1.5,1.5,0,0,1,3,0A3.27,3.27,0,0,1,58.39,41.44Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M71.35,43.69c-1.28,1.2-4.62,2.65-9.83,3.58A66.7,66.7,0,0,1,50,48.21c-11.94,0-19.3-2.58-21.35-4.51H28v1.78C28,47.34,35.78,51,50,51a66.67,66.67,0,0,0,11.54-.94c6.8-1.21,10.42-3.3,10.42-4.58V43.69Z"/&gt;&lt;path class="cls-1" d="M72,86.15a1.13,1.13,0,0,1-.05.21,1.69,1.69,0,0,1-.14.3c-1.17,2-7.42,4.82-20.5,4.82A63.16,63.16,0,0,1,32.67,88.7l.05.27c-2.61-1-4.44-2-4.66-2.83v2.79c.23.88,2.33,2,5.25,3,3.92,1.25,10,2.27,18,2.27,13.08,0,19.32-2.85,20.5-4.82a1.54,1.54,0,0,0,.14-.29,1.29,1.29,0,0,0,.05-.21.9.9,0,0,0,0-.15V86A1,1,0,0,1,72,86.15Z"/&gt;&lt;path class="cls-2" d="M61.25,52.76c-.6.12-1.21.2-1.81.29-.31,0-.62.1-.95.13-.56.07-1.13.13-1.71.19-.37,0-.74.07-1.12.09-.73.06-1.47.1-2.22.13h-.37c-.87,0-1.75.06-2.67.07h-.57c-8.72,0-17.51-1.5-21.78-4.35V87.15c.23.88,2.31,2,5.21,3,3.93,1.25,10,2.27,18,2.27C65.9,92.47,72,88.9,72,87l0-38C69.73,50.56,66,51.92,61.25,52.76Z"/&gt;&lt;path class="cls-1" d="M28,43.69c0,1.2,3.21,3.13,9.26,4.36V39.34C31.24,40.56,28,42.49,28,43.69Z"/&gt;&lt;path class="cls-1" d="M71.94,43.69c0-1.2-3.18-3.1-9.16-4.33V48C68.76,46.8,71.94,44.88,71.94,43.69Z"/&gt;&lt;polygon class="cls-2" points="37.28 35.59 41.58 38.66 50.03 44.71 58.48 38.67 62.78 35.59 37.28 35.59"/&gt;&lt;path class="cls-2" d="M61.17,39.06,50,47,38.87,39,37.29,37.9V48A64.12,64.12,0,0,0,50,49.21a66.7,66.7,0,0,0,11.54-.93L62.79,48V37.9Z"/&gt;&lt;path class="cls-2" d="M50,33.74a1.5,1.5,0,0,1-1.5-1.5V28.36L34.94,14.82a1.5,1.5,0,0,1,2.12-2.12l14,14a1.5,1.5,0,0,1,.44,1.06v4.5A1.5,1.5,0,0,1,50,33.74Z"/&gt;&lt;path class="cls-2" d="M50,29.24a1.5,1.5,0,0,1-1.06-2.56l14-14A1.5,1.5,0,0,1,65,14.82l-14,14A1.5,1.5,0,0,1,50,29.24Z"/&gt;&lt;rect class="cls-2" x="30.33" y="8.09" width="11.33" height="11.33" transform="translate(20.27 -21.43) rotate(45)"/&gt;&lt;circle class="cls-2" cx="63.97" cy="13.76" r="6.52"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="2">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M28.45,58.11H27.8a1.5,1.5,0,0,1,0-3h.66a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-3" d="M73.49,58.4h-.66a1.5,1.5,0,0,1,0-3h.66a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-2" d="M67.38,58h3.83v-3.4c0-7-8.37-7-8.37-7l-3.17-7.42H43.92l-2.17,7.17L29.83,50.65V58h2.86"/&gt;&lt;path class="cls-3" d="M71.21,59.5H67.38a1.5,1.5,0,0,1,0-3h2.33v-1.9c0-5.35-6.17-5.54-6.88-5.54a1.51,1.51,0,0,1-1.38-.91l-2.78-6.51H45l-1.84,6.1a1.5,1.5,0,0,1-1,1l-10.82,3V56.5h1.36a1.5,1.5,0,0,1,0,3H29.83a1.5,1.5,0,0,1-1.5-1.5V50.65a1.5,1.5,0,0,1,1.1-1.44l11.12-3.11,1.93-6.38a1.5,1.5,0,0,1,1.44-1.07H59.67a1.5,1.5,0,0,1,1.38.91l2.8,6.55c3.54.32,8.86,2.36,8.86,8.49V58A1.5,1.5,0,0,1,71.21,59.5Z"/&gt;&lt;path class="cls-2" d="M67.38,58h3.83v-3.4c0-7-8.37-7-8.37-7l-3.17-7.42H43.92l-2.17,7.17L29.83,50.65V58h2.86"/&gt;&lt;path class="cls-3" d="M71.21,59.5H67.38a1.5,1.5,0,0,1,0-3h2.33v-1.9c0-5.35-6.17-5.54-6.88-5.54a1.51,1.51,0,0,1-1.38-.91l-2.78-6.51H45l-1.84,6.1a1.5,1.5,0,0,1-1,1l-10.82,3V56.5h1.36a1.5,1.5,0,0,1,0,3H29.83a1.5,1.5,0,0,1-1.5-1.5V50.65a1.5,1.5,0,0,1,1.1-1.44l11.12-3.11,1.93-6.38a1.5,1.5,0,0,1,1.44-1.07H59.67a1.5,1.5,0,0,1,1.38.91l2.8,6.55c3.54.32,8.86,2.36,8.86,8.49V58A1.5,1.5,0,0,1,71.21,59.5Z"/&gt;&lt;circle class="cls-2" cx="36.98" cy="58" r="3.94"/&gt;&lt;path class="cls-3" d="M37,63.44A5.44,5.44,0,1,1,42.42,58,5.44,5.44,0,0,1,37,63.44Zm0-7.87A2.44,2.44,0,1,0,39.42,58,2.44,2.44,0,0,0,37,55.57Z"/&gt;&lt;circle class="cls-2" cx="62.83" cy="58" r="3.94"/&gt;&lt;path class="cls-3" d="M62.83,63.44A5.44,5.44,0,1,1,68.27,58,5.44,5.44,0,0,1,62.83,63.44Zm0-7.87A2.44,2.44,0,1,0,65.27,58,2.44,2.44,0,0,0,62.83,55.57Z"/&gt;&lt;path class="cls-3" d="M58.25,59.5H41.63a1.5,1.5,0,0,1,0-3H58.25a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="3">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M71.33,28.77c-1.28,1.2-4.62,2.65-9.83,3.58A66.7,66.7,0,0,1,50,33.28c-11.94,0-19.3-2.58-21.35-4.51H28v1.78c0,1.87,7.75,5.52,22,5.52a66.67,66.67,0,0,0,11.54-.94c6.8-1.21,10.42-3.3,10.42-4.58V28.77Z"/&gt;&lt;path class="cls-1" d="M71.95,71.22a1.13,1.13,0,0,1-.05.21,1.69,1.69,0,0,1-.14.3c-1.17,2-7.42,4.82-20.5,4.82a63.16,63.16,0,0,1-18.61-2.76l.05.27c-2.61-1-4.44-2-4.66-2.83V74c.23.88,2.33,2,5.25,3,3.92,1.25,10,2.27,18,2.27,13.08,0,19.32-2.85,20.5-4.82a1.54,1.54,0,0,0,.14-.29,1.29,1.29,0,0,0,.05-.21.9.9,0,0,0,0-.15V71.07A1,1,0,0,1,71.95,71.22Z"/&gt;&lt;path class="cls-2" d="M61.24,37.83c-.6.12-1.21.2-1.81.29-.31,0-.62.1-.95.13-.56.07-1.13.13-1.71.19-.37,0-.74.07-1.12.09-.73.06-1.47.1-2.22.13h-.37c-.87,0-1.75.06-2.67.07h-.57c-8.72,0-17.51-1.5-21.78-4.35V72.23c.23.88,2.31,2,5.21,3,3.93,1.25,10,2.27,18,2.27C65.88,77.54,72,74,72,72.07l0-38C69.71,35.63,66,37,61.24,37.83Z"/&gt;&lt;path class="cls-1" d="M28,28.76c0,1.2,3.21,3.13,9.26,4.36V24.41C31.22,25.64,28,27.56,28,28.76Z"/&gt;&lt;path class="cls-1" d="M71.92,28.76c0-1.2-3.18-3.1-9.16-4.33v8.67C68.75,31.88,71.92,30,71.92,28.76Z"/&gt;&lt;polygon class="cls-2" points="37.27 20.67 41.56 23.74 50.02 29.79 58.47 23.74 62.77 20.67 37.27 20.67"/&gt;&lt;path class="cls-2" d="M61.15,24.14,50,32.11l-11.16-8L37.27,23V33.13A64.12,64.12,0,0,0,50,34.28a66.7,66.7,0,0,0,11.54-.93l1.26-.24V23Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="4">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;InternetOfThings&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="70.39 35.54 79.61 23.81 83.94 35.54 75.06 36.67 70.39 35.54" fill="#19486f"/&gt;
+    &lt;polygon points="55.13 67.31 79.61 72.21 83.5 55.87 79.61 39.52 55.13 41.8 55.13 67.31" fill="#205b99"/&gt;
+    &lt;polygon points="50 55.81 50 74.53 79.61 55.24 57.17 54.21 50 55.81" fill="#99bce3"/&gt;
+    &lt;polygon points="55.69 50 64.35 50 75.91 38.8 64.35 22.89 55.69 25.4 55.69 50" fill="#205b99"/&gt;
+    &lt;polygon points="70.39 35.54 79.61 34.28 79.61 23.81 70.39 25.97 70.39 35.54" fill="#205b99"/&gt;
+    &lt;polygon points="83.94 54.78 50 58.2 50 91 83.94 74.03 83.94 54.78" fill="#5294cf"/&gt;
+    &lt;polygon points="50 91 60.14 76.38 60.14 35.65 50 33.6 39.42 60.44 50 91" fill="#5294cf"/&gt;
+    &lt;polygon points="79.61 66.47 83.94 74.03 83.94 40.43 79.61 39.52 79.61 66.47" fill="#5294cf"/&gt;
+    &lt;polygon points="83.94 25.97 79.61 23.81 79.61 34.28 83.94 35.54 83.94 25.97" fill="#5294cf"/&gt;
+    &lt;polygon points="77.11 28.02 64.35 22.89 64.35 50 77.11 50 77.11 28.02" fill="#5294cf"/&gt;
+    &lt;polygon points="29.61 35.54 20.39 23.81 16.06 35.54 24.94 36.67 29.61 35.54" fill="#19486f"/&gt;
+    &lt;polygon points="44.88 67.31 20.39 72.21 20.39 39.52 44.88 41.8 44.88 67.31" fill="#5294cf"/&gt;
+    &lt;polygon points="50 55.81 50 76.62 20.39 55.24 42.83 54.21 50 55.81" fill="#99bce3"/&gt;
+    &lt;polygon points="44.31 50 35.65 50 25 37.23 35.65 22.89 44.31 25.4 44.31 50" fill="#5294cf"/&gt;
+    &lt;polygon points="29.61 35.54 20.39 34.28 20.39 23.81 29.61 25.97 29.61 35.54" fill="#5294cf"/&gt;
+    &lt;polygon points="16.06 54.78 50 58.2 50 91 16.06 74.03 16.06 54.78" fill="#205b99"/&gt;
+    &lt;polygon points="50 91 39.86 77.43 39.86 35.65 50 33.6 50 91" fill="#205b99"/&gt;
+    &lt;polygon points="20.39 73.25 16.06 74.03 16.06 40.43 20.39 39.52 20.39 73.25" fill="#205b99"/&gt;
+    &lt;polygon points="16.06 25.97 20.39 23.81 20.39 34.28 16.06 35.54 16.06 25.97" fill="#205b99"/&gt;
+    &lt;polygon points="22.89 28.02 35.65 22.89 35.65 50 22.89 50 22.89 28.02" fill="#205b99"/&gt;
+    &lt;polygon points="60.14 28.48 50 30.87 39.86 28.48 50 9 60.14 28.48" fill="#19486f"/&gt;
+    &lt;polygon points="50 9 60.14 14.13 60.14 28.48 50 25.4 50 9" fill="#5294cf"/&gt;
+    &lt;polygon points="50 9 39.86 14.13 39.86 28.48 50 25.4 50 9" fill="#205b99"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="5">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#205b99;}.cls-2{fill:#5294cf;}.cls-3{fill:#19486f;}.cls-4{fill:#99bce3;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;polygon class="cls-1" points="68.08 62.83 62.6 62.13 62.6 37.92 68.08 37.22 83.45 50.64 68.08 62.83"/&gt;&lt;polygon class="cls-2" points="31.92 62.83 37.43 62.13 37.43 37.92 31.92 37.22 17.04 50.02 31.92 62.83"/&gt;&lt;polygon class="cls-2" points="59.42 59.21 49.97 60.41 40.96 49.64 49.97 39.59 59.42 40.79 59.42 59.21"/&gt;&lt;polygon class="cls-2" points="83.97 59.64 68.08 62.83 68.08 37.22 83.97 40.39 83.97 59.64"/&gt;&lt;polygon class="cls-1" points="40.65 59.22 50 60.41 50 39.59 40.65 40.78 40.65 59.22"/&gt;&lt;polygon class="cls-3" points="55.7 34.74 37.43 37.92 31.92 37.22 50 9 55.7 34.74"/&gt;&lt;polygon class="cls-3" points="68.08 37.22 62.6 37.92 44.33 34.73 50 9 68.08 37.22"/&gt;&lt;polygon class="cls-4" points="68.08 62.83 62.6 62.13 44.33 65.33 50 91 68.08 62.83"/&gt;&lt;polygon class="cls-4" points="55.7 65.32 37.43 62.13 31.92 62.83 50 91 55.7 65.32"/&gt;&lt;polygon class="cls-2" points="68.08 37.22 50 33.6 33.49 25.09 50 9 68.08 18.04 68.08 37.22"/&gt;&lt;polygon class="cls-2" points="68.08 81.96 50 91 33.98 75.34 50 66.46 68.08 62.83 68.08 81.96"/&gt;&lt;polygon class="cls-1" points="31.92 37.22 50 33.6 50 9 31.92 18.04 31.92 37.22"/&gt;&lt;polygon class="cls-1" points="16.03 59.64 31.92 62.83 31.92 37.22 16.03 40.39 16.03 59.64"/&gt;&lt;polygon class="cls-1" points="31.92 81.96 50 91 50 66.46 31.92 62.83 31.92 81.96"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="6">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{isolation:isolate;}.cls-4{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;polygon class="cls-1" points="77.84 78.9 29.8 78.9 29.8 76.42 54.21 63.29 77.84 76.42 77.84 78.9"/&gt;&lt;rect class="cls-2" x="29.8" y="60.5" width="48.04" height="15.92"/&gt;&lt;g class="cls-3"&gt;&lt;path class="cls-4" d="M32.36,63.06h1.71v4.29h3.15V63.06h1.71V73.77H37.22v-5H34.07v5H32.36Z"/&gt;&lt;path class="cls-4" d="M43.08,64.5H40.52V63.06h6.76V64.5h-2.5v9.27H43.08Z"/&gt;&lt;path class="cls-4" d="M50.63,64.5H48.08V63.06h6.76V64.5h-2.5v9.27H50.63Z"/&gt;&lt;path class="cls-4" d="M56.44,63.06h3.39c2.05,0,3,1.29,3,3.12a2.9,2.9,0,0,1-3.13,3.17h-1.5v4.42H56.44Zm1.71,5h1.21a1.62,1.62,0,0,0,1.71-1.84c0-1.16-.46-1.86-1.83-1.86H58.15Z"/&gt;&lt;path class="cls-4" d="M66.92,62.85h1.33L64.85,74H63.52Z"/&gt;&lt;path class="cls-4" d="M75.43,73.77H69.22c0-4.62,4.45-4.51,4.45-7.81,0-.87-.37-1.61-1.32-1.61-1.28,0-1.49,1.14-1.49,2.22H69.25c0-2.12.87-3.42,3.13-3.42s3,1.29,3,2.83c0,3.53-3.45,3.75-4.26,6.35h4.3Z"/&gt;&lt;/g&gt;&lt;path class="cls-1" d="M66.1,23.1H31.34a9.12,9.12,0,0,0-9.12,9.12V67a9.12,9.12,0,0,0,5.52,8.38V58H75.22V32.22A9.12,9.12,0,0,0,66.1,23.1Z"/&gt;&lt;polygon class="cls-1" points="75.22 60.5 27.07 60.5 27.07 58.02 51.53 44.9 75.22 58.02 75.22 60.5"/&gt;&lt;path class="cls-2" d="M66.1,20.62H31.34a9.12,9.12,0,0,0-9.12,9.12V64.5a9.12,9.12,0,0,0,5.52,8.38V58H75.22V29.74A9.12,9.12,0,0,0,66.1,20.62Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="7">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M61.92,24.91l-3.7,2.53-1.83-4.07A17.51,17.51,0,0,0,40.45,13.1,17.46,17.46,0,0,0,23,30.59l.07,3.24-2.75.79c-4.46,1.28-8.05,7-8.05,10.86v1.39c0,4.7,5.7,10.17,13,10.17H74.7c7.34,0,13-5.47,13-10.17V45.49c0-4.73-5.28-11-11.44-11.49L73,33.72l-.11-3.3a7,7,0,0,0-11-5.51Z"/&gt;&lt;path class="cls-2" d="M61.92,21.91l-3.7,2.53-1.83-4.07A17.51,17.51,0,0,0,40.45,10.1,17.46,17.46,0,0,0,23,27.59l.07,3.24-2.75.79c-4.46,1.28-8.05,7-8.05,10.86v1.39c0,4.7,5.7,10.17,13,10.17H74.7c7.34,0,13-5.47,13-10.17V42.49c0-4.73-5.28-11-11.44-11.49L73,30.72l-.11-3.3a7,7,0,0,0-11-5.51Z"/&gt;&lt;rect class="cls-1" x="20.07" y="67.73" width="58" height="22.17"/&gt;&lt;rect class="cls-2" x="20.07" y="64.73" width="58" height="22.17"/&gt;&lt;rect class="cls-3" x="27.07" y="70.73" width="9.67" height="9.67" rx="4.83" ry="4.83"/&gt;&lt;polygon class="cls-3" points="55.24 80.39 42.74 80.39 48.99 70.73 55.24 80.39"/&gt;&lt;rect class="cls-3" x="61.24" y="70.73" width="9.67" height="9.67"/&gt;&lt;rect class="cls-3" x="23.9" y="33.44" width="50" height="15.75"/&gt;&lt;rect class="cls-2" x="27.07" y="36.4" width="9.67" height="9.67" rx="4.83" ry="4.83"/&gt;&lt;polygon class="cls-2" points="55.24 46.06 42.74 46.06 48.99 36.4 55.24 46.06"/&gt;&lt;rect class="cls-2" x="61.24" y="36.4" width="9.67" height="9.67"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="8">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M62.27,67.23H37.73a5,5,0,0,1-5-5V37.73a5,5,0,0,1,5-5H62.27a5,5,0,0,1,5,5V62.27A5,5,0,0,1,62.27,67.23ZM37.73,35.77a2,2,0,0,0-2,2V62.27a2,2,0,0,0,2,2H62.27a2,2,0,0,0,2-2V37.73a2,2,0,0,0-2-2Z"/&gt;&lt;polygon class="cls-3" points="59.17 46.5 53.5 46.5 53.5 40.83 46.5 40.83 46.5 46.5 40.83 46.5 40.83 53.5 46.5 53.5 46.5 59.17 53.5 59.17 53.5 53.5 59.17 53.5 59.17 46.5"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="9">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M45.67,62h8.67a0,0,0,0,1,0,0v5.33A3.33,3.33,0,0,1,51,70.65H49a3.33,3.33,0,0,1-3.33-3.33V62A0,0,0,0,1,45.67,62Z"/&gt;&lt;path class="cls-3" d="M54.33,61.65H45.67a1.5,1.5,0,0,1,0-3h8.67a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-3" d="M44.93,53.48a1.5,1.5,0,0,1-.77-2.79l14-8.34a1.5,1.5,0,0,1,1.54,2.58l-14,8.34A1.5,1.5,0,0,1,44.93,53.48Z"/&gt;&lt;path class="cls-3" d="M41.13,43.37a1.5,1.5,0,0,1-.77-2.79l14-8.34a1.5,1.5,0,1,1,1.54,2.58l-14,8.34A1.5,1.5,0,0,1,41.13,43.37Z"/&gt;&lt;path class="cls-3" d="M41.13,49.56a1.5,1.5,0,0,1-.77-2.79L58.15,36.16a1.5,1.5,0,0,1,1.54,2.58L41.89,49.35A1.5,1.5,0,0,1,41.13,49.56Z"/&gt;&lt;path class="cls-3" d="M50,61.65a1.5,1.5,0,0,1-1.5-1.5v-5a1.5,1.5,0,0,1,.73-1.29l8.92-5.32a1.5,1.5,0,0,1,1.54,2.58L51.5,56v4.15A1.5,1.5,0,0,1,50,61.65Z"/&gt;&lt;path class="cls-3" d="M41.13,37.18a1.5,1.5,0,0,1-.77-2.79L47.76,30a1.5,1.5,0,0,1,1.54,2.58L41.89,37A1.5,1.5,0,0,1,41.13,37.18Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="10">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M77.66,48.81v2.38a27.66,27.66,0,0,1-55.31,0V48.81Z"/&gt;&lt;path class="cls-2" d="M50,21.37A27.44,27.44,0,1,1,22.34,48.81,27.55,27.55,0,0,1,50,21.37Z"/&gt;&lt;polygon class="cls-3" points="55.94 44.54 44.98 31 39.63 35.33 51.52 50 39.63 64.67 44.98 69 55.94 55.46 60.37 50 55.94 44.54"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="11">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}.cls-4{isolation:isolate;}.cls-5{fill:#99bce3;}.cls-6{fill:none;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M60.31,13.25H32.88c-4,0-7.16,2.35-7.16,5.67v42c0,3.31,3.21,6.33,7.16,6.33H48.53v-3H48.4A14,14,0,0,1,67.72,52.13V18.92C67.72,15.6,64.27,13.25,60.31,13.25Z"/&gt;&lt;path class="cls-2" d="M60.31,10.25H32.88c-4,0-7.16,2.35-7.16,5.67v42c0,3.31,3.21,6.33,7.16,6.33H48.53A14,14,0,0,1,67.72,49.13V15.92C67.72,12.6,64.27,10.25,60.31,10.25Z"/&gt;&lt;polygon class="cls-3" points="35.11 50.44 32.32 47.4 29.23 50.49 29.23 50.49 35.05 56.31 44.88 46.48 42.64 44.19 35.11 50.44"/&gt;&lt;g class="cls-4"&gt;&lt;path class="cls-5" d="M29.41,31.61h3.43l3.73,3.53,3.89-3.53h3.22l-5.43,4.82,5.83,5.18h-3.5l-4.1-3.82-4.17,3.82H29l5.83-5.18Z"/&gt;&lt;/g&gt;&lt;g class="cls-4"&gt;&lt;path class="cls-5" d="M29.41,17.11h3.43l3.73,3.53,3.89-3.53h3.22l-5.43,4.82,5.83,5.18h-3.5l-4.1-3.82-4.17,3.82H29l5.83-5.18Z"/&gt;&lt;/g&gt;&lt;path class="cls-6" d="M56,61.69h0a1.22,1.22,0,0,0,0,2.44h0a1.22,1.22,0,1,0,0-2.44Z"/&gt;&lt;path class="cls-1" d="M62.4,78.8a11.85,11.85,0,0,1-9.27-4.46V89.75l9.27-6.38,9.27,6.38V74.34A11.85,11.85,0,0,1,62.4,78.8Z"/&gt;&lt;path class="cls-1" d="M62.4,52.56A11.87,11.87,0,1,0,74.28,64.43,11.88,11.88,0,0,0,62.4,52.56Z"/&gt;&lt;path class="cls-2" d="M62.4,76.5A11.85,11.85,0,0,1,53.13,72V87.44l9.27-6.38,9.27,6.38V72A11.85,11.85,0,0,1,62.4,76.5Z"/&gt;&lt;path class="cls-2" d="M62.4,50.25A11.87,11.87,0,1,0,74.28,62.13,11.88,11.88,0,0,0,62.4,50.25Z"/&gt;&lt;path class="cls-3" d="M69.73,61.23l-1.53.92L67.62,62,67,61.35l-1.68.16-.7-1.21-2,0-.45,0a4.16,4.16,0,0,0-1-1.09,4.34,4.34,0,0,0-5.44,0,4.25,4.25,0,0,0-.27,6.39,4.33,4.33,0,0,0,5.73.24,3.48,3.48,0,0,0,.58-.58,3.3,3.3,0,0,0,.44-.66,3.84,3.84,0,0,0,.25-.51h8l.81-1.43ZM56.58,63.61h0a1.12,1.12,0,0,1,0-2.25h0a1.12,1.12,0,1,1,0,2.25Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="12">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#99bce3;}.cls-4{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M16.25,39.27H76.2a0,0,0,0,1,0,0V65.52a0,0,0,0,1,0,0H16.25a2,2,0,0,1-2-2V41.27A2,2,0,0,1,16.25,39.27Z"/&gt;&lt;path class="cls-2" d="M16.25,36.88H76.2a0,0,0,0,1,0,0V63.13a0,0,0,0,1,0,0H16.25a2,2,0,0,1-2-2V38.88A2,2,0,0,1,16.25,36.88Z"/&gt;&lt;polygon class="cls-1" points="87.67 43.45 87.64 43.45 76.2 43.45 76.2 61.35 87.64 61.35 87.67 61.35 90.03 57.85 90.03 46.95 87.67 43.45"/&gt;&lt;rect class="cls-3" x="76.2" y="41.05" width="11.44" height="17.89"/&gt;&lt;polygon class="cls-1" points="87.67 41.05 85.97 41.05 85.97 58.95 87.67 58.95 90.03 55.45 90.03 44.55 87.67 41.05"/&gt;&lt;path class="cls-4" d="M60.22,48.56a.77.77,0,0,0-1-.29c-.37.15-.78.34-1.26.5a34.21,34.21,0,0,1-8.17,1.86,45,45,0,0,1-5.54.24,41,41,0,0,1-6.14-.53,40.11,40.11,0,0,1-6.42-1.51c-1.07-.36-2.13-.75-3.17-1.2-.52-.23-1-.45-1.55-.72l-.82-.41a1.12,1.12,0,0,0-1.12.08,1,1,0,0,0-.34,1.23,1.42,1.42,0,0,0,.49.57l.35.28c.24.18.46.38.71.55.48.35,1,.7,1.47,1A26.94,26.94,0,0,0,30.78,52a27.89,27.89,0,0,0,6.49,2.25,27.36,27.36,0,0,0,12-.06,31.35,31.35,0,0,0,7.94-3,21.72,21.72,0,0,0,2-1.26l.68-.5a.92.92,0,0,0,.17-.16A.62.62,0,0,0,60.22,48.56Z"/&gt;&lt;path class="cls-4" d="M63.63,45.73a1.32,1.32,0,0,0-.74-.41,4.71,4.71,0,0,0-.64-.12A8,8,0,0,0,61,45.14a9.6,9.6,0,0,0-2.39.35,6.26,6.26,0,0,0-2,1,.87.87,0,0,0-.41.5.38.38,0,0,0,.16.41.53.53,0,0,0,.35.06l.94-.17A12.16,12.16,0,0,1,60.53,47a2.27,2.27,0,0,1,.78.17.74.74,0,0,1,.23.16.73.73,0,0,1,.1.25,2.07,2.07,0,0,1,0,.8,13.1,13.1,0,0,1-1,2.74l-.39.87a.72.72,0,0,0,0,.49.6.6,0,0,0,.55.4,1,1,0,0,0,.73-.34,6.3,6.3,0,0,0,1.42-1.86,9.22,9.22,0,0,0,.79-2.32,8.06,8.06,0,0,0,.16-1.26A2.58,2.58,0,0,0,63.63,45.73Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="13">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M58.47,58.63,34.82,56.56a1.2,1.2,0,0,1-1.07-1L31.53,43.23a1.2,1.2,0,0,1,1.05-1.4l29.5-3.07a1.2,1.2,0,0,1,1.29,1.43L59.75,57.68A1.2,1.2,0,0,1,58.47,58.63Z"/&gt;&lt;circle class="cls-3" cx="35.96" cy="69.05" r="3.1"/&gt;&lt;circle class="cls-3" cx="62.22" cy="69.05" r="3.1"/&gt;&lt;path class="cls-2" d="M35.81,61.45a.5.5,0,0,1-.5-.5V38.76a.5.5,0,0,1,1,0V60.95A.5.5,0,0,1,35.81,61.45Z"/&gt;&lt;path class="cls-2" d="M40.86,61.45a.5.5,0,0,1-.5-.5V38.76a.5.5,0,0,1,1,0V60.95A.5.5,0,0,1,40.86,61.45Z"/&gt;&lt;path class="cls-2" d="M45.91,61.45a.5.5,0,0,1-.5-.5V38.76a.5.5,0,0,1,1,0V60.95A.5.5,0,0,1,45.91,61.45Z"/&gt;&lt;path class="cls-2" d="M71.75,44.75H28.6a.5.5,0,0,1,0-1H71.75a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M71.75,49.43H28.6a.5.5,0,1,1,0-1H71.75a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M71.75,54.11H28.6a.5.5,0,0,1,0-1H71.75a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M51,61.45a.5.5,0,0,1-.5-.5V38.76a.5.5,0,0,1,1,0V60.95A.5.5,0,0,1,51,61.45Z"/&gt;&lt;path class="cls-2" d="M56,60.86a.5.5,0,0,1-.5-.5V38.8a.5.5,0,0,1,1,0V60.36A.5.5,0,0,1,56,60.86Z"/&gt;&lt;path class="cls-3" d="M63.25,65H34.75a1.5,1.5,0,0,1,0-3h25.5l-3.09-4.12a1.5,1.5,0,0,1-.27-1.21L62,32.09a1.5,1.5,0,0,1,.93-1.1l5.78-2.21a1.5,1.5,0,1,1,1.07,2.8l-5,1.91L60,56.65l4.48,6a1.5,1.5,0,0,1-1.2,2.4Z"/&gt;&lt;path class="cls-3" d="M59,59.51l-24.3-1.45a2.71,2.71,0,0,1-2.46-2.21L30.05,43.5a2.7,2.7,0,0,1,2.38-3.16l29.5-3.07.31,3-29.17,3,2.11,11.79,24,1.44Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="14">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#205b99;}.cls-4{fill:url(#linear-gradient);}&lt;/style&gt;&lt;linearGradient id="linear-gradient" x1="32.1" y1="18.59" x2="67.95" y2="18.59" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0.2" stop-color="#00b3ff"/&gt;&lt;stop offset="0.22" stop-color="#13b9ff"/&gt;&lt;stop offset="0.26" stop-color="#43c7ff"/&gt;&lt;stop offset="0.32" stop-color="#90deff"/&gt;&lt;stop offset="0.4" stop-color="#fafdff"/&gt;&lt;stop offset="0.4" stop-color="#fff"/&gt;&lt;stop offset="0.55" stop-color="#fff"/&gt;&lt;stop offset="0.62" stop-color="#fcfeff"/&gt;&lt;stop offset="0.68" stop-color="#f2fbff"/&gt;&lt;stop offset="0.74" stop-color="#e1f6ff"/&gt;&lt;stop offset="0.79" stop-color="#c9efff"/&gt;&lt;stop offset="0.83" stop-color="#aae6ff"/&gt;&lt;stop offset="0.88" stop-color="#84daff"/&gt;&lt;stop offset="0.93" stop-color="#58cdff"/&gt;&lt;stop offset="0.97" stop-color="#25beff"/&gt;&lt;stop offset="1" stop-color="#00b3ff"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="32.1" y="13.05" width="35.85" height="26.28"/&gt;&lt;ellipse class="cls-2" cx="50.02" cy="13.05" rx="17.92" ry="4"/&gt;&lt;path class="cls-1" d="M50,26.7c-9.9,0-17.92-1.79-17.92-4V87c0,2.21,8,4,17.92,4s17.92-1.79,17.92-4V22.7C67.95,24.91,59.92,26.7,50,26.7Z"/&gt;&lt;path class="cls-2" d="M50,24.26c-9.9,0-17.92-1.79-17.92-4V84.51c0,2.21,8,4,17.92,4s17.92-1.79,17.92-4V20.26C67.95,22.47,59.92,24.26,50,24.26Z"/&gt;&lt;path class="cls-3" d="M50,51.26c-9.9,0-17.92-1.79-17.92-4V80.51c0,2.21,8,4,17.92,4s17.92-1.79,17.92-4V47.26C67.95,49.47,59.92,51.26,50,51.26Z"/&gt;&lt;path class="cls-4" d="M66.63,16.59C64,18.06,57.54,19.09,50,19.09s-13.95-1-16.61-2.5c-.84-.46-1.32-1-1.32-1.5v3c0,2.21,8,4,17.92,4s17.92-1.79,17.92-4v-3C67.95,15.62,67.47,16.13,66.63,16.59Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="15">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="24.74" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="22.26" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-3" x="30" y="48.52" width="12.5" height="20"/&gt;&lt;rect class="cls-3" x="43.75" y="28.52" width="12.5" height="40"/&gt;&lt;rect class="cls-3" x="57.5" y="38.52" width="12.5" height="30"/&gt;&lt;rect class="cls-2" x="31.75" y="57.28" width="9" height="9" rx="4.5" ry="4.5"/&gt;&lt;rect class="cls-2" x="59.25" y="57.28" width="9" height="9"/&gt;&lt;polygon class="cls-2" points="54.5 66.28 45.5 66.28 50 57.28 54.5 66.28"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="16">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-3" x="33.15" y="45.66" width="33.7" height="20.61" rx="1.03" ry="1.03"/&gt;&lt;rect class="cls-2" x="47.1" y="53.22" width="5.92" height="12.15" rx="0.75" ry="0.75"/&gt;&lt;rect class="cls-2" x="38.58" y="53.22" width="4.83" height="5.52" rx="0.75" ry="0.75"/&gt;&lt;rect class="cls-2" x="56.64" y="53.22" width="4.83" height="5.52" rx="0.75" ry="0.75"/&gt;&lt;path class="cls-3" d="M50,32.1,27.32,45.18V47.3a1,1,0,0,0,1,1H71.68a1,1,0,0,0,1-1V45.18Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="17">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M63.18,44l-.26-16.11a.5.5,0,0,0-.5-.49H58.57a.5.5,0,0,0-.5.49l-.23,14L33.53,32.32a1,1,0,0,0-1.37.93v38a1,1,0,0,0,1,1H66.83a1,1,0,0,0,1-1V46.48a1,1,0,0,0-.63-.93Z"/&gt;&lt;rect class="cls-2" x="47.7" y="58.56" width="4.72" height="12.15" rx="0.5" ry="0.5"/&gt;&lt;rect class="cls-2" x="38.08" y="58.56" width="4.83" height="5.52" rx="0.5" ry="0.5"/&gt;&lt;rect class="cls-2" x="57.23" y="58.56" width="4.83" height="5.52" rx="0.5" ry="0.5"/&gt;&lt;rect class="cls-2" x="38.08" y="49.08" width="4.83" height="5.52" rx="0.5" ry="0.5"/&gt;&lt;rect class="cls-2" x="47.58" y="49.08" width="4.83" height="5.52" rx="0.5" ry="0.5"/&gt;&lt;rect class="cls-2" x="57.23" y="49.08" width="4.83" height="5.52" rx="0.5" ry="0.5"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="18">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M40.45,60.45h0C38.13,58.14,50.69,45.58,52,44.31L62.82,33.46c3.37-3.37,7.2-5.11,8.47-3.84h0c1.27,1.27-.46,5.1-3.84,8.47L56.6,48.94C55.32,50.21,42.77,62.77,40.45,60.45Z"/&gt;&lt;polygon class="cls-3" points="38.27 62.64 27.29 59.74 30.69 56.34 43.1 57.81 38.27 62.64"/&gt;&lt;polygon class="cls-3" points="38.27 62.64 41.16 73.61 44.56 70.22 43.1 57.81 38.27 62.64"/&gt;&lt;polygon class="cls-3" points="51.97 48.93 29.53 37.76 31.7 35.59 60.37 40.54 51.97 48.93"/&gt;&lt;polygon class="cls-3" points="51.97 48.93 63.15 71.37 65.31 69.21 60.37 40.54 51.97 48.93"/&gt;&lt;rect class="cls-3" x="36.68" y="32.86" width="2.25" height="5.43" transform="translate(36.23 -16.31) rotate(45)"/&gt;&lt;rect class="cls-3" x="46.01" y="34.25" width="2.25" height="5.43" transform="translate(39.94 -22.5) rotate(45)"/&gt;&lt;rect class="cls-3" x="64.21" y="60.39" width="2.25" height="5.43" transform="translate(66.91 153.92) rotate(-135)"/&gt;&lt;rect class="cls-3" x="62.82" y="51.06" width="2.25" height="5.43" transform="translate(71.13 137.01) rotate(-135)"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="19">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:url(#radial-gradient);}.cls-4{fill:url(#linear-gradient);}&lt;/style&gt;&lt;radialGradient id="radial-gradient" cx="181.13" cy="417.21" fx="170.09971869749347" r="49.51" gradientTransform="matrix(0.29, -0.96, 0.54, 0.17, -212.85, 148)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0.17" stop-color="#fff"/&gt;&lt;stop offset="0.46" stop-color="#00b3ff"/&gt;&lt;/radialGradient&gt;&lt;linearGradient id="linear-gradient" x1="134.2" y1="135.8" x2="130.07" y2="119.43" gradientTransform="matrix(0.95, -0.3, 0.3, 0.95, -106.82, -39.87)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0.12" stop-color="#fff"/&gt;&lt;stop offset="0.19" stop-color="#f8fdff" stop-opacity="0.97"/&gt;&lt;stop offset="0.31" stop-color="#e4f7ff" stop-opacity="0.89"/&gt;&lt;stop offset="0.44" stop-color="#c3edff" stop-opacity="0.76"/&gt;&lt;stop offset="0.6" stop-color="#95e0ff" stop-opacity="0.59"/&gt;&lt;stop offset="0.77" stop-color="#5bceff" stop-opacity="0.36"/&gt;&lt;stop offset="0.95" stop-color="#15b9ff" stop-opacity="0.08"/&gt;&lt;stop offset="1" stop-color="#00b3ff" stop-opacity="0"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M43.78,43.23H23.5v26.6a9.12,9.12,0,0,0,9.12,9.12H67.38a9.12,9.12,0,0,0,9.12-9.12V35.07a9.12,9.12,0,0,0-9.12-9.12H47V40A3.22,3.22,0,0,1,43.78,43.23Z"/&gt;&lt;path class="cls-2" d="M75.91,29.43c-.05-.14-.1-.28-.16-.41A9.11,9.11,0,0,0,71,24.25l-.41-.16a9.08,9.08,0,0,0-3.2-.59H32.62a9.12,9.12,0,0,0-9.12,9.12h0V67.38a9.12,9.12,0,0,0,9.12,9.12H67.38a9.12,9.12,0,0,0,9.12-9.12V32.62h0A9.08,9.08,0,0,0,75.91,29.43Z"/&gt;&lt;path class="cls-3" d="M58.62,33.35h0c-.55-.29-1.11-.54-1.68-.76l-.58-.2c-.38-.14-.75-.27-1.14-.38l-.7-.18c-.35-.09-.69-.17-1-.24l-.75-.12c-.33,0-.66-.1-1-.13L51,31.29l-1,0-.81,0-.92.06-.82.09-.89.15-.82.17L44.9,32l-.82.24c-.27.09-.53.19-.79.29s-.56.21-.83.33-.48.23-.72.35-.56.27-.84.42-.37.23-.56.34a18.67,18.67,0,0,0-1.91,1.31l-.33.25c-.27.22-.53.47-.79.71s-.34.3-.51.46-.47.5-.7.75-.34.36-.49.55-.42.53-.62.81-.23.28-.33.43v0l-.06.08h0l-.12.19-.3.46c-.29.45-.57.92-.82,1.41a18.66,18.66,0,0,0-2,10.78,18.85,18.85,0,0,0,.76,3.52q.27.86.63,1.69a18.71,18.71,0,0,0,4.06,6q.66.65,1.38,1.24a18.84,18.84,0,0,0,3.18,2.08h0c.55.29,1.11.54,1.68.76l.58.2c.38.14.75.27,1.14.38l.7.18c.34.09.69.17,1,.24l.75.12c.33,0,.66.1,1,.13l.79.05,1,0,.81,0,.92-.06.82-.09.89-.15.82-.17.84-.22.83-.25c.27-.09.53-.19.79-.29s.56-.21.83-.33.48-.23.72-.35.56-.27.84-.42.37-.22.55-.33a18.68,18.68,0,0,0,1.93-1.32l.31-.24c.28-.23.54-.47.8-.72s.34-.3.5-.46.47-.5.7-.76.33-.36.49-.55.42-.53.62-.81.23-.28.33-.43v0l.06-.08h0l.12-.19.3-.46c.29-.45.57-.92.82-1.4a18.75,18.75,0,0,0-8-25.27ZM57,39.17a13.39,13.39,0,0,1,1.2.87l.26.23q.36.31.71.65A12.87,12.87,0,0,1,46,62.24a12.56,12.56,0,0,1-1.36-.53l-.29-.14c-.35-.17-.68-.36-1-.55L43,60.83a13.37,13.37,0,0,1-1.2-.87l-.26-.23q-.36-.31-.71-.65A12.87,12.87,0,0,1,54,37.77a12.56,12.56,0,0,1,1.36.53l.29.14c.35.17.68.36,1,.55Z"/&gt;&lt;path class="cls-4" d="M66.46,41a18.66,18.66,0,0,0-7.84-7.66h0c-.55-.29-1.11-.54-1.68-.76l-.58-.2c-.38-.14-.75-.27-1.14-.38l-.7-.18c-.35-.09-.69-.17-1-.24l-.75-.12c-.33,0-.66-.1-1-.13L51,31.29l-1,0-.81,0-.92.06-.82.09-.89.15-.82.17L44.9,32l-.58.17,1.79,5.62a12.9,12.9,0,0,1,7.87,0,12.57,12.57,0,0,1,1.36.53l.29.14c.35.17.68.36,1,.55l.32.18a13.39,13.39,0,0,1,1.2.87l.26.23q.36.31.71.65a12.91,12.91,0,0,1,3.72,8.32l5.73-1.82A18.85,18.85,0,0,0,66.46,41Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="20">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M64.6,54.37c0-.26,0-.51-.08-.77s-.06-.32-.08-.48-.08-.48-.12-.72-.08-.35-.12-.52-.1-.47-.16-.7-.1-.36-.16-.53-.13-.46-.2-.69-.13-.36-.19-.54-.15-.45-.24-.68-.15-.37-.22-.55-.18-.44-.27-.66-.17-.37-.26-.55-.18-.39-.27-.58a4.62,4.62,0,0,1,0-4.18l2.51-4.92-1.37-1.37,0,0a10.58,10.58,0,0,1-4,1.4c-4,.44-8.24-1.27-9.31-2.89h0c-1.07,1.63-5.3,3.33-9.31,2.89a10.58,10.58,0,0,1-4-1.4l0,0-1.37,1.37,2.51,4.92a4.62,4.62,0,0,1,0,4.18c-.1.19-.18.39-.27.58s-.18.37-.26.55-.18.44-.27.66-.15.36-.22.55-.16.45-.24.68-.13.36-.19.54-.14.46-.2.69S36,51,36,51.17s-.11.47-.16.7-.09.35-.12.52-.08.48-.12.72-.06.32-.08.48-.06.51-.08.77,0,.28,0,.42q0,.59,0,1.16c0,7.07,5,9.54,11.64,10.06,1,.08,3,1.26,3,2.24,0-1,2.06-2.16,3-2.24,6.65-.52,11.64-3,11.64-10.06q0-.57,0-1.16C64.63,54.65,64.61,54.51,64.6,54.37Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="21">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="12.5" y="54.49" width="75" height="22.17"/&gt;&lt;rect class="cls-2" x="12.5" y="23.64" width="75" height="49.87"/&gt;&lt;path class="cls-3" d="M87.5,62.32H74.89a1.5,1.5,0,0,1-1.5-1.5v-9a1.5,1.5,0,0,1,3,0v7.5H87.5Z"/&gt;&lt;path class="cls-3" d="M87.5,70H64.17a1.5,1.5,0,0,1-1.5-1.5V51.81a1.5,1.5,0,0,1,3,0V67H87.5Z"/&gt;&lt;circle class="cls-3" cx="74.89" cy="51.81" r="3.66"/&gt;&lt;circle class="cls-3" cx="64.17" cy="51.81" r="3.66"/&gt;&lt;circle class="cls-3" cx="53.86" cy="62.12" r="3.66"/&gt;&lt;circle class="cls-3" cx="46.55" cy="36.25" r="3.66"/&gt;&lt;circle class="cls-3" cx="51.82" cy="47.76" r="3.66"/&gt;&lt;circle class="cls-3" cx="28.86" cy="36.25" r="3.66"/&gt;&lt;circle class="cls-3" cx="18.87" cy="62.22" r="3.66"/&gt;&lt;rect class="cls-3" x="65.39" y="26.74" width="19.01" height="19.01" rx="1.62" ry="1.62"/&gt;&lt;path class="cls-3" d="M53.86,63.62a1.5,1.5,0,0,1-1.06-.44L37.51,47.9a1.5,1.5,0,0,1-.44-1.06V23.64h3V46.22L54.92,61.06a1.5,1.5,0,0,1-1.06,2.56Z"/&gt;&lt;circle class="cls-3" cx="28.66" cy="47.82" r="3.66"/&gt;&lt;circle class="cls-3" cx="30.94" cy="62.22" r="3.66"/&gt;&lt;polygon class="cls-3" points="44.39 73.51 41.39 73.51 41.39 62.68 27.8 49.08 29.92 46.96 44.39 61.43 44.39 73.51"/&gt;&lt;path class="cls-3" d="M74.89,37.75H46.22a1.5,1.5,0,0,1,0-3H74.89a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-3" d="M57.51,37.75a1.5,1.5,0,0,1-1.5-1.5V23.64h3V36.25A1.5,1.5,0,0,1,57.51,37.75Z"/&gt;&lt;path class="cls-3" d="M30.85,63.72a1.5,1.5,0,0,1-1.06-.44l-12-12a1.5,1.5,0,0,1-.44-1.06V23.64h3v26L31.91,61.16a1.5,1.5,0,0,1-1.06,2.56Z"/&gt;&lt;path class="cls-3" d="M30.94,37.75H18.88a1.5,1.5,0,0,1,0-3H30.94a1.5,1.5,0,1,1,0,3Z"/&gt;&lt;rect class="cls-3" x="17.38" y="62.22" width="3" height="11.29"/&gt;&lt;rect class="cls-3" x="44.07" y="48.6" width="10.81" height="3" transform="translate(-20.93 49.66) rotate(-45)"/&gt;&lt;path class="cls-2" d="M56.84,19.9a2,2,0,0,1-1.41-.59,7.69,7.69,0,0,0-10.86,0,2,2,0,0,1-2.83-2.83,11.69,11.69,0,0,1,16.52,0,2,2,0,0,1-1.41,3.41Z"/&gt;&lt;path class="cls-2" d="M62.27,14.47a2,2,0,0,1-1.41-.59,15.38,15.38,0,0,0-21.72,0,2,2,0,0,1-2.83-2.83,19.38,19.38,0,0,1,27.38,0,2,2,0,0,1-1.41,3.41Z"/&gt;&lt;path class="cls-2" d="M50,86.93a11.64,11.64,0,0,1-8.26-3.42,2,2,0,0,1,2.83-2.83,7.69,7.69,0,0,0,10.86,0,2,2,0,0,1,2.83,2.83A11.64,11.64,0,0,1,50,86.93Z"/&gt;&lt;path class="cls-2" d="M50,94.6a19.3,19.3,0,0,1-13.69-5.66,2,2,0,0,1,2.83-2.83,15.38,15.38,0,0,0,21.72,0,2,2,0,0,1,2.83,2.83A19.3,19.3,0,0,1,50,94.6Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="22">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#9d5025;}.cls-3{fill:#2e73b8;}.cls-4{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;circle class="cls-1" cx="50" cy="51.25" r="30.43"/&gt;&lt;rect class="cls-2" x="19.57" y="48.75" width="60.86" height="2.5"/&gt;&lt;circle class="cls-3" cx="50" cy="48.75" r="30.43"/&gt;&lt;polygon class="cls-4" points="69.8 63.7 67.44 57.51 62.16 59.53 54.61 39.76 52.51 34.29 51.53 31.71 49.98 27.67 42.89 27.67 39.98 27.67 39.98 34.29 45.42 34.29 47.31 39.23 31.57 67.25 39.17 67.25 50.39 47.27 58.34 68.08 60.23 67.36 64.53 65.72 64.53 65.72 69.8 63.7"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="23">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-3" x="38.3" y="38.3" width="23.41" height="23.41" rx="2.33" ry="2.33"/&gt;&lt;path class="cls-2" d="M64.83,46H44.28a1.5,1.5,0,0,1,0-3H64.83a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-2" d="M55.72,57H35.17a1.5,1.5,0,0,1,0-3H55.72a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;circle class="cls-2" cx="44.28" cy="44.53" r="3.98"/&gt;&lt;circle class="cls-2" cx="55.72" cy="55.47" r="3.98"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="24">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#2e73b8;}.cls-2{fill:#19486f;}.cls-3{fill:#00b3ff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-1" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-1" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-1" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-1" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;circle class="cls-2" cx="68.75" cy="72.4" r="12.18"/&gt;&lt;path class="cls-2" d="M68.75,58.22a14.1,14.1,0,0,1,7.75,2.32V35.13A9.12,9.12,0,0,0,67.38,26H32.62a9.12,9.12,0,0,0-9.12,9.12V69.89A9.12,9.12,0,0,0,32.62,79H56.21A14.17,14.17,0,0,1,68.75,58.22Z"/&gt;&lt;circle class="cls-1" cx="68.75" cy="69.9" r="12.18"/&gt;&lt;path class="cls-1" d="M68.75,55.72A14.1,14.1,0,0,1,76.5,58V32.63a9.12,9.12,0,0,0-9.12-9.12H32.62a9.12,9.12,0,0,0-9.12,9.12V67.39a9.12,9.12,0,0,0,9.12,9.12H56.21A14.17,14.17,0,0,1,68.75,55.72Z"/&gt;&lt;rect class="cls-1" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-1" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-1" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-1" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-1" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-1" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-1" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-1" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-1" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-1" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-1" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M68.75,60.22a9.68,9.68,0,0,0-1.3,19.26l.07,0v-2a1.32,1.32,0,0,0-.91-1.25,6.64,6.64,0,1,1,8.7-7.37c.75,4.46-3.3,8.64-7.79,10.64v0a9.68,9.68,0,1,0,1.24-19.27Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="25">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#00b3ff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M43.78,43.23H23.5v26.6a9.12,9.12,0,0,0,9.12,9.12H67.38a9.12,9.12,0,0,0,9.12-9.12V35.07a9.12,9.12,0,0,0-9.12-9.12H47V40A3.22,3.22,0,0,1,43.78,43.23Z"/&gt;&lt;path class="cls-2" d="M75.91,29.43c-.05-.14-.1-.28-.16-.41A9.11,9.11,0,0,0,71,24.25l-.41-.16a9.08,9.08,0,0,0-3.2-.59H32.62a9.12,9.12,0,0,0-9.12,9.12h0V67.38a9.12,9.12,0,0,0,9.12,9.12H67.38a9.12,9.12,0,0,0,9.12-9.12V32.62h0A9.08,9.08,0,0,0,75.91,29.43Z"/&gt;&lt;path class="cls-3" d="M50,31.25a18.75,18.75,0,0,0-2.52,37.33l.13-.06V64.62a2.55,2.55,0,0,0-1.76-2.43A12.87,12.87,0,1,1,62.7,47.91c1.45,8.64-6.39,16.74-15.09,20.61v.07A18.75,18.75,0,1,0,50,31.25Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="26">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{isolation:isolate;}.cls-4{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;polygon class="cls-1" points="75.22 60.5 32.78 60.5 32.78 58 54 42.33 75.22 58 75.22 60.5"/&gt;&lt;polygon class="cls-1" points="77.84 78.9 40.3 78.9 40.3 76.42 59.38 63.29 77.84 76.42 77.84 78.9"/&gt;&lt;rect class="cls-2" x="40.3" y="60.5" width="37.54" height="15.92"/&gt;&lt;g class="cls-3"&gt;&lt;path class="cls-4" d="M42.14,63.06h2.67L46.7,71h0l1.86-7.94H51.2V73.77H49.58V64.86h0l-2.16,8.91H45.95l-2.16-8.91h0v8.91H42.14Z"/&gt;&lt;path class="cls-4" d="M58.55,73.62a3.31,3.31,0,0,1-1.68.36c-2.46,0-3.54-1.74-3.54-5.56s1.08-5.57,3.54-5.57,3.54,1.74,3.54,5.57a8.69,8.69,0,0,1-.84,4.24l1.1,1.16-1,.92Zm-.9-2.8.71.71a9.76,9.76,0,0,0,.35-3.15c0-3.6-.81-4.23-1.83-4.23S55,64.77,55,68.37s.81,4.32,1.83,4.32a1.67,1.67,0,0,0,.61-.1l-.81-.79Z"/&gt;&lt;path class="cls-4" d="M64.29,64.5H61.74V63.06h6.76V64.5H66v9.27H64.29Z"/&gt;&lt;path class="cls-4" d="M71.85,64.5H69.3V63.06h6.76V64.5h-2.5v9.27H71.85Z"/&gt;&lt;/g&gt;&lt;path class="cls-1" d="M75.22,58V32.22A9.12,9.12,0,0,0,66.1,23.1H31.34a9.12,9.12,0,0,0-9.12,9.12V67a9.12,9.12,0,0,0,9.12,9.12h7V58Z"/&gt;&lt;path class="cls-2" d="M75.22,58V29.74a9.12,9.12,0,0,0-9.12-9.12H31.34a9.12,9.12,0,0,0-9.12,9.12V64.5a9.12,9.12,0,0,0,9.12,9.12h7V58Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="27">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#99bce3;}.cls-3{fill:#2e73b8;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M83.25,29.36H16.75v39.9H44.83l-.25.74A3.8,3.8,0,0,1,41,72.59H28.74v2.85H71.26V72.59H59A3.8,3.8,0,0,1,55.42,70l-.25-.74H83.25ZM79.18,65.2H20.82V33.43H79.18Z"/&gt;&lt;rect class="cls-2" x="19.33" y="29.36" width="61" height="35.83"/&gt;&lt;path class="cls-3" d="M83.25,27H16.75v39.9H44.83l-.25.74A3.8,3.8,0,0,1,41,70.19H28.74V73H71.26V70.19H59a3.8,3.8,0,0,1-3.6-2.58l-.25-.74H83.25ZM79.18,62.8H20.82V31H79.18Z"/&gt;&lt;path class="cls-3" d="M66,46.47a.77.77,0,0,0-1-.29c-.37.15-.78.34-1.26.5a34.21,34.21,0,0,1-8.17,1.86,45,45,0,0,1-5.54.24,41,41,0,0,1-6.14-.53,40.11,40.11,0,0,1-6.42-1.51c-1.07-.36-2.13-.75-3.17-1.2-.52-.23-1-.45-1.55-.72l-.82-.41a1.12,1.12,0,0,0-1.12.08,1,1,0,0,0-.34,1.23,1.42,1.42,0,0,0,.49.57l.35.28c.24.18.46.38.71.55.48.35,1,.7,1.47,1a26.94,26.94,0,0,0,3.08,1.75A27.89,27.89,0,0,0,43,52.14a27.36,27.36,0,0,0,12-.06,31.35,31.35,0,0,0,7.94-3,21.72,21.72,0,0,0,2-1.26l.68-.5a.92.92,0,0,0,.17-.16A.62.62,0,0,0,66,46.47Z"/&gt;&lt;path class="cls-3" d="M69.4,43.65a1.32,1.32,0,0,0-.74-.41,4.71,4.71,0,0,0-.64-.12,8,8,0,0,0-1.25-.06,9.6,9.6,0,0,0-2.39.35,6.26,6.26,0,0,0-2,1,.87.87,0,0,0-.41.5.38.38,0,0,0,.16.41.53.53,0,0,0,.35.06l.94-.17a12.16,12.16,0,0,1,2.91-.25,2.27,2.27,0,0,1,.78.17.74.74,0,0,1,.23.16.73.73,0,0,1,.1.25,2.07,2.07,0,0,1,0,.8,13.1,13.1,0,0,1-1,2.74l-.39.87a.72.72,0,0,0,0,.49.6.6,0,0,0,.55.4,1,1,0,0,0,.73-.34,6.3,6.3,0,0,0,1.42-1.86,9.22,9.22,0,0,0,.79-2.32A8.06,8.06,0,0,0,69.63,45,2.58,2.58,0,0,0,69.4,43.65Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="28">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-3" x="48.5" y="41.82" width="3" height="32.5"/&gt;&lt;path class="cls-3" d="M67.3,41.66c-12.05-1.13-14.91-1.4-16.12-.76,0-1.37-1.49-3.8-7.89-14l-.83-1.33-2.64,1.42.65,1.42c5,11,6.24,13.6,7.4,14.32-1.2.66-2.54,3.18-8.22,13.86l-.74,1.39,2.55,1.57.9-1.27c7-9.86,8.66-12.2,8.71-13.57.61.37,1.68.52,4.26.52,2.38,0,6.05-.13,11.84-.33l1.58-.05.09-3Z"/&gt;&lt;circle class="cls-3" cx="50" cy="42.82" r="3.5"/&gt;&lt;circle class="cls-2" cx="50" cy="42.82" r="1"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="29">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:url(#radial-gradient);}.cls-4{fill:url(#linear-gradient);}&lt;/style&gt;&lt;radialGradient id="radial-gradient" cx="61.24" cy="347.29" fx="50.20685436638142" r="49.51" gradientTransform="matrix(0.29, -0.96, 0.54, 0.17, -139.57, 48.12)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0.17" stop-color="#fff"/&gt;&lt;stop offset="0.46" stop-color="#00b3ff"/&gt;&lt;/radialGradient&gt;&lt;linearGradient id="linear-gradient" x1="93.32" y1="132.47" x2="89.19" y2="116.1" gradientTransform="matrix(0.95, -0.3, 0.3, 0.95, -66.85, -46.07)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0.12" stop-color="#fff"/&gt;&lt;stop offset="0.19" stop-color="#f8fdff" stop-opacity="0.97"/&gt;&lt;stop offset="0.31" stop-color="#e4f7ff" stop-opacity="0.89"/&gt;&lt;stop offset="0.44" stop-color="#c3edff" stop-opacity="0.76"/&gt;&lt;stop offset="0.6" stop-color="#95e0ff" stop-opacity="0.59"/&gt;&lt;stop offset="0.77" stop-color="#5bceff" stop-opacity="0.36"/&gt;&lt;stop offset="0.95" stop-color="#15b9ff" stop-opacity="0.08"/&gt;&lt;stop offset="1" stop-color="#00b3ff" stop-opacity="0"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M50,20.83,10.21,43.77a1.08,1.08,0,0,0-.54.93v3.15a1.78,1.78,0,0,0,1.78,1.78H20V79.74a1.83,1.83,0,0,0,1.83,1.83H78.13A1.83,1.83,0,0,0,80,79.74V49.63h8.59a1.78,1.78,0,0,0,1.78-1.78V44.7a1.08,1.08,0,0,0-.54-.93Z"/&gt;&lt;path class="cls-2" d="M50,18.43,10.21,41.37a1.08,1.08,0,0,0-.54.93v3.15a1.78,1.78,0,0,0,1.78,1.78H20V77.34a1.83,1.83,0,0,0,1.83,1.83H78.13A1.83,1.83,0,0,0,80,77.34V47.23h8.59a1.78,1.78,0,0,0,1.78-1.78V42.3a1.08,1.08,0,0,0-.54-.93Z"/&gt;&lt;path class="cls-3" d="M58.62,36.36h0c-.55-.29-1.11-.54-1.68-.76l-.58-.2c-.38-.14-.75-.27-1.14-.38l-.7-.18c-.35-.09-.69-.17-1-.24l-.75-.12c-.33,0-.66-.1-1-.13L51,34.3l-1,0-.81,0-.92.06-.82.09-.89.15-.82.17L44.9,35l-.82.24c-.27.09-.53.19-.79.29s-.56.21-.83.33-.48.23-.72.35-.56.27-.84.42-.37.23-.56.34a18.67,18.67,0,0,0-1.91,1.31l-.33.25c-.27.22-.53.47-.79.71s-.34.3-.51.46-.47.5-.7.75-.34.36-.49.55-.42.53-.62.81-.23.28-.33.43v0l-.06.08h0l-.12.19-.3.46c-.29.45-.57.92-.82,1.41a18.66,18.66,0,0,0-2,10.78,18.85,18.85,0,0,0,.76,3.52q.27.86.63,1.69a18.71,18.71,0,0,0,4.06,6q.66.65,1.38,1.24a18.84,18.84,0,0,0,3.18,2.08h0c.55.29,1.11.54,1.68.76l.58.2c.38.14.75.27,1.14.38l.7.18c.34.09.69.17,1,.24l.75.12c.33,0,.66.1,1,.13l.79.05,1,0,.81,0,.92-.06.82-.09.89-.15.82-.17.84-.22.83-.25c.27-.09.53-.19.79-.29s.56-.21.83-.33.48-.23.72-.35.56-.27.84-.42.37-.22.55-.33a18.68,18.68,0,0,0,1.93-1.32l.31-.24c.28-.23.54-.47.8-.72s.34-.3.5-.46.47-.5.7-.76.33-.36.49-.55.42-.53.62-.81.23-.28.33-.43v0l.06-.08h0l.12-.19.3-.46c.29-.45.57-.92.82-1.4a18.75,18.75,0,0,0-8-25.27ZM57,42.18a13.39,13.39,0,0,1,1.2.87l.26.23q.36.31.71.65A12.87,12.87,0,0,1,46,65.25a12.56,12.56,0,0,1-1.36-.53l-.29-.14c-.35-.17-.68-.36-1-.55L43,63.84a13.37,13.37,0,0,1-1.2-.87l-.26-.23q-.36-.31-.71-.65A12.87,12.87,0,0,1,54,40.78a12.56,12.56,0,0,1,1.36.53l.29.14c.35.17.68.36,1,.55Z"/&gt;&lt;path class="cls-4" d="M66.46,44a18.66,18.66,0,0,0-7.84-7.66h0c-.55-.29-1.11-.54-1.68-.76l-.58-.2c-.38-.14-.75-.27-1.14-.38l-.7-.18c-.35-.09-.69-.17-1-.24l-.75-.12c-.33,0-.66-.1-1-.13L51,34.3l-1,0-.81,0-.92.06-.82.09-.89.15-.82.17L44.9,35l-.58.17,1.79,5.62a12.9,12.9,0,0,1,7.87,0,12.57,12.57,0,0,1,1.36.53l.29.14c.35.17.68.36,1,.55l.32.18a13.39,13.39,0,0,1,1.2.87l.26.23q.36.31.71.65a12.91,12.91,0,0,1,3.72,8.32l5.73-1.82A18.85,18.85,0,0,0,66.46,44Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="30">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-3" x="29.95" y="39.73" width="39.75" height="24.25" rx="2.46" ry="2.46"/&gt;&lt;path class="cls-2" d="M53,61.86a10,10,0,1,1,10-10A10,10,0,0,1,53,61.86Zm0-17a7,7,0,1,0,7,7A7,7,0,0,0,53,44.86Z"/&gt;&lt;circle class="cls-2" cx="53" cy="51.86" r="5.25"/&gt;&lt;rect class="cls-2" x="33.12" y="42.98" width="6.38" height="3"/&gt;&lt;polygon class="cls-3" points="61.5 38.65 44.5 38.65 46.76 33.98 59.24 33.98 61.5 38.65"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="31">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:none;}.cls-2{fill:#19486f;}.cls-3{fill:#2e73b8;}.cls-4{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M37.12,38.7h0a2.47,2.47,0,0,0,0,4.93h0a2.47,2.47,0,1,0,0-4.93Z"/&gt;&lt;polygon class="cls-2" points="64.98 71.99 58.5 68.74 55.16 75.18 50 70.09 44.84 75.18 41.5 68.74 35.02 71.99 33.83 64.84 31.29 65.22 31.29 88.65 50 75.77 68.72 88.65 68.72 65.22 66.17 64.84 64.98 71.99"/&gt;&lt;polygon class="cls-3" points="31.29 54.48 31.29 85.65 50 72.77 68.72 85.65 68.72 54.48 31.29 54.48"/&gt;&lt;polygon class="cls-2" points="73.82 42.59 78.23 38.12 78.23 35.12 72.66 35.23 75.47 29.61 75.47 26.61 69.27 28.59 70.21 22.37 70.21 19.37 64 23.32 62.98 17.12 57.36 19.93 54.47 14.35 50 18.77 45.53 14.35 42.64 19.93 37.02 17.12 36 23.32 29.79 19.37 29.79 22.37 30.73 28.59 24.53 26.61 24.53 29.61 27.34 35.23 21.77 35.12 21.77 38.12 26.18 42.59 21.77 44.06 21.77 47.06 27.34 49.95 24.53 52.56 24.53 55.56 30.73 56.59 29.79 59.8 29.79 62.8 31.29 62.57 36 61.86 37.02 68.06 42.64 65.24 45.53 70.82 50 66.41 54.47 70.82 57.36 65.24 62.98 68.06 64 61.86 68.72 62.57 70.21 62.8 70.21 59.8 69.27 56.59 75.47 55.56 75.47 52.56 72.66 49.95 78.23 47.06 78.23 44.06 73.82 42.59"/&gt;&lt;polygon class="cls-3" points="73.82 39.59 78.23 35.12 72.66 32.23 75.47 26.61 69.27 25.59 70.21 19.37 64 20.32 62.98 14.12 57.36 16.93 54.47 11.35 50 15.77 45.53 11.35 42.64 16.93 37.02 14.12 36 20.32 29.79 19.37 30.73 25.59 24.53 26.61 27.34 32.23 21.77 35.12 26.18 39.59 21.77 44.06 27.34 46.95 24.53 52.56 30.73 53.59 29.79 59.8 31.29 59.57 36 58.86 37.02 65.06 42.64 62.24 45.53 67.82 50 63.41 54.47 67.82 57.36 62.24 62.98 65.06 64 58.86 68.72 59.57 70.21 59.8 69.27 53.59 75.47 52.56 72.66 46.95 78.23 44.06 73.82 39.59"/&gt;&lt;circle class="cls-3" cx="50" cy="39.59" r="21.83"/&gt;&lt;path class="cls-4" d="M50,62.92A23.33,23.33,0,1,1,73.33,39.59,23.36,23.36,0,0,1,50,62.92Zm0-43.66A20.33,20.33,0,1,0,70.33,39.59,20.35,20.35,0,0,0,50,19.26Z"/&gt;&lt;path class="cls-4" d="M64.8,37.77l-3.09,1.85-1.19-.26L59.22,38l-3.38.32L54.43,35.9l-4,.05-.91,0a8.39,8.39,0,0,0-2-2.21,8.76,8.76,0,0,0-11,.05A8.58,8.58,0,0,0,36,46.66a8.75,8.75,0,0,0,11.56.48A7,7,0,0,0,48.76,46a6.66,6.66,0,0,0,.9-1.33,7.76,7.76,0,0,0,.5-1H66.31L68,40.71ZM38.24,42.58h0a2.27,2.27,0,0,1,0-4.54h0a2.27,2.27,0,1,1,0,4.54Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="32">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M55.89,38l3,21.18c1,6.71.14,12.93-8.77,12.93H43.64c-8.43,0-9.73-6.22-8.77-12.93l3-21.18Z"/&gt;&lt;path class="cls-3" d="M37.92,36a8.16,8.16,0,0,1,7.86-7.18H48A8.16,8.16,0,0,1,55.89,36Z"/&gt;&lt;polygon class="cls-3" points="41.92 55.49 35.27 58.71 27.67 40.02 31.98 37.93 41.92 55.49"/&gt;&lt;path class="cls-3" d="M58.81,60.69H57.2v-3h1.62A4.19,4.19,0,0,0,63,53.5V49.13a4.19,4.19,0,0,0-4.19-4.19h-3v-3h3A7.2,7.2,0,0,1,66,49.13V53.5A7.2,7.2,0,0,1,58.81,60.69Z"/&gt;&lt;rect class="cls-3" x="50.52" y="66.48" width="13.98" height="3"/&gt;&lt;path class="cls-3" d="M70,72.19H67.66A4.16,4.16,0,0,1,63.5,68v-.11a4.16,4.16,0,0,1,4.16-4.16H70Z"/&gt;&lt;path class="cls-3" d="M72.72,67.4h-5.5a1.5,1.5,0,0,1,0-3h5.5a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-3" d="M72.72,71.57h-5.5a1.5,1.5,0,0,1,0-3h5.5a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="33">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-3" x="31.5" y="41.17" width="37" height="26.41"/&gt;&lt;rect class="cls-3" x="29.02" y="40" width="41.96" height="2.48"/&gt;&lt;rect class="cls-3" x="29.02" y="66.15" width="41.96" height="2.62"/&gt;&lt;polygon class="cls-3" points="50 27.97 29.02 40 70.98 40 50 27.97"/&gt;&lt;path class="cls-2" d="M50.91,38.89c4.43.27,8.56,2.6,8.6,7.76h-6.2a2.7,2.7,0,0,0-2.4-2.87v4.53c.77.2,1.63.4,2.47.63,3.43,1,6.9,2.57,6.9,6.86,0,5.57-4.5,7.63-9.36,7.83v3H49.34v-3c-5.26-.17-9.73-2.5-9.76-8.37h6.2c.13,2.4,1.47,3.37,3.57,3.6V53.65l-2.1-.57c-3.4-1-7-2.5-7-6.86,0-5.13,4.73-7.2,9.06-7.37v-3h1.57Zm-1.57,4.77c-1.3,0-2.87.53-2.87,2.17,0,1.07,1.17,1.63,2.87,2.1Zm1.57,15.2c1.47-.1,3.17-.7,3.17-2.3,0-1.3-1.27-1.93-3.17-2.47Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="34">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{isolation:isolate;}.cls-4{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;polygon class="cls-1" points="75.22 60.5 32.78 60.5 32.78 58 54 42.33 75.22 58 75.22 60.5"/&gt;&lt;polygon class="cls-1" points="77.84 78.9 43.8 78.9 43.8 76.42 61.1 63.29 77.84 76.42 77.84 78.9"/&gt;&lt;rect class="cls-2" x="43.8" y="60.5" width="34.04" height="15.92"/&gt;&lt;g class="cls-3"&gt;&lt;path class="cls-4" d="M45.59,63.06H47.3v4.29h3.15V63.06h1.71V73.77H50.45v-5H47.3v5H45.59Z"/&gt;&lt;path class="cls-4" d="M56.3,64.5H53.75V63.06h6.76V64.5H58v9.27H56.3Z"/&gt;&lt;path class="cls-4" d="M63.86,64.5H61.31V63.06h6.76V64.5h-2.5v9.27H63.86Z"/&gt;&lt;path class="cls-4" d="M69.67,63.06h3.39c2.05,0,3,1.29,3,3.12a2.9,2.9,0,0,1-3.13,3.17h-1.5v4.42H69.67Zm1.71,5h1.21a1.62,1.62,0,0,0,1.71-1.84c0-1.16-.46-1.86-1.83-1.86H71.38Z"/&gt;&lt;/g&gt;&lt;path class="cls-1" d="M75.22,58V32.22A9.12,9.12,0,0,0,66.1,23.1H31.34a9.12,9.12,0,0,0-9.12,9.12V67a9.12,9.12,0,0,0,9.12,9.12h10V58Z"/&gt;&lt;path class="cls-2" d="M75.22,58V29.74a9.12,9.12,0,0,0-9.12-9.12H31.34a9.12,9.12,0,0,0-9.12,9.12V64.5a9.12,9.12,0,0,0,9.12,9.12h10V58Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="35">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;circle class="cls-3" cx="50" cy="50.32" r="21.55" transform="translate(-11.32 14.66) rotate(-15)"/&gt;&lt;path class="cls-2" d="M45.94,36.68a1.5,1.5,0,0,1-1.45-1.11l-.37-1.4a1.5,1.5,0,1,1,2.9-.78l.38,1.4a1.5,1.5,0,0,1-1.06,1.84A1.52,1.52,0,0,1,45.94,36.68Z"/&gt;&lt;path class="cls-2" d="M54.06,36.68a1.52,1.52,0,0,1-.39-.05,1.5,1.5,0,0,1-1.06-1.84l.38-1.4a1.5,1.5,0,1,1,2.9.78l-.37,1.4A1.5,1.5,0,0,1,54.06,36.68Z"/&gt;&lt;path class="cls-2" d="M61.08,40.74A1.5,1.5,0,0,1,60,38.18l1-1a1.5,1.5,0,1,1,2.12,2.12l-1,1A1.5,1.5,0,0,1,61.08,40.74Z"/&gt;&lt;path class="cls-2" d="M38.92,40.74a1.5,1.5,0,0,1-1.06-.44l-1-1A1.5,1.5,0,0,1,39,37.15l1,1a1.5,1.5,0,0,1-1.06,2.56Z"/&gt;&lt;circle class="cls-2" cx="50" cy="63.15" r="4.71"/&gt;&lt;path class="cls-2" d="M50,64.65a1.5,1.5,0,0,1-1.5-1.5V41.23a1.5,1.5,0,0,1,3,0V63.15A1.5,1.5,0,0,1,50,64.65Z"/&gt;&lt;path class="cls-2" d="M47.26,42.23H45.57a.5.5,0,0,1,0-1h1.69a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M47.26,44.91H44.14a.5.5,0,0,1,0-1h3.13a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M47.26,47.59H45.57a.5.5,0,0,1,0-1h1.69a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M47.26,50.27H44.14a.5.5,0,0,1,0-1h3.13a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M47.26,52.94H45.57a.5.5,0,0,1,0-1h1.69a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M47.26,55.62H44.14a.5.5,0,0,1,0-1h3.13a.5.5,0,0,1,0,1Z"/&gt;&lt;path class="cls-2" d="M47.26,58.3H45.57a.5.5,0,0,1,0-1h1.69a.5.5,0,0,1,0,1Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="36">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="24.74" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="22.26" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-3" x="27" y="25.52" width="46" height="46" rx="2" ry="2"/&gt;&lt;rect class="cls-2" x="30" y="48.52" width="12.5" height="20"/&gt;&lt;rect class="cls-2" x="43.75" y="28.52" width="12.5" height="40"/&gt;&lt;rect class="cls-2" x="57.5" y="38.52" width="12.5" height="30"/&gt;&lt;rect class="cls-3" x="31.75" y="57.28" width="9" height="9" rx="4.5" ry="4.5"/&gt;&lt;rect class="cls-3" x="59.25" y="57.28" width="9" height="9"/&gt;&lt;polygon class="cls-3" points="54.5 66.28 45.5 66.28 50 57.28 54.5 66.28"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="37">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M60.76,23.73,57.43,26l-1.66-3.68a15.81,15.81,0,0,0-14.39-9.27A15.78,15.78,0,0,0,25.6,28.86l.07,2.92-2.48.72c-4,1.16-7.28,6.32-7.28,9.81v1.26c0,4.25,5.15,9.19,11.78,9.19H72.31c6.63,0,11.78-4.94,11.78-9.19V42.31c0-4.28-4.77-9.9-10.34-10.38l-3-.25-.1-3a6.32,6.32,0,0,0-9.9-5Z"/&gt;&lt;path class="cls-2" d="M60.76,20.77l-3.34,2.29-1.66-3.68A15.81,15.81,0,0,0,41.38,10.1,15.78,15.78,0,0,0,25.6,25.9l.07,2.92-2.48.72c-4,1.16-7.28,6.32-7.28,9.81v1.26c0,4.25,5.15,9.19,11.78,9.19H72.31c6.63,0,11.78-4.94,11.78-9.19V39.36c0-4.28-4.77-9.9-10.34-10.38l-3-.25-.1-3a6.32,6.32,0,0,0-9.9-5Z"/&gt;&lt;rect class="cls-1" x="20.07" y="67.73" width="58" height="22.17"/&gt;&lt;rect class="cls-2" x="20.07" y="64.73" width="58" height="22.17"/&gt;&lt;rect class="cls-2" x="47.57" y="49.8" width="3" height="26.01"/&gt;&lt;rect class="cls-3" x="47.57" y="39.73" width="3" height="10.08"/&gt;&lt;polygon class="cls-3" points="49.07 34.06 44.57 40.64 53.57 40.64 49.07 34.06"/&gt;&lt;rect class="cls-3" x="27.07" y="70.73" width="9.67" height="9.67" rx="4.83" ry="4.83"/&gt;&lt;polygon class="cls-3" points="55.24 80.39 42.74 80.39 48.99 70.73 55.24 80.39"/&gt;&lt;rect class="cls-3" x="61.24" y="70.73" width="9.67" height="9.67"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="38">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#205b99;}.cls-3{fill:#99bce3;}.cls-4{fill:#5294cf;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;polygon class="cls-1" points="70.39 35.54 79.61 23.81 83.94 35.54 75.06 36.67 70.39 35.54"/&gt;&lt;polygon class="cls-2" points="55.13 67.31 79.61 72.21 83.5 55.87 79.61 39.52 55.13 41.8 55.13 67.31"/&gt;&lt;polygon class="cls-3" points="50 55.81 50 74.53 79.61 55.24 57.17 54.21 50 55.81"/&gt;&lt;polygon class="cls-2" points="55.69 50 64.35 50 75.91 38.8 64.35 22.89 55.69 25.4 55.69 50"/&gt;&lt;polygon class="cls-2" points="70.39 35.54 79.61 34.28 79.61 23.81 70.39 25.97 70.39 35.54"/&gt;&lt;polygon class="cls-4" points="83.94 54.78 50 58.2 50 91 83.94 74.03 83.94 54.78"/&gt;&lt;polygon class="cls-4" points="50 91 60.14 76.38 60.14 35.65 50 33.6 39.42 60.44 50 91"/&gt;&lt;polygon class="cls-4" points="79.61 66.47 83.94 74.03 83.94 40.43 79.61 39.52 79.61 66.47"/&gt;&lt;polygon class="cls-4" points="83.94 25.97 79.61 23.81 79.61 34.28 83.94 35.54 83.94 25.97"/&gt;&lt;polygon class="cls-4" points="77.11 28.02 64.35 22.89 64.35 50 77.11 50 77.11 28.02"/&gt;&lt;polygon class="cls-1" points="29.61 35.54 20.39 23.81 16.06 35.54 24.94 36.67 29.61 35.54"/&gt;&lt;polygon class="cls-4" points="44.88 67.31 20.39 72.21 20.39 39.52 44.88 41.8 44.88 67.31"/&gt;&lt;polygon class="cls-3" points="50 55.81 50 76.62 20.39 55.24 42.83 54.21 50 55.81"/&gt;&lt;polygon class="cls-4" points="44.31 50 35.65 50 25 37.23 35.65 22.89 44.31 25.4 44.31 50"/&gt;&lt;polygon class="cls-4" points="29.61 35.54 20.39 34.28 20.39 23.81 29.61 25.97 29.61 35.54"/&gt;&lt;polygon class="cls-2" points="16.06 54.78 50 58.2 50 91 16.06 74.03 16.06 54.78"/&gt;&lt;polygon class="cls-2" points="50 91 39.86 77.43 39.86 35.65 50 33.6 50 91"/&gt;&lt;polygon class="cls-2" points="20.39 73.25 16.06 74.03 16.06 40.43 20.39 39.52 20.39 73.25"/&gt;&lt;polygon class="cls-2" points="16.06 25.97 20.39 23.81 20.39 34.28 16.06 35.54 16.06 25.97"/&gt;&lt;polygon class="cls-2" points="22.89 28.02 35.65 22.89 35.65 50 22.89 50 22.89 28.02"/&gt;&lt;polygon class="cls-1" points="60.14 28.48 50 30.87 39.86 28.48 50 9 60.14 28.48"/&gt;&lt;polygon class="cls-4" points="50 9 60.14 14.13 60.14 28.48 50 25.4 50 9"/&gt;&lt;polygon class="cls-2" points="50 9 39.86 14.13 39.86 28.48 50 25.4 50 9"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="39">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;path class="cls-3" d="M49,54.1a6.69,6.69,0,0,0,5.79-3.34h1.06c3.66,0,3.22,3.84,3.22,3.84v2.88h6.69V50.83a6.69,6.69,0,0,0-6.69-6.69l-4.28-.07a6.71,6.71,0,0,0-2.45-2.45V37.4h0l3.38,0a3.35,3.35,0,1,0,0-6.69H42.32a3.35,3.35,0,1,0,0,6.69l3.34,0v4.22a6.71,6.71,0,0,0-2.45,2.45h-11v6.69h11A6.69,6.69,0,0,0,49,54.1Z"/&gt;&lt;path class="cls-3" d="M62.3,59.9c-1.78,3.27-3,5.06-3,7.7a3,3,0,0,0,6,0C65.31,65,63.82,63.15,62.3,59.9Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="40">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M72.59,35.34a10.8,10.8,0,0,0-2.27.24,7.32,7.32,0,0,0-13.54-4.74,15.45,15.45,0,1,0-30.42,5.36A10.35,10.35,0,0,0,27,56.89H72.59a10.77,10.77,0,0,0,0-21.55Z"/&gt;&lt;path class="cls-2" d="M72.59,32.34a10.8,10.8,0,0,0-2.27.24,7.32,7.32,0,0,0-13.54-4.74,15.45,15.45,0,1,0-30.42,5.36A10.35,10.35,0,0,0,27,53.89H72.59a10.77,10.77,0,0,0,0-21.55Z"/&gt;&lt;rect class="cls-2" x="46.88" y="42.02" width="3.74" height="7.69" rx="0.4" ry="0.4"/&gt;&lt;rect class="cls-2" x="41.49" y="42.02" width="3.06" height="3.49" rx="0.4" ry="0.4"/&gt;&lt;rect class="cls-2" x="52.92" y="42.02" width="3.06" height="3.49" rx="0.4" ry="0.4"/&gt;&lt;rect class="cls-3" x="39.37" y="30.14" width="21.26" height="21.26" rx="2.33" ry="2.33"/&gt;&lt;path class="cls-2" d="M63.47,37.3H44.8a1.5,1.5,0,0,1,0-3H63.47a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;path class="cls-2" d="M55.2,47.24H36.53a1.5,1.5,0,0,1,0-3H55.2a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;circle class="cls-2" cx="44.8" cy="35.8" r="3.61"/&gt;&lt;circle class="cls-2" cx="55.2" cy="45.74" r="3.61"/&gt;&lt;rect class="cls-2" x="46.88" y="73.6" width="3.74" height="7.69" rx="0.4" ry="0.4"/&gt;&lt;rect class="cls-2" x="41.49" y="73.6" width="3.06" height="3.49" rx="0.4" ry="0.4"/&gt;&lt;rect class="cls-2" x="52.92" y="73.6" width="3.06" height="3.49" rx="0.4" ry="0.4"/&gt;&lt;rect class="cls-1" x="39.37" y="63.72" width="21.26" height="21.26" rx="2.33" ry="2.33"/&gt;&lt;rect class="cls-2" x="39.37" y="61.72" width="21.26" height="21.26" rx="2.33" ry="2.33"/&gt;&lt;path class="cls-3" d="M60.63,68.88H44.8a1.5,1.5,0,0,1,0-3H60.63Z"/&gt;&lt;path class="cls-3" d="M55.2,78.82H39.37v-3H55.2a1.5,1.5,0,0,1,0,3Z"/&gt;&lt;circle class="cls-3" cx="44.8" cy="67.38" r="3.61"/&gt;&lt;circle class="cls-3" cx="55.2" cy="77.32" r="3.61"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="41">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="12.5" y="54.34" width="75" height="22.17"/&gt;&lt;rect class="cls-2" x="12.5" y="23.49" width="75" height="49.87"/&gt;&lt;rect class="cls-3" x="28" y="43.34" width="9.67" height="9.67" rx="4.83" ry="4.83"/&gt;&lt;polygon class="cls-3" points="56.17 53.01 43.67 53.01 49.92 43.34 56.17 53.01"/&gt;&lt;rect class="cls-3" x="62.17" y="43.34" width="9.67" height="9.67"/&gt;&lt;path class="cls-3" d="M50.78,23.49,51,25.08a.47.47,0,0,0,.53.4l1.78-.25a10.69,10.69,0,0,0,1.61,3.06l-1.2,1.32a.47.47,0,0,0,0,.67l2.26,2a.47.47,0,0,0,.67,0L57.88,31a10.76,10.76,0,0,0,3.21,1.31L61,34.06a.47.47,0,0,0,.46.49l3,.11a.47.47,0,0,0,.49-.46l.06-1.75a9.93,9.93,0,0,0,3.31-1.07l1.08,1.39a.47.47,0,0,0,.67.08L72.54,31a.47.47,0,0,0,.08-.67l-1.08-1.39A10.76,10.76,0,0,0,73.38,26l1.73.37a.47.47,0,0,0,.56-.36l.54-2.5Z"/&gt;&lt;path class="cls-3" d="M46.57,71.7l1.59-.84a.47.47,0,0,0,.2-.64l-1.43-2.69a.47.47,0,0,0-.64-.2l-1.61.85a10.71,10.71,0,0,0-2.55-2.3l.69-1.69a.47.47,0,0,0-.26-.62l-2.82-1.15a.47.47,0,0,0-.62.26l-.69,1.7A10.64,10.64,0,0,0,35,64.27l-.57-1.75a.47.47,0,0,0-.6-.31l-2.9.94a.47.47,0,0,0-.31.6l.57,1.75a10.64,10.64,0,0,0-2.7,2.09l-1.56-1a.47.47,0,0,0-.65.15l-1.62,2.58a.47.47,0,0,0,.15.65l1.54,1a10.56,10.56,0,0,0-.63,2.39H46.94A10.58,10.58,0,0,0,46.57,71.7Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="42">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="25.99" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="23.5" y="23.51" width="53" height="53" rx="9.12" ry="9.12"/&gt;&lt;rect class="cls-2" x="60" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="36" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="54" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="42" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="48" y="14.4" width="4" height="13.65"/&gt;&lt;rect class="cls-2" x="14.4" y="60" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="42" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="54" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="48" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="14.4" y="36" width="18.1" height="4"/&gt;&lt;rect class="cls-2" x="36" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="60" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="42" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="54" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="48" y="69.88" width="4" height="15.72"/&gt;&lt;rect class="cls-2" x="69.67" y="54" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="36" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="48" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="42" width="15.94" height="4"/&gt;&lt;rect class="cls-2" x="69.67" y="60" width="15.94" height="4"/&gt;&lt;rect class="cls-3" x="39.15" y="32.15" width="21.7" height="38.58" rx="2" ry="2"/&gt;&lt;circle class="cls-3" cx="50" cy="43.32" r="7.49"/&gt;&lt;path class="cls-2" d="M50,51.81a8.49,8.49,0,1,1,8.49-8.49A8.5,8.5,0,0,1,50,51.81Zm0-15a6.49,6.49,0,1,0,6.49,6.49A6.5,6.5,0,0,0,50,36.83Z"/&gt;&lt;circle class="cls-2" cx="50" cy="57.43" r="2.89"/&gt;&lt;polygon class="cls-2" points="52.89 66.94 47.11 66.94 49.5 56.76 50.5 56.76 52.89 66.94"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="43">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#19486f;}.cls-2{fill:#2e73b8;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;InternetOfThings&lt;/title&gt;&lt;path class="cls-1" d="M60.76,23.73,57.43,26l-1.66-3.68a15.81,15.81,0,0,0-14.39-9.27A15.78,15.78,0,0,0,25.6,28.86l.07,2.92-2.48.72c-4,1.16-7.28,6.32-7.28,9.81v1.26c0,4.25,5.15,9.19,11.78,9.19H72.31c6.63,0,11.78-4.94,11.78-9.19V42.31c0-4.28-4.77-9.9-10.34-10.38l-3-.25-.1-3a6.32,6.32,0,0,0-9.9-5Z"/&gt;&lt;path class="cls-2" d="M60.76,20.77l-3.34,2.29-1.66-3.68A15.81,15.81,0,0,0,41.38,10.1,15.78,15.78,0,0,0,25.6,25.9l.07,2.92-2.48.72c-4,1.16-7.28,6.32-7.28,9.81v1.26c0,4.25,5.15,9.19,11.78,9.19H72.31c6.63,0,11.78-4.94,11.78-9.19V39.36c0-4.28-4.77-9.9-10.34-10.38l-3-.25-.1-3a6.32,6.32,0,0,0-9.9-5Z"/&gt;&lt;rect class="cls-1" x="20.07" y="67.73" width="58" height="22.17"/&gt;&lt;rect class="cls-2" x="20.07" y="64.73" width="58" height="22.17"/&gt;&lt;rect class="cls-3" x="47.57" y="37.81" width="3" height="11.99"/&gt;&lt;rect class="cls-2" x="47.57" y="49.8" width="3" height="9.26"/&gt;&lt;polygon class="cls-2" points="49.07 64.73 53.57 58.15 44.57 58.15 49.07 64.73"/&gt;&lt;rect class="cls-3" x="27.07" y="70.73" width="9.67" height="9.67" rx="4.83" ry="4.83"/&gt;&lt;polygon class="cls-3" points="55.24 80.39 42.74 80.39 48.99 70.73 55.24 80.39"/&gt;&lt;rect class="cls-3" x="61.24" y="70.73" width="9.67" height="9.67"/&gt;&lt;circle class="cls-3" cx="48.99" cy="37.81" r="3.83"/&gt;&lt;/svg&gt;</ns2:Resource>
+    </ns2:Resources>
+  </ns0:data>
+</ns0:graphml>

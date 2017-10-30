@@ -1,0 +1,95 @@
+<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
+  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
+  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
+  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
+  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
+  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
+  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
+  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
+  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
+  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
+  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
+  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
+  <ns0:graph edgedefault="directed" id="G">
+    <ns0:node id="n0">
+      <ns0:data key="d3">94e35ddb-a234-446f-a5ef-7b7ac685c79c</ns0:data>
+      <ns0:data key="d4">DesktopAppStreaming_AmazonAppStream2.0</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="0" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n1">
+      <ns0:data key="d3">2a902cae-9b21-4d9e-9965-0a34d7d3ce33</ns0:data>
+      <ns0:data key="d4">DesktopAppStreaming_AmazonWorkSpaces</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="1" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+  </ns0:graph>
+  <ns0:data key="d8">
+    <ns2:Resources>
+      <ns2:Resource id="0">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;DesktopAppStreaming&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="68.15 56.42 64.11 56.16 60.3 56.5 64.41 70.38 68.15 56.42" fill="#fad791"/&gt;
+    &lt;polygon points="84.1 35.53 50 39.77 15.9 35.53 50 8.84 84.1 35.53" fill="#624a1e"/&gt;
+    &lt;polygon points="71.5 74.33 50 69.29 28.5 74.33 50 91.16 71.5 74.33" fill="#fad791"/&gt;
+    &lt;polygon points="84.1 35.53 50 25.3 50 8.84 84.1 25.89 84.1 35.53" fill="#d9a741"/&gt;
+    &lt;polygon points="71.5 80.41 50 91.16 50 82.93 71.5 74.33 71.5 80.41" fill="#d9a741"/&gt;
+    &lt;polygon points="50 91.16 28.5 80.41 28.5 74.33 50 82.93 50 91.16" fill="#876929"/&gt;
+    &lt;polygon points="15.9 35.53 50 25.3 50 8.84 15.9 25.89 15.9 35.53" fill="#876929"/&gt;
+    &lt;polygon points="68.15 69.25 64.41 70.38 64.41 56.79 68.15 56.42 68.15 69.25" fill="#d9a741"/&gt;
+    &lt;polygon points="44.56 73.07 50 74.7 55.44 73.07 55.44 42.31 50 41.77 44.56 42.31 44.56 73.07" fill="#876929"/&gt;
+    &lt;polygon points="55.44 73.07 50 74.7 50 41.77 55.44 42.31 55.44 73.07" fill="#d9a741"/&gt;
+    &lt;polygon points="35.59 56.79 31.85 56.42 31.85 43.58 35.59 43.21 39.8 43.5 39.8 56.5 35.59 56.79" fill="#876929"/&gt;
+    &lt;polygon points="60.3 69.51 64.41 70.38 64.41 56.79 60.3 56.5 60.3 69.51" fill="#876929"/&gt;
+    &lt;polygon points="39.8 56.5 35.59 56.79 35.59 43.21 39.8 43.5 39.8 56.5" fill="#d9a741"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;defs&gt;
+    &lt;linearGradient id="linear-gradient" x1="50" y1="7.94" x2="50" y2="92.36" gradientUnits="userSpaceOnUse"&gt;
+      &lt;stop offset="0" stop-color="#f58536"/&gt;
+      &lt;stop offset="1" stop-color="#d16929"/&gt;
+    &lt;/linearGradient&gt;
+  &lt;/defs&gt;
+  &lt;title&gt;DesktopAppStreaming&lt;/title&gt;
+  &lt;polygon points="13 28.7 50 7.5 87 28.7 87 71.2 50 92.5 13 71.2 13 28.7" fill="url(#linear-gradient)"/&gt;
+  &lt;path d="M37.4,30.4v9.9H26.2a1.9,1.9,0,0,0-1.9,1.9h0V68.5h0a1.9,1.9,0,0,0,1.9,1.9h19a1.9,1.9,0,0,0,1.9-1.9h0V65.7H69.5v-2c0-1.3-4.6-2.4-10.8-2.7V58H74.8V30.4ZM35.7,69.5a1.6,1.6,0,1,1,1.6-1.6A1.58,1.58,0,0,1,35.7,69.5Zm7.6-4.1H28.2V44.2H43.3ZM53.4,61a52,52,0,0,0-6.3.6V57.9h6.3ZM71,54.1H47.2V42.2h0a1.9,1.9,0,0,0-1.9-1.9H41.4V34.4H71.1V54.1Z" fill="#fff"/&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+    </ns2:Resources>
+  </ns0:data>
+</ns0:graphml>

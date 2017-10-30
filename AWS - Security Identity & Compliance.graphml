@@ -1,409 +1,748 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.17.1-->
-  <key for="port" id="d0" yfiles.type="portgraphics"/>
-  <key for="port" id="d1" yfiles.type="portgeometry"/>
-  <key for="port" id="d2" yfiles.type="portuserdata"/>
-  <key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3"/>
-  <key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4"/>
-  <key attr.name="url" attr.type="string" for="node" id="d5"/>
-  <key attr.name="description" attr.type="string" for="node" id="d6"/>
-  <key for="node" id="d7" yfiles.type="nodegraphics"/>
-  <key for="graphml" id="d8" yfiles.type="resources"/>
-  <key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9"/>
-  <key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10"/>
-  <key attr.name="url" attr.type="string" for="edge" id="d11"/>
-  <key attr.name="description" attr.type="string" for="edge" id="d12"/>
-  <key for="edge" id="d13" yfiles.type="edgegraphics"/>
-  <graph edgedefault="directed" id="G">
-    <node id="n0">
-      <data key="d3"><![CDATA[c52e1ab5-4ff1-4bf8-abb2-feda564dbfdb]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="80.0" width="66.17999267578125" x="0.0" y="31.160003662109375"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.089996337890625" y="84.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="1"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n1">
-      <data key="d3"><![CDATA[399c3926-4766-40bd-a762-4ad1f0b5f984]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="54.81999969482422" width="68.0" x="96.17999267578125" y="43.750003814697266"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.0" y="58.81999969482422"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="2"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n2">
-      <data key="d3"><![CDATA[cbccfac9-8d20-401a-ac66-d1c4d07baaf1]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="55.91345977783203" width="65.0999984741211" x="194.17999267578125" y="43.20327377319336"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="30.549999237060547" y="59.91345977783203"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="3"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n3">
-      <data key="d3"><![CDATA[a746d97c-d380-4216-9cdc-a93276d931fd]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="82.0" width="67.91999816894531" x="289.27999114990234" y="30.160003662109375"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.959999084472656" y="86.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="4"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n4">
-      <data key="d3"><![CDATA[c44df4ec-404c-4ce9-9663-e5b3e7ffb2c2]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="82.32000732421875" width="68.19999694824219" x="387.19998931884766" y="30.0"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.32000732421875"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="5"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n5">
-      <data key="d3"><![CDATA[50206ccb-b8c1-42ca-a191-86b380a531fc]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="82.0" width="67.91999816894531" x="485.39998626708984" y="30.160003662109375"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.959999084472656" y="86.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="6"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n6">
-      <data key="d3"><![CDATA[a372f390-dbf0-4d07-9aea-1aa513dea5d6]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="63.179996490478516" width="67.8800048828125" x="583.3199844360352" y="39.57000541687012"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.94000244140625" y="67.17999649047852"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="7"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n7">
-      <data key="d3"><![CDATA[8e692b5b-7b81-4dd1-8326-fbe8629a1b02]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="82.32000732421875" width="68.19999694824219" x="681.1999893188477" y="30.0"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="32.099998474121094" y="86.32000732421875"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="8"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n8">
-      <data key="d3"><![CDATA[6524b36a-df44-4f2f-a01b-91c9fb0bd0a9]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="63.36000061035156" width="60.86000061035156" x="779.3999862670898" y="39.480003356933594"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.43000030517578" y="67.36000061035156"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="9"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n9">
-      <data key="d3"><![CDATA[7c5adba8-0c24-4edd-ac42-e865884d85e1]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="82.0" width="67.89999389648438" x="0.0" y="142.32000732421875"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.949996948242188" y="86.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="10"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n10">
-      <data key="d3"><![CDATA[86683b7b-daf9-4147-a925-539f2abe6f99]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="74.99857330322266" width="74.11318969726562" x="97.89999389648438" y="145.82072067260742"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.05659484863281" y="78.99857330322266"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="11"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n11">
-      <data key="d3"><![CDATA[7e230942-bce1-44f6-a8e5-9245cd5bce27]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="82.0" width="42.839996337890625" x="202.01318359375" y="142.32000732421875"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="19.419998168945312" y="86.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="12"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n12">
-      <data key="d3"><![CDATA[801899bd-88ef-4754-a0c3-032ca93e0d5c]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="53.440006256103516" width="40.7599983215332" x="274.8531799316406" y="156.600004196167"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="18.3799991607666" y="57.440006256103516"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="13"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n13">
-      <data key="d3"><![CDATA[de0c7180-e876-49ff-90be-65f39584ce11]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="30.479995727539062" width="54.0" x="345.6131782531738" y="168.08000946044922"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="25.0" y="34.47999572753906"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="14"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n14">
-      <data key="d3"><![CDATA[2b1b064c-a163-4c29-8de9-f16683299d6f]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="55.0" width="55.0" x="429.6131782531738" y="155.82000732421875"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="25.5" y="59.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="15"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n15">
-      <data key="d3"><![CDATA[44be6533-0157-4a6e-83f4-d4c4bc35b69c]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="24.000003814697266" width="43.89999771118164" x="514.6131782531738" y="171.32000541687012"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="19.94999885559082" y="28.000003814697266"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="16"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n16">
-      <data key="d3"><![CDATA[e17191fa-4772-4990-b744-b6b31234e35a]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="53.44000244140625" width="40.7599983215332" x="588.5131759643555" y="156.60000610351562"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="18.3799991607666" y="57.44000244140625"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="17"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n17">
-      <data key="d3"><![CDATA[fef0c190-c117-4ade-a084-e8c8e947a43a]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="49.0" width="38.0" x="659.2731742858887" y="158.82000732421875"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="17.0" y="53.0"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="18"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n18">
-      <data key="d3"><![CDATA[1994e29a-0293-4bdf-83ee-b97a094d008a]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="42.400001525878906" width="53.0" x="727.2731742858887" y="162.1200065612793"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.5" y="46.400001525878906"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="19"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n19">
-      <data key="d3"><![CDATA[8268e3b7-4878-4732-b9af-a7db5865236f]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="55.920005798339844" width="40.7599983215332" x="0.0" y="262.8650016784668"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="18.3799991607666" y="59.920005798339844"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="20"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n20">
-      <data key="d3"><![CDATA[fa7f5305-8b37-472e-88b7-1831c97c7d81]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="73.00999450683594" width="84.40000915527344" x="70.7599983215332" y="254.32000732421875"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="40.20000457763672" y="77.00999450683594"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="21"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n21">
-      <data key="d3"><![CDATA[9d52a483-1ded-4795-8835-2ccdbee798ad]]></data>
-      <data key="d4"/>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="53.44000244140625" width="59.69999694824219" x="185.16000747680664" y="264.1050033569336"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.849998474121094" y="57.44000244140625"/>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="22"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-  </graph>
-  <data key="d8">
-    <y:Resources>
-      <y:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
+  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
+  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
+  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
+  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
+  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
+  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
+  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
+  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
+  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
+  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
+  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
+  <ns0:graph edgedefault="directed" id="G">
+    <ns0:node id="n0">
+      <ns0:data key="d3">907b6277-8026-4ec8-a37e-248def263e4e</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AmazonCloudDirectory</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="0" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n1">
+      <ns0:data key="d3">9a587b67-ea16-4102-9325-68f3cb641060</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_long-termsecuritycredential</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="1" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n2">
+      <ns0:data key="d3">eb2699a0-0c81-4b0d-901d-49dd7392f6f3</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_permissions</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="2" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n3">
+      <ns0:data key="d3">00c423a5-aa25-43ec-af02-ea145f0bbaf2</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSArtifact</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="3" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n4">
+      <ns0:data key="d3">fab2dcd8-ff85-4746-b530-17ffc5c1f7ce</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSIAM_encrypteddata</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="4" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n5">
+      <ns0:data key="d3">9004cfdc-0741-4eee-a4ff-bb4154c1e340</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSCertificateManager</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="5" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n6">
+      <ns0:data key="d3">3afafb51-7c81-467f-8ed8-3f5a6384b827</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_AWSSTS</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="6" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n7">
+      <ns0:data key="d3">0e54abb7-0f3a-4507-8f4b-83eb77f57707</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AmazonInspector_agent</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="7" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n8">
+      <ns0:data key="d3">fc861563-aad8-4aaf-b13a-b563745fd915</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSKMS</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="8" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n9">
+      <ns0:data key="d3">57de54af-dd5a-4303-90f8-3f8c9bb34d80</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSIAM_AWSSTS</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="9" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n10">
+      <ns0:data key="d3">08a1ccac-d288-4a98-bf41-a18fe11ce532</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_temporarysecuritycredential</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="10" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n11">
+      <ns0:data key="d3">50f7bcb5-48d1-4236-afcf-82b3cfc0876a</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="11" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n12">
+      <ns0:data key="d3">f4393353-a94a-4c39-a5c4-d9b7ca705153</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_encrypteddata</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="12" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n13">
+      <ns0:data key="d3">9ac5f185-fc3c-4f36-ab30-e523b9baa85f</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSDirectoryService</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="13" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n14">
+      <ns0:data key="d3">f9ab42a2-b211-4f91-85d0-44d189e9de6a</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSIAM_addon</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="14" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n15">
+      <ns0:data key="d3">5a92b8cd-91ef-4a6b-a98b-18c6c7744202</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSIAM_dataencryptionkey</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="15" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n16">
+      <ns0:data key="d3">27164573-8e62-452c-b2d2-94b40cd38a2b</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSCertificateManager_certificatemanager</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="16" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n17">
+      <ns0:data key="d3">fb3b6e3b-00ba-4e6a-914d-8057f94781fc</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_ACM_certificatemanager</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="17" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n18">
+      <ns0:data key="d3">c8d1d657-b1ff-4152-be83-033455dd79fe</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSIAM</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="18" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n19">
+      <ns0:data key="d3">7736c01f-544b-41cb-9d2f-25a8bd10224d</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_role</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="19" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n20">
+      <ns0:data key="d3">894280b0-4704-42c4-b71b-4994e87b2738</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AmazonMacie</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="20" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n21">
+      <ns0:data key="d3">37927535-086d-4005-b2ce-062646de7f65</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSIAM_AWSSTS-2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="21" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n22">
+      <ns0:data key="d3">4a0ae257-9251-4108-976d-e592eb7bbe36</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_MFAtoken</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="22" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n23">
+      <ns0:data key="d3">aa013661-f02d-4ae3-8e0f-7ef93247f3b3</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSShield</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="23" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n24">
+      <ns0:data key="d3">ae4f4885-7173-487b-8c19-2234631681db</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_addon</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="24" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n25">
+      <ns0:data key="d3">c71b0b7f-78a3-4a14-bd1a-7fdd92c9e3f6</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSCloudHSM</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="25" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n26">
+      <ns0:data key="d3">bc7dd950-1e28-43f7-9f12-1a8af6e4c5df</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AmazonInspector</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="26" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n27">
+      <ns0:data key="d3">7257c76d-bcf0-4e48-b8f1-e544d96577b8</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_dataencryptionkey</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="27" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n28">
+      <ns0:data key="d3">d020fea5-55f1-40d2-a294-4ea4b1ad3f86</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_IAM_AWSSTS-2</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="28" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n29">
+      <ns0:data key="d3">ab648a27-5053-41f6-9622-acc484a66be1</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSWAF_filteringrule</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="29" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n30">
+      <ns0:data key="d3">92fe56da-83bc-4e11-b005-c3e95a08943d</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSOrganizations</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="30" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+    <ns0:node id="n31">
+      <ns0:data key="d3">93f4d72f-8b12-4501-aa46-0d6eb623b471</ns0:data>
+      <ns0:data key="d4">SecurityIdentityCompliance_AWSWAF</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="31" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+  </ns0:graph>
+  <ns0:data key="d8">
+    <ns2:Resources>
+      <ns2:Resource id="0">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#b7ca9d;}.cls-2{fill:#4b612c;}.cls-3{fill:#759c3e;}.cls-4{fill:#3c4929;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="70.46 64.21 60.93 63.31 53.64 64.21 63.42 76.05 70.46 64.21"/&gt;&lt;polygon class="cls-1" points="46.35 64.21 39.06 63.31 29.53 64.21 36.57 76.09 46.35 64.21"/&gt;&lt;polygon class="cls-2" points="46.35 54.53 15.92 54.53 15.92 40.06 26.87 36.78 46.35 54.53"/&gt;&lt;polygon class="cls-2" points="53.37 54.53 73.24 54.53 84.08 47.46 73.24 36.82 53.37 40.15 53.37 54.53"/&gt;&lt;polygon class="cls-3" points="46.35 54.53 26.87 54.53 26.87 36.78 46.35 40.06 46.35 54.53"/&gt;&lt;polygon class="cls-4" points="69.75 42.02 50 44.45 30.24 42.02 49.98 13.39 69.75 42.02"/&gt;&lt;polygon class="cls-2" points="29.53 64.21 36.57 65.31 36.57 76.09 29.53 73.89 29.53 64.21"/&gt;&lt;polygon class="cls-2" points="29.53 49.77 36.57 49.23 46.35 54.53 36.57 60.01 29.53 59.45 29.53 49.77"/&gt;&lt;polygon class="cls-3" points="36.57 65.31 46.35 64.21 46.35 73.89 36.57 76.09 36.57 65.31"/&gt;&lt;polygon class="cls-3" points="36.57 49.23 46.35 49.77 46.35 59.45 36.57 60.01 36.57 49.23"/&gt;&lt;polygon class="cls-3" points="63.42 76.05 70.46 73.86 70.46 64.21 63.42 65.31 63.42 76.05"/&gt;&lt;polygon class="cls-2" points="63.42 65.31 53.64 64.21 53.64 73.86 63.42 76.05 63.42 65.31"/&gt;&lt;polygon class="cls-2" points="53.64 59.42 63.42 59.97 70.46 53.61 63.42 49.22 53.64 49.76 53.64 59.42"/&gt;&lt;polygon class="cls-4" points="59.85 48.95 50 49.54 40.14 48.95 49.99 41.7 59.85 48.95"/&gt;&lt;polygon class="cls-3" points="49.99 48.19 59.85 48.95 59.85 43.24 49.99 41.7 49.99 48.19"/&gt;&lt;polygon class="cls-2" points="49.99 54.54 40.14 54.54 40.14 65.85 49.99 67.39 59.85 60.96 49.99 54.54"/&gt;&lt;polygon class="cls-1" points="59.85 71.46 50 69.65 40.14 71.46 49.99 86.61 59.85 71.46"/&gt;&lt;polygon class="cls-3" points="49.99 86.61 59.85 82.77 59.85 71.46 49.99 73.77 49.99 86.61"/&gt;&lt;polygon class="cls-3" points="49.99 67.39 59.85 65.85 59.85 54.54 49.99 54.54 49.99 67.39"/&gt;&lt;polygon class="cls-2" points="49.99 41.7 40.14 43.24 40.14 48.95 49.99 48.19 49.99 41.7"/&gt;&lt;polygon class="cls-2" points="49.98 38.07 30.24 42.02 30.24 23.26 49.98 13.39 49.98 38.07"/&gt;&lt;polygon class="cls-3" points="84.08 54.53 73.24 54.53 73.24 36.82 84.08 40.07 84.08 54.53"/&gt;&lt;polygon class="cls-3" points="69.75 42.02 50 38.07 50 13.39 69.75 23.27 69.75 42.02"/&gt;&lt;polygon class="cls-3" points="63.42 59.97 70.46 59.42 70.46 49.76 63.42 49.22 63.42 59.97"/&gt;&lt;polygon class="cls-2" points="49.99 73.77 40.14 71.46 40.14 82.77 49.99 86.61 49.99 73.77"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#7d7c7c;}.cls-2{fill:#fff;}.cls-3{fill:#759c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;rect class="cls-1" x="23.5" y="31.28" width="53" height="39.92" rx="6.21" ry="6.21"/&gt;&lt;rect class="cls-2" x="23.5" y="28.8" width="53" height="39.92" rx="6.21" ry="6.21"/&gt;&lt;circle class="cls-3" cx="63.25" cy="41.52" r="9.53"/&gt;&lt;circle class="cls-2" cx="67.42" cy="41.52" r="2.49"/&gt;&lt;polygon class="cls-3" points="60.02 45.57 49 45.57 48 43.84 44.27 44.19 42.84 42.72 41.53 42.43 38.13 44.47 33.91 41.22 36.23 37.48 60.02 37.48 60.02 45.57"/&gt;&lt;circle class="cls-1" cx="36.75" cy="56.19" r="9.53"/&gt;&lt;circle class="cls-2" cx="32.58" cy="56.19" r="2.49"/&gt;&lt;polygon class="cls-1" points="39.98 52.14 51 52.14 52 53.88 55.73 53.53 57.16 54.99 58.47 55.28 61.87 53.24 66.09 56.49 63.77 60.24 39.98 60.24 39.98 52.14"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="2">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#7d7c7c;}.cls-2{fill:#d2d3d3;}.cls-3{fill:#759c3e;}.cls-4{isolation:isolate;}.cls-5{fill:#e05243;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M67.38,24.57a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V27.53a3,3,0,0,1,3-3H67.38Z"/&gt;&lt;path class="cls-2" d="M67.38,22.09a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V25.05a3,3,0,0,1,3-3H67.38Z"/&gt;&lt;polygon class="cls-3" points="38.39 33.67 35.6 30.64 32.51 33.72 32.51 33.72 38.33 39.54 48.16 29.71 45.92 27.43 38.39 33.67"/&gt;&lt;polygon class="cls-3" points="38.39 47.62 35.6 44.58 32.51 47.67 32.51 47.67 38.33 53.49 48.16 43.66 45.92 41.37 38.39 47.62"/&gt;&lt;g class="cls-4"&gt;&lt;path class="cls-5" d="M38.72,61.57l-6-5.4h2.92l4.56,4.34,4.77-4.34h2.72l-6,5.4L48,67.28h-3l-4.92-4.59-5.07,4.59H32.34Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="3">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#648339;}.cls-2{fill:#759c3e;}.cls-3{fill:#b7ca9d;}.cls-4{fill:#4b612c;}.cls-5{fill:#3c4929;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="49.95 90 63.28 69.93 45.76 68.2 49.95 90"/&gt;&lt;polygon class="cls-2" points="50 10 36.84 29.9 50 25.95 50 10"/&gt;&lt;polygon class="cls-3" points="50 10 63.28 29.96 50 25.98 50 10"/&gt;&lt;polygon class="cls-4" points="36.84 70 49.95 73.93 49.95 25.96 36.84 29.9 36.84 70"/&gt;&lt;polygon class="cls-2" points="49.95 25.96 63.28 29.96 63.28 69.93 49.95 73.93 49.95 25.96"/&gt;&lt;polygon class="cls-5" points="49.95 90 36.84 70 49.95 73.93 49.95 90"/&gt;&lt;polygon class="cls-2" points="26.1 26.55 16.91 40.6 22.99 39.39 26.1 26.55"/&gt;&lt;polygon class="cls-5" points="22.99 39.39 16.91 40.6 25.73 54.71 22.99 39.39"/&gt;&lt;polygon class="cls-3" points="22.99 39.39 35.3 40.6 26.1 26.55 22.99 39.39"/&gt;&lt;polygon class="cls-1" points="25.73 54.71 35.3 40.65 22.99 39.44 25.73 54.71"/&gt;&lt;polygon class="cls-1" points="73.9 78.11 83.09 64.05 77.01 65.27 73.9 78.11"/&gt;&lt;polygon class="cls-3" points="77.01 65.27 83.09 64.05 74.27 49.95 77.01 65.27"/&gt;&lt;polygon class="cls-5" points="77.01 65.27 64.7 64.05 73.9 78.11 77.01 65.27"/&gt;&lt;polygon class="cls-2" points="74.27 49.95 64.7 64.01 77.01 65.22 74.27 49.95"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="4">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
   &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="49.95 90 63.28 69.93 45.76 68.2 49.95 90" fill="#648339"/&gt;
-    &lt;polygon points="50 10 36.84 29.9 50 25.95 50 10" fill="#759c3e"/&gt;
-    &lt;polygon points="50 10 63.28 29.96 50 25.98 50 10" fill="#b7ca9d"/&gt;
-    &lt;polygon points="36.84 70 49.95 73.93 49.95 25.96 36.84 29.9 36.84 70" fill="#4b612c"/&gt;
-    &lt;polygon points="49.95 25.96 63.28 29.96 63.28 69.93 49.95 73.93 49.95 25.96" fill="#759c3e"/&gt;
-    &lt;polygon points="49.95 90 36.84 70 49.95 73.93 49.95 90" fill="#3c4929"/&gt;
-    &lt;polygon points="26.1 26.55 16.91 40.6 22.99 39.39 26.1 26.55" fill="#759c3e"/&gt;
-    &lt;polygon points="22.99 39.39 16.91 40.6 25.73 54.71 22.99 39.39" fill="#3c4929"/&gt;
-    &lt;polygon points="22.99 39.39 35.3 40.6 26.1 26.55 22.99 39.39" fill="#b7ca9d"/&gt;
-    &lt;polygon points="25.73 54.71 35.3 40.65 22.99 39.44 25.73 54.71" fill="#648339"/&gt;
-    &lt;polygon points="73.9 78.11 83.09 64.05 77.01 65.27 73.9 78.11" fill="#648339"/&gt;
-    &lt;polygon points="77.01 65.27 83.09 64.05 74.27 49.95 77.01 65.27" fill="#b7ca9d"/&gt;
-    &lt;polygon points="77.01 65.27 64.7 64.05 73.9 78.11 77.01 65.27" fill="#3c4929"/&gt;
-    &lt;polygon points="74.27 49.95 64.7 64.01 77.01 65.22 74.27 49.95" fill="#759c3e"/&gt;
+  &lt;g id="_Group_" data-name="&amp;lt;Group&amp;gt;"&gt;
+    &lt;polygon points="69 74.5 31 74.5 31 25.5 57.51 25.5 69 37.87 69 74.5" fill="#d2d3d3"/&gt;
+    &lt;path d="M58.16,53.53V47.38a8.16,8.16,0,0,0-16.2,0v6.14H37.77V67.14H62.23V53.53Zm-4,0H45.86l0-6.14a3.81,3.81,0,0,1,4.17-3.75,4,4,0,0,1,4.17,3.75Z" fill="#373737"/&gt;
   &lt;/g&gt;
 &lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="2">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+</ns2:Resource>
+      <ns2:Resource id="5">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#759c3e;}.cls-2{fill:#4b612c;}.cls-3{fill:#648339;}.cls-4{fill:#3c4929;}.cls-5{fill:#b7ca9d;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="84 54.8 49.99 58.2 49.99 41.77 84 45.17 84 54.8"/&gt;&lt;polygon class="cls-2" points="16 54.8 49.99 58.2 49.99 41.77 16 45.17 16 54.8"/&gt;&lt;rect class="cls-3" x="22.81" y="22.59" width="54.48" height="10.99"/&gt;&lt;polygon class="cls-4" points="70.49 36.44 29.62 36.44 22.82 33.58 77.3 33.58 70.49 36.44"/&gt;&lt;rect class="cls-3" x="22.81" y="66.42" width="54.48" height="10.99"/&gt;&lt;polygon class="cls-5" points="70.49 63.56 29.62 63.56 22.82 66.42 77.3 66.42 70.49 63.56"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="6">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;circle class="cls-1" cx="34.1" cy="51.24" r="2.81"/&gt;&lt;rect class="cls-1" x="31.29" y="48.76" width="5.62" height="2.48"/&gt;&lt;path class="cls-1" d="M23,37.48v28H77v-28ZM69.33,55.81H48.55a10.76,10.76,0,1,1,0-9.15h6.36l1.13,2,4.21-.39,1.62,1.66,1.48.32,3.84-2.3L72,51.58Z"/&gt;&lt;circle class="cls-2" cx="34.1" cy="48.76" r="2.81"/&gt;&lt;path class="cls-2" d="M23,35V63H77V35ZM69.33,53.33H48.55a10.76,10.76,0,1,1,0-9.15h6.36l1.13,2,4.21-.39,1.62,1.66,1.48.32,3.84-2.3L72,49.1Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="7">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M79.2,77.37l-3.06,3.06a5,5,0,0,1-7.07,0L41.23,52.6a5,5,0,0,1,0-7.07l3.06-3.06a5,5,0,0,1,7.07,0L79.2,70.3l1.46,1.06v2.48A5,5,0,0,1,79.2,77.37Z"/&gt;&lt;path class="cls-1" d="M45.22,20.59l-16.65,6.6L19.35,44.35v2.11a25.88,25.88,0,0,0,51.76,0v-2.7l-11.65-18Z"/&gt;&lt;rect class="cls-2" x="53.04" y="34.29" width="14.33" height="49.36" rx="5" ry="5" transform="translate(-24.06 59.85) rotate(-45)"/&gt;&lt;circle class="cls-2" cx="45.22" cy="43.98" r="25.88" transform="translate(-17.86 44.86) rotate(-45)"/&gt;&lt;path class="cls-3" d="M45.22,64.2a20.21,20.21,0,1,1,14.3-5.91A20.16,20.16,0,0,1,45.22,64.2Zm0-36.43A16.21,16.21,0,1,0,56.7,32.51,16.17,16.17,0,0,0,45.22,27.77Z"/&gt;&lt;line class="cls-3" x1="45.55" y1="49.59" x2="44.49" y2="54.99"/&gt;&lt;path class="cls-3" d="M44.49,56l-.19,0a1,1,0,0,1-.79-1.17l1.06-5.4a1,1,0,0,1,2,.39l-1.06,5.4A1,1,0,0,1,44.49,56Z"/&gt;&lt;line class="cls-3" x1="51" y1="44.26" x2="56.41" y2="43.26"/&gt;&lt;path class="cls-3" d="M51,45.26a1,1,0,0,1-.18-2l5.41-1a1,1,0,0,1,.36,2l-5.41,1Z"/&gt;&lt;line class="cls-3" x1="42.03" y1="46.93" x2="36.62" y2="47.92"/&gt;&lt;path class="cls-3" d="M36.62,48.92a1,1,0,0,1-.18-2l5.41-1a1,1,0,0,1,.36,2l-5.41,1Z"/&gt;&lt;line class="cls-3" x1="48.45" y1="40.59" x2="49.51" y2="35.19"/&gt;&lt;path class="cls-3" d="M48.45,41.59l-.19,0a1,1,0,0,1-.79-1.17L48.53,35a1,1,0,1,1,2,.39l-1.06,5.4A1,1,0,0,1,48.45,41.59Z"/&gt;&lt;line class="cls-3" x1="40.16" y1="41.74" x2="37.31" y2="38.85"/&gt;&lt;path class="cls-3" d="M40.16,42.74a1,1,0,0,1-.71-.3l-2.85-2.89A1,1,0,1,1,38,38.15L40.87,41a1,1,0,0,1-.71,1.7Z"/&gt;&lt;line class="cls-3" x1="43.28" y1="38.65" x2="40.43" y2="35.76"/&gt;&lt;path class="cls-3" d="M43.28,39.65a1,1,0,0,1-.71-.3l-2.85-2.89a1,1,0,1,1,1.42-1.4L44,37.95a1,1,0,0,1-.71,1.7Z"/&gt;&lt;path class="cls-3" d="M41.19,47.6l.54.55c2.73,2.76,6.71,3.25,8.91,1.08s1.76-6.16-1-8.92c-.54-.55-.63-.48-.63-.48Z"/&gt;&lt;path class="cls-3" d="M47.15,51.58A8.78,8.78,0,0,1,41,48.86l-.54-.55a1,1,0,0,1,0-1.41l7.85-7.76c.86-.72,1.69.13,2,.49,3.11,3.15,3.54,7.79,1,10.33A5.87,5.87,0,0,1,47.15,51.58Zm-4.54-4c2.32,2.23,5.57,2.65,7.33.91s1.38-5-.83-7.35Z"/&gt;&lt;path class="cls-3" d="M41.08,39.55c-1.42,1.4-1.33,3.89,0,6.11l6.08-6C45,38.27,42.5,38.15,41.08,39.55Z"/&gt;&lt;path class="cls-3" d="M41.11,46.66H41a1,1,0,0,1-.73-.47c-1.65-2.7-1.6-5.65.12-7.34s4.67-1.71,7.35,0a1,1,0,0,1,.17,1.56l-6.08,6A1,1,0,0,1,41.11,46.66Zm2.6-7.1a2.69,2.69,0,0,0-1.93.7A3.49,3.49,0,0,0,41.4,44l4.11-4.05A5,5,0,0,0,43.71,39.56Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="8">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#759c3e;}.cls-2{fill:#4b612c;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="30.3 34.58 22.75 33.44 22.75 22.47 32.95 25.3 30.3 34.58"/&gt;&lt;polygon class="cls-2" points="30.82 35.99 15.9 37.33 15.9 25.89 22.75 22.47 30.82 35.99"/&gt;&lt;polygon class="cls-2" points="69.71 34.58 77.26 33.44 77.26 22.47 67.05 25.3 69.71 34.58"/&gt;&lt;polygon class="cls-1" points="69.18 35.99 84.1 37.33 84.1 25.89 77.26 22.47 69.18 35.99"/&gt;&lt;polygon class="cls-2" points="35.59 16.04 27.78 31.97 27.78 31.97 15.9 35.53 15.9 45.7 29.66 75.24 50 91.16 64.13 73.5 64.13 24.11 50 8.84 35.59 16.04"/&gt;&lt;polygon class="cls-1" points="84.1 45.7 84.1 35.53 72.22 31.97 72.22 31.97 64.41 16.04 50 8.84 50 25.3 50 74.7 50 91.16 70.34 75.24 84.1 45.7"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="9">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
   &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
   &lt;g&gt;
-    &lt;polygon points="84 54.8 49.99 58.2 49.99 41.77 84 45.17 84 54.8" fill="#759c3e"/&gt;
-    &lt;polygon points="16 54.8 49.99 58.2 49.99 41.77 16 45.17 16 54.8" fill="#4b612c"/&gt;
-    &lt;rect x="22.81" y="22.59" width="54.48" height="10.99" fill="#648339"/&gt;
-    &lt;polygon points="70.49 36.44 29.62 36.44 22.82 33.58 77.3 33.58 70.49 36.44" fill="#3c4929"/&gt;
-    &lt;rect x="22.81" y="66.42" width="54.48" height="10.99" fill="#648339"/&gt;
-    &lt;polygon points="70.49 63.56 29.62 63.56 22.82 66.42 77.3 66.42 70.49 63.56" fill="#b7ca9d"/&gt;
+    &lt;circle cx="34.1" cy="51.24" r="2.81" fill="#4b612c"/&gt;
+    &lt;rect x="31.29" y="48.76" width="5.62" height="2.48" fill="#4b612c"/&gt;
+    &lt;path d="M23,37.48v28H77v-28ZM69.33,55.81H48.55a10.76,10.76,0,1,1,0-9.15h6.36l1.13,2,4.21-.39,1.62,1.66,1.48.32,3.84-2.3L72,51.58Z" fill="#4b612c"/&gt;
+    &lt;circle cx="34.1" cy="48.76" r="2.81" fill="#759c3e"/&gt;
+    &lt;path d="M23,35V63H77V35ZM69.33,53.33H48.55a10.76,10.76,0,1,1,0-9.15h6.36l1.13,2,4.21-.39,1.62,1.66,1.48.32,3.84-2.3L72,49.1Z" fill="#759c3e"/&gt;
   &lt;/g&gt;
 &lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="3">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+</ns2:Resource>
+      <ns2:Resource id="10">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#7d7c7c;}.cls-2{fill:#fff;}.cls-3{fill:#759c3e;}.cls-4{fill:#4f4f4f;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;rect class="cls-1" x="20.15" y="25.76" width="53" height="39.92" rx="6.21" ry="6.21"/&gt;&lt;rect class="cls-2" x="20.15" y="23.28" width="53" height="39.92" rx="6.21" ry="6.21"/&gt;&lt;circle class="cls-3" cx="59.9" cy="36" r="9.53"/&gt;&lt;circle class="cls-2" cx="64.07" cy="36" r="2.49"/&gt;&lt;polygon class="cls-3" points="56.67 40.05 45.65 40.05 44.65 38.31 40.92 38.66 39.49 37.19 38.18 36.91 34.78 38.94 30.56 35.7 32.88 31.95 56.67 31.95 56.67 40.05"/&gt;&lt;circle class="cls-1" cx="33.4" cy="50.66" r="9.53"/&gt;&lt;circle class="cls-2" cx="29.23" cy="50.66" r="2.49"/&gt;&lt;polygon class="cls-1" points="36.63 46.61 47.65 46.61 48.65 48.35 52.38 48 53.81 49.47 55.12 49.75 58.52 47.72 62.74 50.96 60.42 54.71 36.63 54.71 36.63 46.61"/&gt;&lt;circle class="cls-2" cx="65.35" cy="62.22" r="13"/&gt;&lt;path class="cls-4" d="M65.35,76.72a14.5,14.5,0,1,1,14.5-14.5A14.52,14.52,0,0,1,65.35,76.72Zm0-26a11.5,11.5,0,1,0,11.5,11.5A11.51,11.51,0,0,0,65.35,50.72Z"/&gt;&lt;rect class="cls-4" x="59.34" y="61.72" width="7.01" height="3"/&gt;&lt;rect class="cls-4" x="64.85" y="53.16" width="3" height="11.56"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="11">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3c4929;}.cls-2{fill:#b7ca9d;}.cls-3{fill:#759c3e;}.cls-4{fill:#4b612c;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="36.06 37.67 31.07 33.08 28.58 37.88 32.4 38.33 36.06 37.67"/&gt;&lt;polygon class="cls-1" points="31.92 43.61 50 44.76 68.08 43.61 50 33.6 31.92 43.61"/&gt;&lt;polygon class="cls-1" points="62.22 37.67 66.62 38.45 71.42 37.88 67.13 28.84 62.22 37.67"/&gt;&lt;polygon class="cls-2" points="44.07 70.39 54.41 67.97 64.39 70.3 54.05 80.13 44.07 70.39"/&gt;&lt;polygon class="cls-3" points="45.22 36.76 39.84 35.83 34.3 28.93 39.84 17.79 45.22 19.46 45.22 36.76"/&gt;&lt;polygon class="cls-4" points="31.92 24.43 31.92 18.04 50 9 54.78 19.11 45.22 22.94 39.84 21.26 39.84 35.63 50 33.6 55.41 57.4 50 91 44.58 88.29 44.58 80.63 39.84 78.74 39.84 42.81 31.92 43.61 31.92 37.22 28.58 37.88 28.58 25.77 31.92 24.43"/&gt;&lt;polygon class="cls-3" points="59.36 13.68 63.17 15.58 68.08 18.04 68.08 24.43 71.42 25.77 71.42 37.88 68.08 37.22 68.08 43.61 63.82 43.18 60.16 42.81 60.16 49.92 60.16 49.96 60.16 50 68.08 50 68.08 56.57 64.4 56.9 64.4 63.53 55.41 65.32 55.41 72.98 64.38 70.31 64.4 77.07 55.41 80.63 55.41 88.29 50 91 50 66.4 50 58.2 50 49.95 50 49.91 50 41.8 50 33.6 54.78 34.55 54.78 22.94 50 21.26 50 17.2 50 9 59.36 13.68"/&gt;&lt;polygon class="cls-1" points="55.41 19.36 50 17.2 39.84 21.26 45.22 22.94 55.41 19.36"/&gt;&lt;polygon class="cls-4" points="54.78 21.26 60.16 21.26 60.16 35.63 54.78 34.55 54.78 21.26"/&gt;&lt;polygon class="cls-1" points="39.84 21.26 50 17.2 52.14 18.06 55.41 19.36 60.16 21.26 54.78 22.94 50 21.26 45.22 22.94 39.84 21.26"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="12">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#d2d3d3;}.cls-2{fill:#373737;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;g id="_Group_" data-name="&amp;lt;Group&amp;gt;"&gt;&lt;polygon class="cls-1" points="69 74.5 31 74.5 31 25.5 57.51 25.5 69 37.87 69 74.5"/&gt;&lt;path class="cls-2" d="M58.16,53.53V47.38a8.16,8.16,0,0,0-16.2,0v6.14H37.77V67.14H62.23V53.53Zm-4,0H45.86l0-6.14a3.81,3.81,0,0,1,4.17-3.75,4,4,0,0,1,4.17,3.75Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="13">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}.cls-3{fill:#b7ca9d;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="16.06 25.97 20.39 23.81 28.7 40.6 20.39 55.22 16.06 54.78 16.06 25.97"/&gt;&lt;polygon class="cls-2" points="28.7 25.74 20.39 23.81 20.39 55.22 28.7 54.9 28.7 25.74"/&gt;&lt;polygon class="cls-1" points="25.63 21.19 31.89 18.05 41.27 38.23 31.89 56.38 25.63 55.75 25.63 21.19"/&gt;&lt;polygon class="cls-3" points="83.94 64.46 50 60.14 16.06 64.46 50 91 83.94 64.46"/&gt;&lt;polygon class="cls-1" points="58.31 46.67 70.91 45.68 68.11 56.38 58.31 55.81 58.31 46.67"/&gt;&lt;polygon class="cls-1" points="72.89 47.03 82.69 47.03 79.61 55.24 72.89 54.9 72.89 47.03"/&gt;&lt;polygon class="cls-2" points="44.08 21.98 31.89 18.05 31.89 56.38 44.08 55.58 44.08 21.98"/&gt;&lt;polygon class="cls-2" points="83.94 64.46 50 74.6 50 91 83.94 74.03 83.94 64.46"/&gt;&lt;polygon class="cls-1" points="39.86 14.07 50 9 72.49 27.51 50 58.2 39.86 57.17 39.86 14.07"/&gt;&lt;polygon class="cls-1" points="16.06 64.46 50 74.6 50 91 16.06 74.03 16.06 64.46"/&gt;&lt;polygon class="cls-2" points="60.14 14.13 50 9 50 58.2 60.14 57.17 60.14 14.13"/&gt;&lt;polygon class="cls-2" points="79.61 31.55 83.94 33.03 83.94 54.78 79.61 55.24 79.61 31.55"/&gt;&lt;polygon class="cls-2" points="74.37 44.19 68.11 43.62 68.11 56.38 74.37 55.81 74.37 44.19"/&gt;&lt;polygon class="cls-2" points="50 9 83.94 25.97 83.94 50 50 50 50 9"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="14">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
+  &lt;g&gt;
+    &lt;circle cx="38.81" cy="51.24" r="10.76" fill="#4b612c"/&gt;
+    &lt;polygon points="42.45 46.67 54.91 46.67 56.03 48.63 60.24 48.23 61.86 49.89 63.34 50.22 71.95 49.1 71.95 51.58 69.33 55.81 42.45 55.81 42.45 46.67" fill="#4b612c"/&gt;
+    &lt;rect x="28.05" y="48.76" width="10.36" height="2.81" fill="#4b612c"/&gt;
+    &lt;circle cx="38.81" cy="48.76" r="10.76" fill="#759c3e"/&gt;
+    &lt;circle cx="34.1" cy="48.76" r="2.81" fill="#fff"/&gt;
+    &lt;polygon points="42.45 44.19 54.91 44.19 56.03 46.15 60.24 45.76 61.86 47.41 63.34 47.74 67.18 45.44 71.95 49.1 69.33 53.33 42.45 53.33 42.45 44.19" fill="#759c3e"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="15">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
+  &lt;g&gt;
+    &lt;path d="M67.38,23.33a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V26.29a3,3,0,0,1,3-3H67.38Z" fill="#d2d3d3"/&gt;
+    &lt;path d="M63.25,59.75V53.61a8.16,8.16,0,0,0-16.2,0v6.14H42.85V73.36H67.32V59.75Zm-4,0H51l0-6.14a3.81,3.81,0,0,1,4.17-3.75,4,4,0,0,1,4.17,3.75Z" fill="#373737"/&gt;
+    &lt;path d="M40.71,25.59a8.34,8.34,0,1,0,8.34,8.34A8.34,8.34,0,0,0,40.71,25.59Zm0,6.87a2.18,2.18,0,1,1,2.18-2.18A2.18,2.18,0,0,1,40.71,32.46Z" fill="#7d7c7c"/&gt;
+    &lt;polygon points="44.25 36.75 44.25 46.41 42.73 47.28 43.04 50.54 41.75 51.8 41.5 52.94 43.28 55.92 40.45 59.62 37.16 57.58 37.16 36.75 44.25 36.75" fill="#7d7c7c"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+      <ns2:Resource id="16">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
   &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
   &lt;g&gt;
     &lt;path d="M79.5,79.9h-59a3,3,0,0,1-3-3V31a3,3,0,0,1,3-3H79.6a3,3,0,0,1,3,3V77A3.08,3.08,0,0,1,79.5,79.9Z" fill="#4b612c"/&gt;
@@ -416,164 +755,9 @@
     &lt;polygon points="48.4 49.8 45.9 47.1 43.1 49.9 43.1 49.9 48.3 55.1 57.1 46.3 55.1 44.2 48.4 49.8" fill="#fff"/&gt;
   &lt;/g&gt;
 &lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="4">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="22.92 72.36 16.04 74.03 16.04 25.97 22.92 22.54 33.3 37.86 22.92 72.36" fill="#4b612c"/&gt;
-    &lt;polygon points="31.79 37.64 22.92 36.55 22.92 22.54 31.79 24.77 31.79 37.64" fill="#759c3e"/&gt;
-    &lt;polygon points="68.09 35.57 82.4 37.64 77.06 22.54 68.09 24.8 68.09 35.57" fill="#4b612c"/&gt;
-    &lt;polygon points="35.65 72.78 49.99 91 59.2 32.74 49.99 9 35.65 16.17 35.65 72.78" fill="#4b612c"/&gt;
-    &lt;polygon points="16.04 74.03 49.99 91 61.04 58.36 49.99 25.73 16.04 35.78 16.04 74.03" fill="#4b612c"/&gt;
-    &lt;polygon points="56.23 37.86 82.4 47.17 77.06 77.46 64.6 74.33 56.23 37.86" fill="#4b612c"/&gt;
-    &lt;polygon points="64.6 83.7 49.99 91 49.99 9 64.6 16.3 64.6 83.7" fill="#759c3e"/&gt;
-    &lt;polygon points="77.06 77.46 83.96 74.02 83.96 25.98 77.06 22.54 77.06 77.46" fill="#759c3e"/&gt;
-    &lt;polygon points="83.96 50 49.99 50 49.99 25.73 83.96 35.78 83.96 50" fill="#759c3e"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="5">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="30.3 34.58 22.75 33.44 22.75 22.47 32.95 25.3 30.3 34.58" fill="#759c3e"/&gt;
-    &lt;polygon points="30.82 35.99 15.9 37.33 15.9 25.89 22.75 22.47 30.82 35.99" fill="#4b612c"/&gt;
-    &lt;polygon points="69.71 34.58 77.26 33.44 77.26 22.47 67.05 25.3 69.71 34.58" fill="#4b612c"/&gt;
-    &lt;polygon points="69.18 35.99 84.1 37.33 84.1 25.89 77.26 22.47 69.18 35.99" fill="#759c3e"/&gt;
-    &lt;polygon points="35.59 16.04 27.78 31.97 27.78 31.97 15.9 35.53 15.9 45.7 29.66 75.24 50 91.16 64.13 73.5 64.13 24.11 50 8.84 35.59 16.04" fill="#4b612c"/&gt;
-    &lt;polygon points="84.1 45.7 84.1 35.53 72.22 31.97 72.22 31.97 64.41 16.04 50 8.84 50 25.3 50 74.7 50 91.16 70.34 75.24 84.1 45.7" fill="#759c3e"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="6">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;ManagementTools&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="64.36 54.59 75.34 57.52 75.34 78.33 64.36 75.43 54.34 63.24 64.36 54.59" fill="#4b612c"/&gt;
-    &lt;polygon points="16.04 74.02 24.66 78.33 36.71 56.38 16.04 56.38 16.04 74.02" fill="#4b612c"/&gt;
-    &lt;polygon points="50 91 35.64 83.82 35.64 58.96 58.54 56.38 50 91" fill="#4b612c"/&gt;
-    &lt;polygon points="16.04 56.38 50 60.88 83.96 56.38 50 54.51 16.04 56.38" fill="#b7ca9d"/&gt;
-    &lt;polygon points="64.36 36.49 50 52.75 35.63 36.49 50 14.55 64.36 36.49" fill="#3c4929"/&gt;
-    &lt;polygon points="50 57.63 64.36 58.96 72.49 47.73 64.36 36.49 50 38.5 40.7 47.73 50 57.63" fill="#4b612c"/&gt;
-    &lt;polygon points="24.66 57.52 30.15 68.79 35.64 58.98 45.56 47.73 35.64 36.49 24.66 38.68 24.66 57.52" fill="#4b612c"/&gt;
-    &lt;polygon points="35.63 16.18 50 9 62.1 24.52 50 33.62 35.63 36.49 35.63 16.18" fill="#4b612c"/&gt;
-    &lt;g&gt;
-      &lt;polygon points="35.64 58.98 24.66 57.52 24.66 78.33 35.64 75.43 35.64 58.98" fill="#759c3e"/&gt;
-      &lt;polygon points="50 57.63 35.64 58.96 35.64 36.49 50 38.5 50 57.63" fill="#759c3e"/&gt;
-      &lt;g&gt;
-        &lt;polygon points="83.96 74.02 75.34 78.33 75.34 57.52 83.96 56.38 83.96 74.02" fill="#759c3e"/&gt;
-        &lt;polygon points="50 91 64.36 83.82 64.36 58.96 50 60.86 50 91" fill="#759c3e"/&gt;
-        &lt;polygon points="64.36 36.49 50 33.62 50 9 64.36 16.18 64.36 36.49" fill="#759c3e"/&gt;
-        &lt;polygon points="75.34 57.52 64.36 58.98 64.36 36.49 75.34 38.68 75.34 57.52" fill="#759c3e"/&gt;
-      &lt;/g&gt;
-    &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="7">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="72.31 81.58 35.39 70.82 55.93 52.37 72.31 74.61 72.31 81.58" fill="#648339"/&gt;
-    &lt;polygon points="27.69 81.58 49.91 75.11 50 69.53 26.27 59.49 27.69 81.58" fill="#3c4929"/&gt;
-    &lt;polygon points="35.39 29.36 72.3 18.41 68.75 40.32 17.94 37.92 35.39 29.36" fill="#b7ca9d"/&gt;
-    &lt;polygon points="83.94 62.89 72.3 81.59 53.84 70.4 50 50 53.84 29.57 72.3 18.41 83.94 37.13 83.94 62.89" fill="#759c3e"/&gt;
-    &lt;polygon points="53.84 70.4 17.94 62.23 17.94 37.92 53.84 29.57 53.84 70.4" fill="#4b612c"/&gt;
-    &lt;polygon points="50 25.03 27.7 18.41 31.25 40.32 50 30.45 50 25.03" fill="#648339"/&gt;
-    &lt;polygon points="16.06 62.89 27.7 81.59 46.16 70.4 48.81 50 46.16 29.57 27.7 18.41 16.06 37.13 16.06 62.89" fill="#4b612c"/&gt;
-    &lt;polygon points="50 69.53 46.16 70.4 46.16 29.57 50 30.45 50 69.53" fill="#759c3e"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="8">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="15.9 54.82 21.09 54.61 25.68 55 20.26 74.7 15.9 54.82" fill="#b7ca9d"/&gt;
-    &lt;polygon points="35.59 70.38 50 74.7 61.69 44.31 50 8.84 35.59 16.04 35.59 70.38" fill="#4b612c"/&gt;
-    &lt;polygon points="64.41 70.38 50 74.7 50 8.84 64.41 16.04 64.41 70.38" fill="#759c3e"/&gt;
-    &lt;polygon points="74.32 64.58 79.74 65.32 79.74 55.26 74.32 55 74.32 64.58" fill="#4b612c"/&gt;
-    &lt;polygon points="25.68 64.58 20.26 65.32 20.26 55.26 25.68 55 25.68 64.58" fill="#759c3e"/&gt;
-    &lt;polygon points="49.42 64.17 25.68 60 20.26 60.52 48.44 80.56 49.42 64.17" fill="#b7ca9d"/&gt;
-    &lt;polygon points="79.74 55.26 84.1 54.82 84.1 74.11 79.74 71.03 79.74 55.26" fill="#759c3e"/&gt;
-    &lt;polygon points="84.1 54.82 78.91 54.61 74.32 55 79.74 55.26 84.1 54.82" fill="#b7ca9d"/&gt;
-    &lt;polygon points="15.9 59.65 50 66.47 50 91.16 15.9 74.11 15.9 59.65" fill="#4b612c"/&gt;
-    &lt;polygon points="20.26 55.26 15.9 54.82 15.9 74.11 20.26 72.44 20.26 55.26" fill="#4b612c"/&gt;
-    &lt;polygon points="50 64.3 50 86.63 79.74 60.52 74.33 60.01 50 64.3" fill="#b7ca9d"/&gt;
-    &lt;polygon points="60.2 57.21 50 56.42 39.8 57.21 50 91.16 60.2 57.21" fill="#b7ca9d"/&gt;
-    &lt;polygon points="84.1 59.65 50 66.47 50 91.16 84.1 74.11 84.1 59.65" fill="#759c3e"/&gt;
-    &lt;polygon points="60.2 85.27 50 90.37 50 58.23 60.2 57.21 60.2 85.27" fill="#759c3e"/&gt;
-    &lt;polygon points="39.8 81.56 50 91.16 50 58.23 39.8 57.21 39.8 81.56" fill="#4b612c"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="9">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;circle cx="50" cy="51.25" r="30.43" fill="#4b612c"/&gt;
-    &lt;circle cx="50" cy="48.75" r="30.43" fill="#759c3e"/&gt;
-    &lt;polygon points="72.38 36.09 27.63 36.09 45.45 53.91 45.45 72.5 54.55 63.25 54.55 53.91 72.38 36.09" fill="#fff"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="10">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="83.95 67.84 49.95 61.47 16.05 67.84 49.95 91 83.95 67.84" fill="#b7ca9d"/&gt;
-    &lt;polyline points="16.08 67.84 16.08 74.03 20.4 76.19 50.02 91 50.02 80.67" fill="#4b612c"/&gt;
-    &lt;polyline points="83.92 67.84 83.92 74.03 79.6 76.19 49.98 91 49.98 80.67" fill="#759c3e"/&gt;
-    &lt;polygon points="50.02 58.74 64.37 60.26 50.02 74.48 35.67 60.26 50.02 58.74" fill="#b7ca9d"/&gt;
-    &lt;polygon points="35.67 70.3 50.02 74.61 50.02 62.33 35.67 60.26 35.67 70.3" fill="#4b612c"/&gt;
-    &lt;polygon points="64.37 70.3 50.02 74.61 50.02 62.33 64.37 60.26 64.37 70.3" fill="#759c3e"/&gt;
-    &lt;polygon points="35.67 16.21 50.02 9 63.75 35.1 50.02 55.24 35.67 54.09 35.67 16.21" fill="#4b612c"/&gt;
-    &lt;polygon points="64.37 54.09 50.02 55.24 50.02 9 64.37 16.21 64.37 54.09" fill="#759c3e"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="11">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M79.2,77.37l-3.06,3.06a5,5,0,0,1-7.07,0L41.23,52.6a5,5,0,0,1,0-7.07l3.06-3.06a5,5,0,0,1,7.07,0L79.2,70.3l1.46,1.06v2.48A5,5,0,0,1,79.2,77.37Z" fill="#4b612c"/&gt;
-    &lt;path d="M45.22,20.59l-16.65,6.6L19.35,44.35v2.11a25.88,25.88,0,0,0,51.76,0v-2.7l-11.65-18Z" fill="#4b612c"/&gt;
-    &lt;rect x="53.04" y="34.29" width="14.33" height="49.36" rx="5" ry="5" transform="translate(-24.06 59.85) rotate(-45)" fill="#759c3e"/&gt;
-    &lt;circle cx="45.22" cy="43.98" r="25.88" transform="translate(-17.86 44.86) rotate(-45)" fill="#759c3e"/&gt;
-    &lt;path d="M45.22,64.2a20.21,20.21,0,1,1,14.3-5.91A20.16,20.16,0,0,1,45.22,64.2Zm0-36.43A16.21,16.21,0,1,0,56.7,32.51,16.17,16.17,0,0,0,45.22,27.77Z" fill="#fff"/&gt;
-    &lt;g&gt;
-      &lt;g&gt;
-        &lt;line x1="45.55" y1="49.59" x2="44.49" y2="54.99" fill="#fff"/&gt;
-        &lt;path d="M44.49,56l-.19,0a1,1,0,0,1-.79-1.17l1.06-5.4a1,1,0,0,1,2,.39l-1.06,5.4A1,1,0,0,1,44.49,56Z" fill="#fff"/&gt;
-      &lt;/g&gt;
-      &lt;g&gt;
-        &lt;line x1="51" y1="44.26" x2="56.41" y2="43.26" fill="#fff"/&gt;
-        &lt;path d="M51,45.26a1,1,0,0,1-.18-2l5.41-1a1,1,0,0,1,.36,2l-5.41,1Z" fill="#fff"/&gt;
-      &lt;/g&gt;
-      &lt;g&gt;
-        &lt;line x1="42.03" y1="46.93" x2="36.62" y2="47.92" fill="#fff"/&gt;
-        &lt;path d="M36.62,48.92a1,1,0,0,1-.18-2l5.41-1a1,1,0,0,1,.36,2l-5.41,1Z" fill="#fff"/&gt;
-      &lt;/g&gt;
-      &lt;g&gt;
-        &lt;line x1="48.45" y1="40.59" x2="49.51" y2="35.19" fill="#fff"/&gt;
-        &lt;path d="M48.45,41.59l-.19,0a1,1,0,0,1-.79-1.17L48.53,35a1,1,0,1,1,2,.39l-1.06,5.4A1,1,0,0,1,48.45,41.59Z" fill="#fff"/&gt;
-      &lt;/g&gt;
-      &lt;g&gt;
-        &lt;g&gt;
-          &lt;line x1="40.16" y1="41.74" x2="37.31" y2="38.85" fill="#fff"/&gt;
-          &lt;path d="M40.16,42.74a1,1,0,0,1-.71-.3l-2.85-2.89A1,1,0,1,1,38,38.15L40.87,41a1,1,0,0,1-.71,1.7Z" fill="#fff"/&gt;
-        &lt;/g&gt;
-        &lt;g&gt;
-          &lt;line x1="43.28" y1="38.65" x2="40.43" y2="35.76" fill="#fff"/&gt;
-          &lt;path d="M43.28,39.65a1,1,0,0,1-.71-.3l-2.85-2.89a1,1,0,1,1,1.42-1.4L44,37.95a1,1,0,0,1-.71,1.7Z" fill="#fff"/&gt;
-        &lt;/g&gt;
-      &lt;/g&gt;
-      &lt;g&gt;
-        &lt;path d="M41.19,47.6l.54.55c2.73,2.76,6.71,3.25,8.91,1.08s1.76-6.16-1-8.92c-.54-.55-.63-.48-.63-.48Z" fill="#fff"/&gt;
-        &lt;path d="M47.15,51.58A8.78,8.78,0,0,1,41,48.86l-.54-.55a1,1,0,0,1,0-1.41l7.85-7.76c.86-.72,1.69.13,2,.49,3.11,3.15,3.54,7.79,1,10.33A5.87,5.87,0,0,1,47.15,51.58Zm-4.54-4c2.32,2.23,5.57,2.65,7.33.91s1.38-5-.83-7.35Z" fill="#fff"/&gt;
-      &lt;/g&gt;
-      &lt;g&gt;
-        &lt;path d="M41.08,39.55c-1.42,1.4-1.33,3.89,0,6.11l6.08-6C45,38.27,42.5,38.15,41.08,39.55Z" fill="#fff"/&gt;
-        &lt;path d="M41.11,46.66H41a1,1,0,0,1-.73-.47c-1.65-2.7-1.6-5.65.12-7.34s4.67-1.71,7.35,0a1,1,0,0,1,.17,1.56l-6.08,6A1,1,0,0,1,41.11,46.66Zm2.6-7.1a2.69,2.69,0,0,0-1.93.7A3.49,3.49,0,0,0,41.4,44l4.11-4.05A5,5,0,0,0,43.71,39.56Z" fill="#fff"/&gt;
-      &lt;/g&gt;
-    &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="12">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+</ns2:Resource>
+      <ns2:Resource id="17">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M79.5,79.9h-59a3,3,0,0,1-3-3V31a3,3,0,0,1,3-3H79.6a3,3,0,0,1,3,3V77A3.08,3.08,0,0,1,79.5,79.9Z"/&gt;&lt;path class="cls-2" d="M79.5,75.9h-59a3,3,0,0,1-3-3V27a3,3,0,0,1,3-3H79.6a3,3,0,0,1,3,3V73A3.08,3.08,0,0,1,79.5,75.9Z"/&gt;&lt;rect class="cls-3" x="30.3" y="28.1" width="48.7" height="4.4"/&gt;&lt;circle class="cls-3" cx="23.8" cy="30.3" r="3.5"/&gt;&lt;rect class="cls-3" x="21" y="36.8" width="58" height="35.1"/&gt;&lt;polygon class="cls-2" points="55.5 58.1 55.3 58.7 54.8 60.1 53.5 59.5 52.9 59.2 52.6 59.7 51.7 60.9 50.6 60 50.1 59.6 49.7 60 48.5 60.9 47.7 59.7 47.4 59.2 46.8 59.5 45.5 60.1 45 58.7 44.8 58.1 43.8 58.3 43 58.3 43 69.3 50 63.4 57 69.3 57 58.3 56.3 58.3 55.5 58.1"/&gt;&lt;polygon class="cls-2" points="59.1 48.8 60.3 47.5 58.8 46.5 59.6 44.9 57.9 44.3 58.3 42.6 56.5 42.4 56.4 40.7 54.6 41 54.1 39.4 52.5 40.1 51.5 38.7 50.1 39.8 48.8 38.7 47.8 40.1 46.2 39.4 45.6 41 43.9 40.7 43.8 42.4 42 42.6 42.3 44.3 40.7 44.9 41.4 46.5 40 47.5 41.1 48.8 40 50.1 41.4 51.1 40.7 52.7 42.3 53.3 41.8 55 43.2 55.2 43.5 55.2 43.8 56.9 45.6 56.6 46.2 58.3 47.8 57.5 48.8 59 50.1 57.8 51.5 59 52.5 57.5 54.1 58.3 54.6 56.6 56.4 56.9 56.6 55.2 56.7 55.2 58.3 55 57.9 53.3 59.6 52.7 58.8 51.1 60.3 50.1 59.1 48.8"/&gt;&lt;polygon class="cls-3" points="48.4 49.8 45.9 47.1 43.1 49.9 43.1 49.9 48.3 55.1 57.1 46.3 55.1 44.2 48.4 49.8"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="18">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
   &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
   &lt;g&gt;
     &lt;polygon points="36.06 37.67 31.07 33.08 28.58 37.88 32.4 38.33 36.06 37.67" fill="#3c4929"/&gt;
@@ -588,8 +772,10 @@
     &lt;polygon points="39.84 21.26 50 17.2 52.14 18.06 55.41 19.36 60.16 21.26 54.78 22.94 50 21.26 45.22 22.94 39.84 21.26" fill="#3c4929"/&gt;
   &lt;/g&gt;
 &lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="13">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+</ns2:Resource>
+      <ns2:Resource id="19">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}.cls-3{fill:#b7ca9d;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M89.17,51.89a7,7,0,0,1-.83-1.25,27.92,27.92,0,0,1-2.66-8.05,33.72,33.72,0,0,0-16-22.28c-6-3.69-12.09-6.09-19.31-5.16-9.55,1.23-17.64,4.79-23.2,13.06a65.9,65.9,0,0,0-7.36,15c-1.71,4.82-1.5,10.1-3.67,14.79a21.24,21.24,0,0,1-1.59,2.69c-1.5,2.29-3.41,4.41-4.48,6.88-2.64,6.07-1.19,9.58,4.69,12.6.6.31,1.22.59,1.85.84,6.86,2.78,22.88,6.22,32.82,2.39a34,34,0,0,0,6.66-2.85C64,76.3,71.9,72,79.76,67.72a33.12,33.12,0,0,0,9.52-7.22C91.83,57.55,91.76,54.8,89.17,51.89Z"/&gt;&lt;path class="cls-2" d="M61.25,18.56a35,35,0,0,1,11.5,6.76c2.53,2,9.26,8.93,10.81,17.63.16,1.29.26,2.6.51,3.87a5.85,5.85,0,0,0,.85,1.54l.81,2s1.48,2.35,2.29,3.49c1,1.42,1.4,2.88.27,4.36-2.51,3.27-5.82,5.54-9.88,7.65l.41-4.27-2.66-.76c-1,2.28-.39,4,2.13,5.24-2.38,1.26-4.46,2.35-6.53,3.45-6.36,3.4-12.67,6.89-19.08,10.2a30.53,30.53,0,0,1-15.14,3.49,58.78,58.78,0,0,1-17.8-3.43c-2.6-.93-4.67-5-3.87-7.57a2.58,2.58,0,0,1,2.93-1.81c4.46.47,8.91,1,13.36,1.54,4.95.6,9.89,1.67,14.84,1.71,5.61,0,11-1.71,16.24-3.89-1.59.11-3.18.2-4.77.32-4.42.33-8.87.47-13.26,1.05-5.45.72-10.61-.47-15.79-1.76a16.51,16.51,0,0,1-10.09-6.87c-.93-1.39-1.5-3-.78-4.5.58.52,1.22,1.49,1.72,1.43s1.36-.94,1.63-1.63c.68-1.77,1.14-3.63,1.66-5.46a98.49,98.49,0,0,1,2.81-9.83c2.32-5.8,4.77-11.59,8.64-16.58a34.67,34.67,0,0,1,4.77-5.21c2.32-2,5.33-2.68,8.27-3,3.49-.33,7-.16,10.56-.19.2,0,.4.17.6.27Z"/&gt;&lt;path class="cls-3" d="M83.56,42.95a40.93,40.93,0,0,0-2.33-4.43,11.39,11.39,0,0,0-18.69.06c-2.92,4.09-4.28,8.76-5.06,13.64-.24,1.46-.41,2.94-.67,4.81a16.81,16.81,0,0,1-2.27-8.3c-.28-5.89.56-11.58,4.24-16.49,2.63-3.51,5.74-6.37,10.29-7a20.29,20.29,0,0,1,3.67.12c1.39,1.2,3.05,2.2,4.13,3.63a35.73,35.73,0,0,1,6.4,12A15.08,15.08,0,0,1,83.56,42.95Z"/&gt;&lt;path class="cls-3" d="M61.25,18.56c-5.07,1.41-8,5.16-10.42,9.48-3.46,6.23-6,12.77-5.86,20a30.1,30.1,0,0,0,2.57,12c.18.4.31.82.56,1.48a5,5,0,0,1-4.5-2.31A14.76,14.76,0,0,1,41,50.09c.21-9.33,2-18.26,8.1-25.77a39.76,39.76,0,0,1,4.37-4.47,7.84,7.84,0,0,1,5.76-2Z"/&gt;&lt;path class="cls-3" d="M85.73,50.38c0,2.3-1.59,3.51-3.13,4.74-7.72,6.17-16.71,9.44-26.3,11.21-4.25.79-8.53,1.48-12.82,2-5.23.63-10.12-1.19-15.06-2.48-2-.53-4-1.18-6.07-1.77,0-.22,0-.43.07-.65a16.21,16.21,0,0,1,2.7,0c4,.69,7.93,1.72,11.94,2.11a52.89,52.89,0,0,0,11.08,0A80.61,80.61,0,0,0,68.3,60.82,86.55,86.55,0,0,0,79.22,55.5c2.78-1.56,5.35-3.53,5.7-7.15Z"/&gt;&lt;path class="cls-3" d="M76.15,60.84c1.92-1.15,3.79-2.39,5.77-3.41a8.13,8.13,0,0,1,2.67-.36l.19.47-6,4.06Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="20">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#34bbc9;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M50.11,63.62a4.06,4.06,0,0,1-3.5-2l-2.27-3.93-3.17,5.1a1.92,1.92,0,0,1-1.58.87,1.94,1.94,0,0,1-1.7-1.08L32.23,52.36a.64.64,0,0,0-.53-.31h-.08a.91.91,0,0,0-.4.22l-12.65,11a1.59,1.59,0,0,1-2.1,0,1.61,1.61,0,0,1-.34-1.88l0,0L29.82,37.62a2.61,2.61,0,0,1,4.43,0L44.38,55.14l5.62-9a5.66,5.66,0,0,1,4.84-2.77,5.73,5.73,0,0,1,3.32,1.09l2.7,2,5-8.72a2.76,2.76,0,0,1,2.28-1.34,2.7,2.7,0,0,1,2.33,1.43l13.3,23A1.86,1.86,0,0,1,83.59,63a1.9,1.9,0,0,1-2.51.32l0,0L61.25,48.35,53.6,61.6A4.06,4.06,0,0,1,50.11,63.62Zm-32.83-1.7a.33.33,0,0,0,.07.34.28.28,0,0,0,.38,0l12.65-11a1.9,1.9,0,0,1,3,.45L39,61.94l0,.1a.7.7,0,0,0,.52.29.63.63,0,0,0,.49-.27l3.53-5.68L33.14,38.26a1.32,1.32,0,0,0-2.22,0Zm27.83-5.51L47.74,61a2.74,2.74,0,0,0,4.74,0l7.74-13.4-2.84-2.13a4.48,4.48,0,0,0-2.53-.82,4.4,4.4,0,0,0-3.73,2.12ZM81.78,62.2a.6.6,0,0,0,.83-.08.59.59,0,0,0,.07-.64L69.36,38.41a1.43,1.43,0,0,0-1.19-.74,1.46,1.46,0,0,0-1.16.69l-5.12,8.86Z"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="21">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
   &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
   &lt;g&gt;
     &lt;path d="M67.38,22.09a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V25.05a3,3,0,0,1,3-3H67.38Z" fill="#759c3e"/&gt;
@@ -606,126 +792,17 @@
     &lt;rect x="49.5" y="30.65" width="3" height="11.56" fill="#4f4f4f"/&gt;
   &lt;/g&gt;
 &lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="14">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;circle cx="34.1" cy="51.24" r="2.81" fill="#4b612c"/&gt;
-    &lt;rect x="31.29" y="48.76" width="5.62" height="2.48" fill="#4b612c"/&gt;
-    &lt;path d="M23,37.48v28H77v-28ZM69.33,55.81H48.55a10.76,10.76,0,1,1,0-9.15h6.36l1.13,2,4.21-.39,1.62,1.66,1.48.32,3.84-2.3L72,51.58Z" fill="#4b612c"/&gt;
-    &lt;circle cx="34.1" cy="48.76" r="2.81" fill="#759c3e"/&gt;
-    &lt;path d="M23,35V63H77V35ZM69.33,53.33H48.55a10.76,10.76,0,1,1,0-9.15h6.36l1.13,2,4.21-.39,1.62,1.66,1.48.32,3.84-2.3L72,49.1Z" fill="#759c3e"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="15">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;g&gt;
-      &lt;circle cx="50" cy="50" r="26.5" fill="#d2d3d3"/&gt;
-      &lt;path d="M50,77.5A27.5,27.5,0,1,1,77.5,50,27.53,27.53,0,0,1,50,77.5Zm0-53A25.5,25.5,0,1,0,75.5,50,25.53,25.53,0,0,0,50,24.5Z" fill="#7d7c7c"/&gt;
-    &lt;/g&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M31.65,43.14h2.41l4.17,11.12,4.19-11.12h2.41V56.38H43.16v-11h0L39,56.38h-1.5l-4.13-11h0v11H31.65Z" fill="#373737"/&gt;
-    &lt;/g&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M47.06,43.14h8.69v1.48H48.82v4.21H54.9v1.48H48.82v6.06H47.06Z" fill="#373737"/&gt;
-    &lt;/g&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M61,43.14h1.95l5.17,13.24H66.14l-1.45-4h-5.6l-1.48,4H55.79Zm-1.32,7.77h4.49l-2.21-6.17h0Z" fill="#373737"/&gt;
-    &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="16">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;circle cx="38.81" cy="51.24" r="10.76" fill="#4b612c"/&gt;
-    &lt;polygon points="42.45 46.67 54.91 46.67 56.03 48.63 60.24 48.23 61.86 49.89 63.34 50.22 71.95 49.1 71.95 51.58 69.33 55.81 42.45 55.81 42.45 46.67" fill="#4b612c"/&gt;
-    &lt;rect x="28.05" y="48.76" width="10.36" height="2.81" fill="#4b612c"/&gt;
-    &lt;circle cx="38.81" cy="48.76" r="10.76" fill="#759c3e"/&gt;
-    &lt;circle cx="34.1" cy="48.76" r="2.81" fill="#fff"/&gt;
-    &lt;polygon points="42.45 44.19 54.91 44.19 56.03 46.15 60.24 45.76 61.86 47.41 63.34 47.74 67.18 45.44 71.95 49.1 69.33 53.33 42.45 53.33 42.45 44.19" fill="#759c3e"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="17">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M67.38,23.33a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V26.29a3,3,0,0,1,3-3H67.38Z" fill="#d2d3d3"/&gt;
-    &lt;path d="M63.25,59.75V53.61a8.16,8.16,0,0,0-16.2,0v6.14H42.85V73.36H67.32V59.75Zm-4,0H51l0-6.14a3.81,3.81,0,0,1,4.17-3.75,4,4,0,0,1,4.17,3.75Z" fill="#373737"/&gt;
-    &lt;path d="M40.71,25.59a8.34,8.34,0,1,0,8.34,8.34A8.34,8.34,0,0,0,40.71,25.59Zm0,6.87a2.18,2.18,0,1,1,2.18-2.18A2.18,2.18,0,0,1,40.71,32.46Z" fill="#7d7c7c"/&gt;
-    &lt;polygon points="44.25 36.75 44.25 46.41 42.73 47.28 43.04 50.54 41.75 51.8 41.5 52.94 43.28 55.92 40.45 59.62 37.16 57.58 37.16 36.75 44.25 36.75" fill="#7d7c7c"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="18">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g id="_Group_" data-name="&amp;lt;Group&amp;gt;"&gt;
-    &lt;polygon points="69 74.5 31 74.5 31 25.5 57.51 25.5 69 37.87 69 74.5" fill="#d2d3d3"/&gt;
-    &lt;path d="M58.16,53.53V47.38a8.16,8.16,0,0,0-16.2,0v6.14H37.77V67.14H62.23V53.53Zm-4,0H45.86l0-6.14a3.81,3.81,0,0,1,4.17-3.75,4,4,0,0,1,4.17,3.75Z" fill="#373737"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="19">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;rect x="23.5" y="31.28" width="53" height="39.92" rx="6.21" ry="6.21" fill="#7d7c7c"/&gt;
-    &lt;rect x="23.5" y="28.8" width="53" height="39.92" rx="6.21" ry="6.21" fill="#fff"/&gt;
-    &lt;circle cx="63.25" cy="41.52" r="9.53" fill="#759c3e"/&gt;
-    &lt;circle cx="67.42" cy="41.52" r="2.49" fill="#fff"/&gt;
-    &lt;polygon points="60.02 45.57 49 45.57 48 43.84 44.27 44.19 42.84 42.72 41.53 42.43 38.13 44.47 33.91 41.22 36.23 37.48 60.02 37.48 60.02 45.57" fill="#759c3e"/&gt;
-    &lt;circle cx="36.75" cy="56.19" r="9.53" fill="#7d7c7c"/&gt;
-    &lt;circle cx="32.58" cy="56.19" r="2.49" fill="#fff"/&gt;
-    &lt;polygon points="39.98 52.14 51 52.14 52 53.88 55.73 53.53 57.16 54.99 58.47 55.28 61.87 53.24 66.09 56.49 63.77 60.24 39.98 60.24 39.98 52.14" fill="#7d7c7c"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="20">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M67.38,24.57a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V27.53a3,3,0,0,1,3-3H67.38Z" fill="#7d7c7c"/&gt;
-    &lt;path d="M67.38,22.09a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V25.05a3,3,0,0,1,3-3H67.38Z" fill="#d2d3d3"/&gt;
-    &lt;polygon points="38.39 33.67 35.6 30.64 32.51 33.72 32.51 33.72 38.33 39.54 48.16 29.71 45.92 27.43 38.39 33.67" fill="#759c3e"/&gt;
-    &lt;polygon points="38.39 47.62 35.6 44.58 32.51 47.67 32.51 47.67 38.33 53.49 48.16 43.66 45.92 41.37 38.39 47.62" fill="#759c3e"/&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M38.72,61.57l-6-5.4h2.92l4.56,4.34,4.77-4.34h2.72l-6,5.4L48,67.28h-3l-4.92-4.59-5.07,4.59H32.34Z" fill="#e05243"/&gt;
-    &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="21">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M89.17,51.89a7,7,0,0,1-.83-1.25,27.92,27.92,0,0,1-2.66-8.05,33.72,33.72,0,0,0-16-22.28c-6-3.69-12.09-6.09-19.31-5.16-9.55,1.23-17.64,4.79-23.2,13.06a65.9,65.9,0,0,0-7.36,15c-1.71,4.82-1.5,10.1-3.67,14.79a21.24,21.24,0,0,1-1.59,2.69c-1.5,2.29-3.41,4.41-4.48,6.88-2.64,6.07-1.19,9.58,4.69,12.6.6.31,1.22.59,1.85.84,6.86,2.78,22.88,6.22,32.82,2.39a34,34,0,0,0,6.66-2.85C64,76.3,71.9,72,79.76,67.72a33.12,33.12,0,0,0,9.52-7.22C91.83,57.55,91.76,54.8,89.17,51.89Z" fill="#4b612c"/&gt;
-    &lt;path d="M61.25,18.56a35,35,0,0,1,11.5,6.76c2.53,2,9.26,8.93,10.81,17.63.16,1.29.26,2.6.51,3.87a5.85,5.85,0,0,0,.85,1.54l.81,2s1.48,2.35,2.29,3.49c1,1.42,1.4,2.88.27,4.36-2.51,3.27-5.82,5.54-9.88,7.65l.41-4.27-2.66-.76c-1,2.28-.39,4,2.13,5.24-2.38,1.26-4.46,2.35-6.53,3.45-6.36,3.4-12.67,6.89-19.08,10.2a30.53,30.53,0,0,1-15.14,3.49,58.78,58.78,0,0,1-17.8-3.43c-2.6-.93-4.67-5-3.87-7.57a2.58,2.58,0,0,1,2.93-1.81c4.46.47,8.91,1,13.36,1.54,4.95.6,9.89,1.67,14.84,1.71,5.61,0,11-1.71,16.24-3.89-1.59.11-3.18.2-4.77.32-4.42.33-8.87.47-13.26,1.05-5.45.72-10.61-.47-15.79-1.76a16.51,16.51,0,0,1-10.09-6.87c-.93-1.39-1.5-3-.78-4.5.58.52,1.22,1.49,1.72,1.43s1.36-.94,1.63-1.63c.68-1.77,1.14-3.63,1.66-5.46a98.49,98.49,0,0,1,2.81-9.83c2.32-5.8,4.77-11.59,8.64-16.58a34.67,34.67,0,0,1,4.77-5.21c2.32-2,5.33-2.68,8.27-3,3.49-.33,7-.16,10.56-.19.2,0,.4.17.6.27Z" fill="#759c3e"/&gt;
-    &lt;path d="M83.56,42.95a40.93,40.93,0,0,0-2.33-4.43,11.39,11.39,0,0,0-18.69.06c-2.92,4.09-4.28,8.76-5.06,13.64-.24,1.46-.41,2.94-.67,4.81a16.81,16.81,0,0,1-2.27-8.3c-.28-5.89.56-11.58,4.24-16.49,2.63-3.51,5.74-6.37,10.29-7a20.29,20.29,0,0,1,3.67.12c1.39,1.2,3.05,2.2,4.13,3.63a35.73,35.73,0,0,1,6.4,12A15.08,15.08,0,0,1,83.56,42.95Z" fill="#b7ca9d"/&gt;
-    &lt;path d="M61.25,18.56c-5.07,1.41-8,5.16-10.42,9.48-3.46,6.23-6,12.77-5.86,20a30.1,30.1,0,0,0,2.57,12c.18.4.31.82.56,1.48a5,5,0,0,1-4.5-2.31A14.76,14.76,0,0,1,41,50.09c.21-9.33,2-18.26,8.1-25.77a39.76,39.76,0,0,1,4.37-4.47,7.84,7.84,0,0,1,5.76-2Z" fill="#b7ca9d"/&gt;
-    &lt;path d="M85.73,50.38c0,2.3-1.59,3.51-3.13,4.74-7.72,6.17-16.71,9.44-26.3,11.21-4.25.79-8.53,1.48-12.82,2-5.23.63-10.12-1.19-15.06-2.48-2-.53-4-1.18-6.07-1.77,0-.22,0-.43.07-.65a16.21,16.21,0,0,1,2.7,0c4,.69,7.93,1.72,11.94,2.11a52.89,52.89,0,0,0,11.08,0A80.61,80.61,0,0,0,68.3,60.82,86.55,86.55,0,0,0,79.22,55.5c2.78-1.56,5.35-3.53,5.7-7.15Z" fill="#b7ca9d"/&gt;
-    &lt;path d="M76.15,60.84c1.92-1.15,3.79-2.39,5.77-3.41a8.13,8.13,0,0,1,2.67-.36l.19.47-6,4.06Z" fill="#b7ca9d"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="22">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;
-  &lt;g&gt;
-    &lt;rect x="20.15" y="25.76" width="53" height="39.92" rx="6.21" ry="6.21" fill="#7d7c7c"/&gt;
-    &lt;rect x="20.15" y="23.28" width="53" height="39.92" rx="6.21" ry="6.21" fill="#fff"/&gt;
-    &lt;circle cx="59.9" cy="36" r="9.53" fill="#759c3e"/&gt;
-    &lt;circle cx="64.07" cy="36" r="2.49" fill="#fff"/&gt;
-    &lt;polygon points="56.67 40.05 45.65 40.05 44.65 38.31 40.92 38.66 39.49 37.19 38.18 36.91 34.78 38.94 30.56 35.7 32.88 31.95 56.67 31.95 56.67 40.05" fill="#759c3e"/&gt;
-    &lt;circle cx="33.4" cy="50.66" r="9.53" fill="#7d7c7c"/&gt;
-    &lt;circle cx="29.23" cy="50.66" r="2.49" fill="#fff"/&gt;
-    &lt;polygon points="36.63 46.61 47.65 46.61 48.65 48.35 52.38 48 53.81 49.47 55.12 49.75 58.52 47.72 62.74 50.96 60.42 54.71 36.63 54.71 36.63 46.61" fill="#7d7c7c"/&gt;
-    &lt;g&gt;
-      &lt;circle cx="65.35" cy="62.22" r="13" fill="#fff"/&gt;
-      &lt;path d="M65.35,76.72a14.5,14.5,0,1,1,14.5-14.5A14.52,14.52,0,0,1,65.35,76.72Zm0-26a11.5,11.5,0,1,0,11.5,11.5A11.51,11.51,0,0,0,65.35,50.72Z" fill="#4f4f4f"/&gt;
-    &lt;/g&gt;
-    &lt;rect x="59.34" y="61.72" width="7.01" height="3" fill="#4f4f4f"/&gt;
-    &lt;rect x="64.85" y="53.16" width="3" height="11.56" fill="#4f4f4f"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-    </y:Resources>
-  </data>
-</graphml>
+</ns2:Resource>
+      <ns2:Resource id="22">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#d2d3d3;}.cls-2{fill:#7d7c7c;}.cls-3{isolation:isolate;}.cls-4{fill:#373737;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;circle class="cls-1" cx="50" cy="50" r="26.5"/&gt;&lt;path class="cls-2" d="M50,77.5A27.5,27.5,0,1,1,77.5,50,27.53,27.53,0,0,1,50,77.5Zm0-53A25.5,25.5,0,1,0,75.5,50,25.53,25.53,0,0,0,50,24.5Z"/&gt;&lt;g class="cls-3"&gt;&lt;path class="cls-4" d="M31.65,43.14h2.41l4.17,11.12,4.19-11.12h2.41V56.38H43.16v-11h0L39,56.38h-1.5l-4.13-11h0v11H31.65Z"/&gt;&lt;/g&gt;&lt;g class="cls-3"&gt;&lt;path class="cls-4" d="M47.06,43.14h8.69v1.48H48.82v4.21H54.9v1.48H48.82v6.06H47.06Z"/&gt;&lt;/g&gt;&lt;g class="cls-3"&gt;&lt;path class="cls-4" d="M61,43.14h1.95l5.17,13.24H66.14l-1.45-4h-5.6l-1.48,4H55.79Zm-1.32,7.77h4.49l-2.21-6.17h0Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="23">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#648339;}.cls-2{fill:#3c4929;}.cls-3{fill:#b7ca9d;}.cls-4{fill:#759c3e;}.cls-5{fill:#4b612c;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="72.31 81.58 35.39 70.82 55.93 52.37 72.31 74.61 72.31 81.58"/&gt;&lt;polygon class="cls-2" points="27.69 81.58 49.91 75.11 50 69.53 26.27 59.49 27.69 81.58"/&gt;&lt;polygon class="cls-3" points="35.39 29.36 72.3 18.41 68.75 40.32 17.94 37.92 35.39 29.36"/&gt;&lt;polygon class="cls-4" points="83.94 62.89 72.3 81.59 53.84 70.4 50 50 53.84 29.57 72.3 18.41 83.94 37.13 83.94 62.89"/&gt;&lt;polygon class="cls-5" points="53.84 70.4 17.94 62.23 17.94 37.92 53.84 29.57 53.84 70.4"/&gt;&lt;polygon class="cls-1" points="50 25.03 27.7 18.41 31.25 40.32 50 30.45 50 25.03"/&gt;&lt;polygon class="cls-5" points="16.06 62.89 27.7 81.59 46.16 70.4 48.81 50 46.16 29.57 27.7 18.41 16.06 37.13 16.06 62.89"/&gt;&lt;polygon class="cls-4" points="50 69.53 46.16 70.4 46.16 29.57 50 30.45 50 69.53"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="24">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;circle class="cls-1" cx="38.81" cy="51.24" r="10.76"/&gt;&lt;polygon class="cls-1" points="42.45 46.67 54.91 46.67 56.03 48.63 60.24 48.23 61.86 49.89 63.34 50.22 71.95 49.1 71.95 51.58 69.33 55.81 42.45 55.81 42.45 46.67"/&gt;&lt;rect class="cls-1" x="28.05" y="48.76" width="10.36" height="2.81"/&gt;&lt;circle class="cls-2" cx="38.81" cy="48.76" r="10.76"/&gt;&lt;circle class="cls-3" cx="34.1" cy="48.76" r="2.81"/&gt;&lt;polygon class="cls-2" points="42.45 44.19 54.91 44.19 56.03 46.15 60.24 45.76 61.86 47.41 63.34 47.74 67.18 45.44 71.95 49.1 69.33 53.33 42.45 53.33 42.45 44.19"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="25">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="22.92 72.36 16.04 74.03 16.04 25.97 22.92 22.54 33.3 37.86 22.92 72.36"/&gt;&lt;polygon class="cls-2" points="31.79 37.64 22.92 36.55 22.92 22.54 31.79 24.77 31.79 37.64"/&gt;&lt;polygon class="cls-1" points="68.09 35.57 82.4 37.64 77.06 22.54 68.09 24.8 68.09 35.57"/&gt;&lt;polygon class="cls-1" points="35.65 72.78 49.99 91 59.2 32.74 49.99 9 35.65 16.17 35.65 72.78"/&gt;&lt;polygon class="cls-1" points="16.04 74.03 49.99 91 61.04 58.36 49.99 25.73 16.04 35.78 16.04 74.03"/&gt;&lt;polygon class="cls-1" points="56.23 37.86 82.4 47.17 77.06 77.46 64.6 74.33 56.23 37.86"/&gt;&lt;polygon class="cls-2" points="64.6 83.7 49.99 91 49.99 9 64.6 16.3 64.6 83.7"/&gt;&lt;polygon class="cls-2" points="77.06 77.46 83.96 74.02 83.96 25.98 77.06 22.54 77.06 77.46"/&gt;&lt;polygon class="cls-2" points="83.96 50 49.99 50 49.99 25.73 83.96 35.78 83.96 50"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="26">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#b7ca9d;}.cls-2{fill:#4b612c;}.cls-3{fill:#759c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="83.95 67.84 49.95 61.47 16.05 67.84 49.95 91 83.95 67.84"/&gt;&lt;polyline class="cls-2" points="16.08 67.84 16.08 74.03 20.4 76.19 50.02 91 50.02 80.67"/&gt;&lt;polyline class="cls-3" points="83.92 67.84 83.92 74.03 79.6 76.19 49.98 91 49.98 80.67"/&gt;&lt;polygon class="cls-1" points="50.02 58.74 64.37 60.26 50.02 74.48 35.67 60.26 50.02 58.74"/&gt;&lt;polygon class="cls-2" points="35.67 70.3 50.02 74.61 50.02 62.33 35.67 60.26 35.67 70.3"/&gt;&lt;polygon class="cls-3" points="64.37 70.3 50.02 74.61 50.02 62.33 64.37 60.26 64.37 70.3"/&gt;&lt;polygon class="cls-2" points="35.67 16.21 50.02 9 63.75 35.1 50.02 55.24 35.67 54.09 35.67 16.21"/&gt;&lt;polygon class="cls-3" points="64.37 54.09 50.02 55.24 50.02 9 64.37 16.21 64.37 54.09"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="27">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#d2d3d3;}.cls-2{fill:#373737;}.cls-3{fill:#7d7c7c;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M67.38,23.33a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V26.29a3,3,0,0,1,3-3H67.38Z"/&gt;&lt;path class="cls-2" d="M63.25,59.75V53.61a8.16,8.16,0,0,0-16.2,0v6.14H42.85V73.36H67.32V59.75Zm-4,0H51l0-6.14a3.81,3.81,0,0,1,4.17-3.75,4,4,0,0,1,4.17,3.75Z"/&gt;&lt;path class="cls-3" d="M40.71,25.59a8.34,8.34,0,1,0,8.34,8.34A8.34,8.34,0,0,0,40.71,25.59Zm0,6.87a2.18,2.18,0,1,1,2.18-2.18A2.18,2.18,0,0,1,40.71,32.46Z"/&gt;&lt;polygon class="cls-3" points="44.25 36.75 44.25 46.41 42.73 47.28 43.04 50.54 41.75 51.8 41.5 52.94 43.28 55.92 40.45 59.62 37.16 57.58 37.16 36.75 44.25 36.75"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="28">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#759c3e;}.cls-2{isolation:isolate;}.cls-3{fill:#fff;}.cls-4{fill:#4f4f4f;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;path class="cls-1" d="M67.38,22.09a3,3,0,0,1,3,3v47.4a3,3,0,0,1-3,3H32.62a3,3,0,0,1-3-3V25.05a3,3,0,0,1,3-3H67.38Z"/&gt;&lt;g class="cls-2"&gt;&lt;path class="cls-3" d="M44.16,63.91A2.05,2.05,0,0,0,41.84,62c-1.05,0-2.1.38-2.1,1.6s1.5,1.33,3,1.67,3,.87,3,2.71c0,2-2,2.8-3.67,2.8-2.1,0-3.88-1-3.88-3.31h1.18c0,1.58,1.31,2.26,2.73,2.26,1.13,0,2.38-.35,2.38-1.71s-1.5-1.51-3-1.84-3-.76-3-2.48c0-1.9,1.69-2.75,3.4-2.75,1.92,0,3.38.91,3.46,3Z"/&gt;&lt;path class="cls-3" d="M49.38,62.22H46.25V61.17h7.5v1.05H50.63v8.33H49.38Z"/&gt;&lt;path class="cls-3" d="M60.22,63.91A2.05,2.05,0,0,0,57.9,62c-1.05,0-2.1.38-2.1,1.6s1.5,1.33,3,1.67,3,.87,3,2.71c0,2-2,2.8-3.67,2.8-2.1,0-3.88-1-3.88-3.31h1.18c0,1.58,1.31,2.26,2.73,2.26,1.13,0,2.38-.35,2.38-1.71s-1.5-1.51-3-1.84-3-.76-3-2.48c0-1.9,1.69-2.75,3.4-2.75,1.92,0,3.38.91,3.46,3Z"/&gt;&lt;/g&gt;&lt;circle class="cls-3" cx="50" cy="39.71" r="13"/&gt;&lt;path class="cls-4" d="M50,54.21a14.5,14.5,0,1,1,14.5-14.5A14.52,14.52,0,0,1,50,54.21Zm0-26a11.5,11.5,0,1,0,11.5,11.5A11.51,11.51,0,0,0,50,28.21Z"/&gt;&lt;rect class="cls-4" x="43.99" y="39.21" width="7.01" height="3"/&gt;&lt;rect class="cls-4" x="49.5" y="30.65" width="3" height="11.56"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="29">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#759c3e;}.cls-3{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;circle class="cls-1" cx="50" cy="51.25" r="30.43"/&gt;&lt;circle class="cls-2" cx="50" cy="48.75" r="30.43"/&gt;&lt;polygon class="cls-3" points="72.38 36.09 27.63 36.09 45.45 53.91 45.45 72.5 54.55 63.25 54.55 53.91 72.38 36.09"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="30">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#4b612c;}.cls-2{fill:#b7ca9d;}.cls-3{fill:#3c4929;}.cls-4{fill:#759c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="64.36 54.59 75.34 57.52 75.34 78.33 64.36 75.43 54.34 63.24 64.36 54.59"/&gt;&lt;polygon class="cls-1" points="16.04 74.02 24.66 78.33 36.71 56.38 16.04 56.38 16.04 74.02"/&gt;&lt;polygon class="cls-1" points="50 91 35.64 83.82 35.64 58.96 58.54 56.38 50 91"/&gt;&lt;polygon class="cls-2" points="16.04 56.38 50 60.88 83.96 56.38 50 54.51 16.04 56.38"/&gt;&lt;polygon class="cls-3" points="64.36 36.49 50 52.75 35.63 36.49 50 14.55 64.36 36.49"/&gt;&lt;polygon class="cls-1" points="50 57.63 64.36 58.96 72.49 47.73 64.36 36.49 50 38.5 40.7 47.73 50 57.63"/&gt;&lt;polygon class="cls-1" points="24.66 57.52 30.15 68.79 35.64 58.98 45.56 47.73 35.64 36.49 24.66 38.68 24.66 57.52"/&gt;&lt;polygon class="cls-1" points="35.63 16.18 50 9 62.1 24.52 50 33.62 35.63 36.49 35.63 16.18"/&gt;&lt;polygon class="cls-4" points="35.64 58.98 24.66 57.52 24.66 78.33 35.64 75.43 35.64 58.98"/&gt;&lt;polygon class="cls-4" points="50 57.63 35.64 58.96 35.64 36.49 50 38.5 50 57.63"/&gt;&lt;polygon class="cls-4" points="83.96 74.02 75.34 78.33 75.34 57.52 83.96 56.38 83.96 74.02"/&gt;&lt;polygon class="cls-4" points="50 91 64.36 83.82 64.36 58.96 50 60.86 50 91"/&gt;&lt;polygon class="cls-4" points="64.36 36.49 50 33.62 50 9 64.36 16.18 64.36 36.49"/&gt;&lt;polygon class="cls-4" points="75.34 57.52 64.36 58.98 64.36 36.49 75.34 38.68 75.34 57.52"/&gt;&lt;/svg&gt;</ns2:Resource>
+      <ns2:Resource id="31">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#b7ca9d;}.cls-2{fill:#4b612c;}.cls-3{fill:#759c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;SecurityIdentityCompliance&lt;/title&gt;&lt;polygon class="cls-1" points="15.9 54.82 21.09 54.61 25.68 55 20.26 74.7 15.9 54.82"/&gt;&lt;polygon class="cls-2" points="35.59 70.38 50 74.7 61.69 44.31 50 8.84 35.59 16.04 35.59 70.38"/&gt;&lt;polygon class="cls-3" points="64.41 70.38 50 74.7 50 8.84 64.41 16.04 64.41 70.38"/&gt;&lt;polygon class="cls-2" points="74.32 64.58 79.74 65.32 79.74 55.26 74.32 55 74.32 64.58"/&gt;&lt;polygon class="cls-3" points="25.68 64.58 20.26 65.32 20.26 55.26 25.68 55 25.68 64.58"/&gt;&lt;polygon class="cls-1" points="49.42 64.17 25.68 60 20.26 60.52 48.44 80.56 49.42 64.17"/&gt;&lt;polygon class="cls-3" points="79.74 55.26 84.1 54.82 84.1 74.11 79.74 71.03 79.74 55.26"/&gt;&lt;polygon class="cls-1" points="84.1 54.82 78.91 54.61 74.32 55 79.74 55.26 84.1 54.82"/&gt;&lt;polygon class="cls-2" points="15.9 59.65 50 66.47 50 91.16 15.9 74.11 15.9 59.65"/&gt;&lt;polygon class="cls-2" points="20.26 55.26 15.9 54.82 15.9 74.11 20.26 72.44 20.26 55.26"/&gt;&lt;polygon class="cls-1" points="50 64.3 50 86.63 79.74 60.52 74.33 60.01 50 64.3"/&gt;&lt;polygon class="cls-1" points="60.2 57.21 50 56.42 39.8 57.21 50 91.16 60.2 57.21"/&gt;&lt;polygon class="cls-3" points="84.1 59.65 50 66.47 50 91.16 84.1 74.11 84.1 59.65"/&gt;&lt;polygon class="cls-3" points="60.2 85.27 50 90.37 50 58.23 60.2 57.21 60.2 85.27"/&gt;&lt;polygon class="cls-2" points="39.8 81.56 50 91.16 50 58.23 39.8 57.21 39.8 81.56"/&gt;&lt;/svg&gt;</ns2:Resource>
+    </ns2:Resources>
+  </ns0:data>
+</ns0:graphml>
