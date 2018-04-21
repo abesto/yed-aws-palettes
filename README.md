@@ -1,8 +1,8 @@
-# Looking for Maintainer
+# Moved
 
-I haven't been using yED for architecture diagrams for a while, and this project has suffered as a result – there's currently at least one bug report that I probably won't get around to investigating. This project is now “officially” unsupported, and is looking for a new, loving maintainer.
+This project is now being maintained by [JustDerb](https://github.com/JustDerb/) at [JustDerb/yed-aws-palettes](https://github.com/JustDerb/yed-aws-palettes).
 
-# README proper
+---
 
 ![Screenshot](screenshot.png)
 
